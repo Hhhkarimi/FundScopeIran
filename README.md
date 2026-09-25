@@ -19,7 +19,7 @@
 - ذخیره Snapshot ساعتی و تاریخچه روزانه در فایل‌های versioned داخل Git، بدون دیتابیس
 - CSV قابل دانلود از `/api/funds.csv`
 - بک‌فیل NAV، AUM و قیمت تاریخی ETFها با `npm run backfill`
-- GitHub Actions برای Refresh ساعتی بدون وابستگی به Cron پلن Vercel
+- GitHub Actions برای crawl روزانه پس از پایان بازار، بدون وابستگی به Cron پلن Vercel
 - API health و refresh امن
 - SEO: metadata، canonical، sitemap، robots، JSON-LD Dataset/FinancialProduct
 - GEO/AEO: صفحه روش‌شناسی، تعریف فرمول‌ها، `llms.txt` و صفحات پایدار برای هر صندوق
@@ -27,14 +27,14 @@
 ## معماری داده
 
 ```text
-Fipiran funds/NAV ───┐
-                     ├──> normalize/merge ──> quality gate ──> Git-backed files ──> Next.js
-TSETMC funds/market ─┘                              │
+Fundbase / Investats public pages ─┐
+                                   ├──> normalize/merge ──> quality gate ──> Git-backed files ──> Next.js
+Fipiran / TSETMC direct adapters ───┘                              │
                                                    ├── latest JSON/CSV + manifest
                                                    └── hourly + daily historical partitions
 ```
 
-`Fipiran` منبع اول NAV و اطلاعات صندوق است. اگر این منبع از runner گیت‌هاب در دسترس نباشد، universe واقعی صندوق‌ها از endpoint صندوق‌های `TSETMC` خوانده می‌شود؛ داده ساختگی به‌عنوان fallback وارد مسیر تولید نمی‌شود. قیمت، معاملات و تاریخچه ETF از TSETMC تکمیل می‌شود. هر snapshot پیش از جایگزینی از quality gate عبور می‌کند؛ پاسخ کم‌تعداد، شناسه‌های مصنوعی، رکورد تکراری، مقدار ناممکن یا افت ناگهانی تعداد صندوق‌ها رد می‌شود و snapshot سالم قبلی باقی می‌ماند.
+منبع فعال روی GitHub-hosted runner صفحات عمومی `Fundbase` است که قیمت، NAV، معاملات و AUM را با انتساب به Investats و منابع بازار نمایش می‌دهد. crawler فقط دادهٔ قابل مشاهده و JSON-LD عمومی را می‌خواند و از کلید خصوصی یا API پولی استفاده نمی‌کند. adapterهای مستقیم Fipiran و TSETMC نیز برای اجرای دستی یا runner داخل ایران حفظ شده‌اند. هر snapshot پیش از جایگزینی از quality gate عبور می‌کند؛ پاسخ کم‌تعداد، شناسه‌های مصنوعی، رکورد تکراری، مقدار ناممکن یا افت ناگهانی تعداد صندوق‌ها رد می‌شود و snapshot سالم قبلی باقی می‌ماند.
 
 ## 1) نصب محلی
 
@@ -59,13 +59,13 @@ npm run dev
 
 ## 2) اولین Scrape واقعی
 
-برای crawl، اعتبارسنجی و ذخیره فایل‌های آخرین snapshot:
+برای crawl عمومی Fundbase، اعتبارسنجی و ذخیره فایل‌های آخرین snapshot (نیازمند Chrome):
 
 ```bash
-npm run refresh
+CHROME_PATH=/path/to/google-chrome npm run crawl:fundbase
 ```
 
-دستور معادل برای ساخت خروجی:
+adapter مستقیم Fipiran/TSETMC نیز با دستور زیر قابل اجراست:
 
 ```bash
 npm run scrape:csv
@@ -97,9 +97,9 @@ Workflow آماده است:
 .github/workflows/hourly-refresh.yml
 ```
 
-Workflow هر ساعت در دقیقه ۷ بدون دیتابیس اجرا می‌شود، فایل‌های `data/funds-latest.csv` و `data/funds-latest.json` را به‌روزرسانی و در ریپو commit می‌کند. اجرای دستی نیز با `workflow_dispatch` ممکن است.
+Workflow در روزهای فعالیت بازار (شنبه تا چهارشنبه) ساعت ۱۴:۴۵ تهران بدون دیتابیس اجرا می‌شود، صفحات عمومی صندوق‌ها را با نرخ محدود crawl می‌کند و فایل‌های `data/funds-latest.csv` و `data/funds-latest.json` را به‌روزرسانی و در ریپو commit می‌کند. اجرای دستی نیز با `workflow_dispatch` ممکن است.
 
-فایل `history-backfill.yml` هفته‌ای یک‌بار تاریخچه را بازسازی می‌کند. هر دو workflow از یک concurrency group استفاده می‌کنند تا commitهای داده با هم برخورد نکنند.
+صفحات صندوق Fundbase حدود یک سال تاریخچهٔ جریان پول را در اولین اجرا backfill می‌کنند. فایل `history-backfill.yml` برای بک‌فیل مستقیم TSETMC به‌صورت دستی باقی مانده است و در شبکه‌ای که TSETMC را مسدود می‌کند زمان‌بندی نشده است.
 
 ساختار ذخیره‌سازی:
 
@@ -110,6 +110,7 @@ Workflow هر ساعت در دقیقه ۷ بدون دیتابیس اجرا می�
 | `data/manifest.json` | وضعیت منابع، کیفیت و checksum |
 | `data/history/market.json` | تاریخچه ساعتی شاخص‌های تجمیعی |
 | `data/history/funds-YYYY.ndjson` | تاریخچه روزانه هر صندوق |
+| `data/history/fundbase-flows-YYYY.ndjson` | تاریخچه واقعی جریان پول استخراج‌شده از صفحات عمومی |
 | `data/raw/YYYY/MM/*.json.gz` | نسخه فشرده روزانه برای ممیزی |
 
 ## 5) Deploy روی Vercel

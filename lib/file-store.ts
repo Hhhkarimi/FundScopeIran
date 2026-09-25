@@ -196,3 +196,17 @@ export async function mergeHistoricalPoints(points: HistoricalFundPoint[]) {
     await atomicWrite(filePath, `${ordered.map((point) => JSON.stringify(point)).join("\n")}\n`);
   }
 }
+
+export async function mergeFundbaseFlowPoints(points: Array<{ regNo: string; date: string; realMoneyFlow: number }>) {
+  const byYear = new Map<string, typeof points>();
+  for (const point of points) byYear.set(point.date.slice(0, 4), [...(byYear.get(point.date.slice(0, 4)) || []), point]);
+  for (const [year, additions] of byYear) {
+    const filePath = dataPath("history", `fundbase-flows-${year}.ndjson`);
+    let existing: typeof points = [];
+    try { existing = (await readFile(filePath, "utf8")).split("\n").filter(Boolean).map((line) => JSON.parse(line)); } catch { /* new partition */ }
+    const merged = new Map(existing.map((point) => [`${point.date}:${point.regNo}`, point]));
+    for (const point of additions) merged.set(`${point.date}:${point.regNo}`, point);
+    const ordered = [...merged.values()].sort((a, b) => a.date.localeCompare(b.date) || a.regNo.localeCompare(b.regNo));
+    await atomicWrite(filePath, `${ordered.map((point) => JSON.stringify(point)).join("\n")}\n`);
+  }
+}

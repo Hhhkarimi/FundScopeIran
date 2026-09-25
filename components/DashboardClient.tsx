@@ -214,8 +214,12 @@ export default function DashboardClient({ data }: { data: DashboardData }) {
             <div>
               <div className="mb-4 flex flex-wrap items-center gap-2 text-xs text-white/50">
                 <span className="rounded-full border border-white/10 bg-white/[0.03] px-2.5 py-1">آخرین بروزرسانی: {faDateTime(data.generatedAt)}</span>
-                <span className="rounded-full border border-white/10 bg-white/[0.03] px-2.5 py-1">Fipiran <StatusDot status={data.sourceStatus.fipiran} /></span>
-                <span className="rounded-full border border-white/10 bg-white/[0.03] px-2.5 py-1">TSETMC <StatusDot status={data.sourceStatus.tsetmc} /></span>
+                {data.sourceStatus.fundbase === "ok" ? (
+                  <span className="rounded-full border border-white/10 bg-white/[0.03] px-2.5 py-1">Fundbase / Investats <StatusDot status="ok" /></span>
+                ) : <>
+                  <span className="rounded-full border border-white/10 bg-white/[0.03] px-2.5 py-1">Fipiran <StatusDot status={data.sourceStatus.fipiran} /></span>
+                  <span className="rounded-full border border-white/10 bg-white/[0.03] px-2.5 py-1">TSETMC <StatusDot status={data.sourceStatus.tsetmc} /></span>
+                </>}
               </div>
               <h1 className="max-w-4xl text-3xl font-black leading-[1.45] tracking-tight sm:text-5xl">بازار صندوق‌ها را در یک نگاه <span className="text-lime-200">ببین، مقایسه کن، کشف کن.</span></h1>
               <p className="mt-4 max-w-3xl text-sm leading-8 text-white/55 sm:text-base">داشبورد ساعتی صندوق‌های سرمایه‌گذاری با NAV، بازده، ارزش معاملات، جریان پول، ترکیب دارایی و نماهای تحلیلی قابل اشتراک.</p>
@@ -431,7 +435,7 @@ export default function DashboardClient({ data }: { data: DashboardData }) {
         </section>
 
         <footer className="mt-8 flex flex-col gap-3 border-t border-white/[0.06] py-6 text-xs text-white/35 sm:flex-row sm:items-center sm:justify-between">
-          <div className="flex items-center gap-2"><Database size={14}/><span>منابع: Fipiran و TSETMC — Snapshot ساعتی فایل‌محور</span></div>
+          <div className="flex items-center gap-2"><Database size={14}/><span>منابع: صفحات عمومی Fundbase/Investats و منابع مستقیم بازار — آرشیو فایل‌محور</span></div>
           <p>این داشبورد ابزار اطلاعاتی است و توصیه خرید/فروش محسوب نمی‌شود.</p>
         </footer>
       </section>

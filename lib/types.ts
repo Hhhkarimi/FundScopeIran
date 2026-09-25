@@ -101,6 +101,7 @@ export type DashboardData = {
   sourceStatus: {
     fipiran: "ok" | "degraded" | "unknown";
     tsetmc: "ok" | "degraded" | "unknown";
+    fundbase?: "ok" | "degraded" | "unknown";
   };
 };
 

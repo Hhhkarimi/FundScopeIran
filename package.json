@@ -11,6 +11,7 @@
     "test": "node --import tsx --test tests/**/*.test.ts",
     "refresh": "node --import tsx scripts/refresh.ts",
     "scrape:csv": "node --import tsx scripts/export-csv.ts",
+    "crawl:fundbase": "node --import tsx scripts/crawl-fundbase.ts",
     "backfill": "node --import tsx scripts/backfill-files.ts",
     "backfill:db": "tsx scripts/backfill.ts",
     "backfill:files": "node --import tsx scripts/backfill-files.ts"
@@ -20,6 +21,7 @@
     "lucide-react": "^0.468.0",
     "next": "^16.3.6",
     "postgres": "^3.4.7",
+    "puppeteer-core": "^24.43.1",
     "react": "^19.3.0",
     "react-dom": "^19.3.0",
     "recharts": "^3.2.0"

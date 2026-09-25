@@ -1,8 +1,8 @@
-name: Hourly fund refresh
+name: Daily verified fund crawl
 
 on:
   schedule:
-    - cron: "7 * * * *"
+    - cron: "15 11 * * 0-3,6"
   workflow_dispatch:
   push:
     paths:
@@ -10,7 +10,7 @@ on:
       - "lib/data-quality.ts"
       - "lib/file-store.ts"
       - "lib/sources/**"
-      - "scripts/export-csv.ts"
+      - "scripts/crawl-fundbase.ts"
 
 permissions:
   contents: write
@@ -22,7 +22,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -31,13 +31,14 @@ jobs:
           cache: npm
       - name: Install dependencies
         run: npm ci --no-audit --no-fund
-      - name: Build and validate real snapshots
+      - name: Verify browser runtime
+        run: google-chrome --version
+      - name: Crawl and validate public real-data pages
         env:
-          FIPIRAN_BASE_URL: https://www.fipiran.com/services
-          TSETMC_BASE_URL: https://cdn.tsetmc.com/api
-          ALLOW_SOURCE_DEGRADATION: "true"
+          CHROME_PATH: /usr/bin/google-chrome
           MIN_REAL_FUND_ROWS: "20"
-        run: npm run scrape:csv
+          FORCE_HISTORY_ARCHIVE: "true"
+        run: npm run crawl:fundbase
       - name: Run data and application tests
         run: npm test
       - name: Commit accepted snapshots

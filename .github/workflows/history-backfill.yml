@@ -1,13 +1,7 @@
 name: Historical fund backfill
 
 on:
-  schedule:
-    - cron: "33 17 * * 4"
   workflow_dispatch:
-  push:
-    paths:
-      - ".github/workflows/history-backfill.yml"
-      - "scripts/backfill-files.ts"
 
 permissions:
   contents: write
