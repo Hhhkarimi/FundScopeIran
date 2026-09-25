@@ -1,0 +1,38 @@
+name: Hourly fund refresh
+
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: hourly-fund-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+      - name: Refresh database and build CSV
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          FIPIRAN_BASE_URL: https://www.fipiran.com/services
+          TSETMC_BASE_URL: https://cdn.tsetmc.com/api
+          ALLOW_SOURCE_DEGRADATION: "true"
+        run: npm run refresh
+      - name: Upload latest CSV
+        uses: actions/upload-artifact@v4
+        with:
+          name: funds-latest-${{ github.run_number }}
+          path: data/funds-latest.csv
+          retention-days: 7

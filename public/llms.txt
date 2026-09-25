@@ -1,0 +1,20 @@
+# FundScope Iran
+
+FundScope Iran is a Persian-language dashboard and dataset for Iranian investment funds.
+
+Primary pages:
+- / : hourly dashboard of funds, ETFs, NAV, returns, AUM, trade value and derived indicators.
+- /about-data : data sources, formulas, refresh strategy and limitations.
+- /funds/{regNo} : individual fund pages with stable registration-number identifiers.
+- /api/funds.csv : latest machine-readable CSV snapshot.
+
+Data sources:
+- Fipiran: fund directory, NAV, performance and portfolio metadata.
+- TSETMC: exchange trading and individual/legal client-type data when accessible.
+
+Important definitions:
+- NAV premium/discount = market price / cancellation NAV - 1.
+- Estimated individual money flow = (individual buy volume - individual sell volume) × reference price. It is a derived estimate, not an official cash-flow figure.
+- Market pulse is an internal 0–100 visualization based on positive-return breadth and estimated individual money flow. It is not an official market index and not investment advice.
+
+All monetary values are stored in Iranian rial unless explicitly stated otherwise.

@@ -1,0 +1,38 @@
+{
+  "name": "iran-funds-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "refresh": "tsx scripts/refresh.ts",
+    "scrape:csv": "tsx scripts/export-csv.ts",
+    "backfill": "tsx scripts/backfill.ts"
+  },
+  "dependencies": {
+    "@fontsource-variable/vazirmatn": "^5.2.5",
+    "lucide-react": "^0.468.0",
+    "next": "^16.3.6",
+    "postgres": "^3.4.7",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "recharts": "^3.2.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.0",
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "eslint": "^9.22.0",
+    "eslint-config-next": "^16.3.6",
+    "tailwindcss": "^4.3.0",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

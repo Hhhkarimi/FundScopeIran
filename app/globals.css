@@ -1,0 +1,139 @@
+@import "tailwindcss";
+@import "@fontsource-variable/vazirmatn";
+
+:root {
+  --bg: #07100e;
+  --bg-soft: #0a1713;
+  --surface: rgba(16, 36, 30, 0.76);
+  --surface-strong: #10241e;
+  --line: rgba(156, 195, 178, 0.14);
+  --text: #f2f7f5;
+  --muted: #9eb2aa;
+  --positive: #43d19e;
+  --negative: #ff7a7a;
+  --accent: #d7ff69;
+  --accent-2: #78d6ff;
+  --warning: #ffc857;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; background: var(--bg); }
+body {
+  margin: 0;
+  background:
+    radial-gradient(circle at 10% 5%, rgba(54, 211, 153, .11), transparent 28rem),
+    radial-gradient(circle at 90% 15%, rgba(120, 214, 255, .08), transparent 26rem),
+    var(--bg);
+  color: var(--text);
+  font-family: "Vazirmatn Variable", Vazirmatn, system-ui, sans-serif;
+  min-height: 100vh;
+}
+
+a { color: inherit; text-decoration: none; }
+button, input, select { font: inherit; }
+::selection { background: rgba(215, 255, 105, .28); }
+
+.shell { width: min(1500px, calc(100% - 32px)); margin-inline: auto; }
+.glass {
+  background: linear-gradient(145deg, rgba(18, 43, 35, .88), rgba(9, 23, 19, .82));
+  border: 1px solid var(--line);
+  box-shadow: 0 24px 80px rgba(0, 0, 0, .22);
+  backdrop-filter: blur(18px);
+}
+.card { border-radius: 24px; }
+.micro { color: var(--muted); font-size: 12px; line-height: 1.8; }
+.metric-value { font-variant-numeric: tabular-nums; letter-spacing: -.02em; }
+
+.grid-bg {
+  background-image:
+    linear-gradient(rgba(255,255,255,.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,.025) 1px, transparent 1px);
+  background-size: 28px 28px;
+}
+
+.ticker-mask {
+  mask-image: linear-gradient(to left, transparent, #000 8%, #000 92%, transparent);
+}
+
+.table-scroll::-webkit-scrollbar { height: 8px; width: 8px; }
+.table-scroll::-webkit-scrollbar-thumb { background: rgba(255,255,255,.13); border-radius: 999px; }
+
+.positive { color: var(--positive); }
+.negative { color: var(--negative); }
+.neutral { color: var(--muted); }
+
+.pulse-ring {
+  background: conic-gradient(var(--accent) var(--score), rgba(255,255,255,.08) 0);
+  position: relative;
+}
+.pulse-ring::after {
+  content: "";
+  position: absolute;
+  inset: 8px;
+  border-radius: 999px;
+  background: #0d201a;
+}
+
+.recharts-default-tooltip {
+  background: rgba(6, 17, 14, .96) !important;
+  border: 1px solid rgba(255,255,255,.12) !important;
+  border-radius: 14px !important;
+  box-shadow: 0 18px 50px rgba(0,0,0,.28) !important;
+  direction: rtl;
+}
+.recharts-tooltip-label { color: #f4f8f6 !important; }
+.recharts-tooltip-item { color: #bcd0c7 !important; }
+
+@media (max-width: 640px) {
+  .shell { width: min(100% - 20px, 1500px); }
+  .card { border-radius: 18px; }
+}
+
+html[data-theme="light"] {
+  --bg: #f3f7f4;
+  --bg-soft: #e9f1ec;
+  --surface: rgba(255, 255, 255, .9);
+  --surface-strong: #ffffff;
+  --line: rgba(22, 61, 48, .13);
+  --text: #10241e;
+  --muted: #61746d;
+  --positive: #11845f;
+  --negative: #c54848;
+  --accent: #668600;
+  --accent-2: #177ba2;
+}
+html[data-theme="light"] body {
+  background:
+    radial-gradient(circle at 10% 5%, rgba(54, 211, 153, .12), transparent 28rem),
+    radial-gradient(circle at 90% 15%, rgba(120, 214, 255, .14), transparent 26rem),
+    var(--bg);
+}
+html[data-theme="light"] .glass {
+  background: linear-gradient(145deg, rgba(255,255,255,.94), rgba(243,248,245,.92));
+  box-shadow: 0 24px 70px rgba(32, 70, 57, .09);
+}
+html[data-theme="light"] header {
+  background: rgba(243, 247, 244, .9) !important;
+  border-color: rgba(22, 61, 48, .1) !important;
+}
+html[data-theme="light"] [class*="text-white"] { color: rgba(16, 36, 30, .72) !important; }
+html[data-theme="light"] [class*="border-white"] { border-color: rgba(22, 61, 48, .12) !important; }
+html[data-theme="light"] [class*="bg-white"] { background-color: rgba(22, 61, 48, .04) !important; }
+html[data-theme="light"] [class*="bg-black"] { background-color: rgba(22, 61, 48, .025) !important; }
+html[data-theme="light"] select { background: #f7faf8 !important; color: #163d30; }
+html[data-theme="light"] input { color: #163d30; }
+html[data-theme="light"] .pulse-ring::after { background: #f8fbf9; }
+html[data-theme="light"] .grid-bg {
+  background-image:
+    linear-gradient(rgba(22,61,48,.045) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(22,61,48,.045) 1px, transparent 1px);
+}
+html[data-theme="light"] .recharts-wrapper text { fill: rgba(16, 36, 30, .62) !important; }
+html[data-theme="light"] .recharts-cartesian-grid line { stroke: rgba(16, 36, 30, .08) !important; }
+html[data-theme="light"] .recharts-default-tooltip {
+  background: rgba(255,255,255,.98) !important;
+  border-color: rgba(22,61,48,.14) !important;
+  box-shadow: 0 16px 45px rgba(32,70,57,.13) !important;
+}
+html[data-theme="light"] .recharts-tooltip-label { color: #163d30 !important; }
+html[data-theme="light"] .recharts-tooltip-item { color: #49645b !important; }
