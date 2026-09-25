@@ -17,7 +17,7 @@ permissions:
 
 concurrency:
   group: fund-data-writes
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   refresh:
@@ -38,6 +38,7 @@ jobs:
           CHROME_PATH: /usr/bin/google-chrome
           MIN_REAL_FUND_ROWS: "20"
           FORCE_HISTORY_ARCHIVE: "true"
+          FUNDBASE_MAX_FUNDS: "120"
         run: npm run crawl:fundbase
       - name: Run data and application tests
         run: npm test
