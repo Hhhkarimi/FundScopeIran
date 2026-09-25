@@ -7,7 +7,7 @@ const headers = {
 };
 
 export type RawFipiranFund = Record<string, unknown> & {
-  regNo?: string;
+  regNo?: string | number;
   name?: string;
   fundType?: number;
   typeOfInvest?: string;

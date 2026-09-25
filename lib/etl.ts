@@ -18,7 +18,7 @@ import {
 import { replaceSnapshot } from "@/lib/repository";
 
 const ALLOW_DEGRADATION = process.env.ALLOW_SOURCE_DEGRADATION !== "false";
-const TSETMC_FUND_TYPES = [
+export const TSETMC_FUND_TYPES = [
   { fundType: 4, name: "درآمد ثابت" },
   { fundType: 5, name: "کالایی" },
   { fundType: 6, name: "سهامی" },

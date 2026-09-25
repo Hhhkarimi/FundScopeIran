@@ -1,6 +1,6 @@
-import { scrapeFundRows } from "../lib/etl";
+import { mergeFundData, TSETMC_FUND_TYPES } from "../lib/etl";
 import { mergeHistoricalPoints } from "../lib/file-store";
-import { fetchDailyPriceHistory, fetchTsetmcFundDetails } from "../lib/sources/tsetmc";
+import { fetchDailyPriceHistory, fetchTsetmcFundDetails, fetchTsetmcFundUniverse } from "../lib/sources/tsetmc";
 
 type Point = {
   regNo: string;
@@ -31,7 +31,12 @@ function isoDate(value: unknown): string | null {
 }
 
 async function main() {
-  const { rows } = await scrapeFundRows();
+  const capturedAt = new Date().toISOString();
+  const rows = mergeFundData({
+    funds: await fetchTsetmcFundUniverse(),
+    fundTypes: TSETMC_FUND_TYPES,
+    instruments: [], transactions: [], clientTypes: [], marketWatch: [], capturedAt
+  });
   const limit = Number(process.env.BACKFILL_LIMIT || "0");
   const days = Number(process.env.BACKFILL_DAYS || "730");
   const cutoff = new Date(Date.now() - days * 86_400_000).toISOString().slice(0, 10);
