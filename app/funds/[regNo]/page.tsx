@@ -5,8 +5,10 @@ import { ArrowRight, ExternalLink } from "lucide-react";
 import { readFundHistory } from "@/lib/repository";
 import { getDashboardData } from "@/lib/dashboard";
 import FundHistoryChart from "@/components/FundHistoryChart";
+import FundScoreCard from "@/components/FundScoreCard";
 import WatchlistButton from "@/components/WatchlistButton";
 import { compactRial, faDateTime, faNumber, percent } from "@/lib/format";
+import { scoreFunds } from "@/lib/fund-score";
 
 export const revalidate = 3600;
 
@@ -33,6 +35,7 @@ export default async function FundPage({ params }: { params: Promise<{ regNo: st
   const dashboard = await getDashboardData();
   const fund = dashboard.funds.find((item) => item.regNo === decodeURIComponent(regNo)) || null;
   if (!fund) notFound();
+  const fundScore = scoreFunds(dashboard.funds).get(fund.regNo);
   const history = fund.regNo.startsWith("DEMO-") ? [] : await readFundHistory(fund.regNo);
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://example.com";
   const jsonLd = {
@@ -79,6 +82,8 @@ export default async function FundPage({ params }: { params: Promise<{ regNo: st
           <Stat label="سرانه فروش حقیقی" value={compactRial(fund.individualSellPerCapita)} />
           <Stat label="قدرت خرید حجمی" value={fund.buyPowerRatio === null ? "—" : faNumber(fund.buyPowerRatio, 2)} />
         </div>
+
+        {fundScore && <FundScoreCard score={fundScore}/>} 
 
         <div className="mt-6 rounded-3xl border border-white/[0.07] bg-black/10 p-5 sm:p-6">
           <div className="mb-4"><h2 className="font-bold">تاریخچه قیمت و NAV</h2><p className="micro mt-1">حداکثر ۳۶۵ روز از داده Backfill شده؛ برای صندوق‌های غیر ETF ممکن است فقط NAV نمایش داده شود.</p></div>

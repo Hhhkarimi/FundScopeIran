@@ -81,6 +81,40 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
   background: #0d201a;
 }
 
+.score-badge {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 4px;
+  border: 1px solid rgba(120, 214, 255, .2);
+  border-radius: 10px;
+  background: rgba(120, 214, 255, .07);
+  color: #b8eaff;
+  padding: 5px 8px;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+.score-badge span { color: var(--muted); font-size: 9px; }
+.score-rank-card { background: #0b1b16; }
+.score-ring {
+  width: 112px;
+  height: 112px;
+  display: grid;
+  place-items: center;
+  position: relative;
+  border-radius: 999px;
+  background: conic-gradient(var(--accent-2) var(--score), rgba(255,255,255,.07) 0);
+}
+.score-ring::after {
+  content: "";
+  position: absolute;
+  inset: 9px;
+  border-radius: inherit;
+  background: #0c1d18;
+}
+.score-ring > div { position: relative; z-index: 1; display: grid; text-align: center; }
+.score-ring strong { font-size: 28px; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.score-ring span { margin-top: 3px; color: var(--muted); font-size: 10px; }
+
 .recharts-default-tooltip {
   background: rgba(6, 17, 14, .96) !important;
   border: 1px solid rgba(255,255,255,.12) !important;
@@ -135,6 +169,9 @@ html[data-theme="light"] [class*="bg-black"] { background-color: rgba(22, 61, 48
 html[data-theme="light"] select { background: #f7faf8 !important; color: #163d30; }
 html[data-theme="light"] input { color: #163d30; }
 html[data-theme="light"] .pulse-ring::after { background: #f8fbf9; }
+html[data-theme="light"] .score-ring::after { background: #f8fbf9; }
+html[data-theme="light"] .score-badge { color: #116d92; }
+html[data-theme="light"] .score-rank-card { background: #f8fbf9; }
 html[data-theme="light"] .watchlist-panel { background: rgba(102, 134, 0, .045); }
 html[data-theme="light"] .watchlist-card { background: #f8fbf9; }
 html[data-theme="light"] .grid-bg {

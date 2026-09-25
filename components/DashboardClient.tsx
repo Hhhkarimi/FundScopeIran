@@ -14,6 +14,7 @@ import {
   Layers3,
   Search,
   Star,
+  Trophy,
   WalletCards
 } from "lucide-react";
 import {
@@ -32,9 +33,11 @@ import {
   YAxis
 } from "recharts";
 import { KpiCard } from "@/components/KpiCard";
+import FundScoreBadge from "@/components/FundScoreBadge";
 import ThemeToggle from "@/components/ThemeToggle";
 import WatchlistButton from "@/components/WatchlistButton";
 import { compactRial, faDateTime, faNumber, percent } from "@/lib/format";
+import { scoreFunds } from "@/lib/fund-score";
 import type { DashboardData, FundRow } from "@/lib/types";
 import { useWatchlist } from "@/lib/watchlist";
 
@@ -116,6 +119,7 @@ export default function DashboardClient({ data }: { data: DashboardData }) {
   const [etfOnly, setEtfOnly] = useState(false);
   const [watchlistOnly, setWatchlistOnly] = useState(false);
   const watchlist = useWatchlist();
+  const scoreMap = useMemo(() => scoreFunds(data.funds), [data.funds]);
 
   const categories = useMemo(
     () => ["همه", ...Array.from(new Set(data.funds.map((fund) => fund.category)))],
@@ -136,6 +140,15 @@ export default function DashboardClient({ data }: { data: DashboardData }) {
   const watchedFunds = useMemo(
     () => data.funds.filter((fund) => watchlist.has(fund.regNo)),
     [data.funds, watchlist]
+  );
+
+  const topScores = useMemo(
+    () => data.funds
+      .map((fund) => ({ fund, score: scoreMap.get(fund.regNo) }))
+      .filter((item) => item.score?.total !== null && (item.score?.coverage || 0) >= 65)
+      .sort((a, b) => (b.score?.total || 0) - (a.score?.total || 0))
+      .slice(0, 4),
+    [data.funds, scoreMap]
   );
 
   const movers = useMemo(() => {
@@ -258,6 +271,30 @@ export default function DashboardClient({ data }: { data: DashboardData }) {
           )}
         </section>
 
+        <section className="score-overview mt-5 overflow-hidden rounded-[22px] border border-sky-300/15 bg-sky-300/[0.03]">
+          <div className="flex flex-col gap-3 border-b border-sky-300/10 px-5 py-4 sm:flex-row sm:items-end sm:justify-between sm:px-6">
+            <div className="flex items-center gap-3">
+              <div className="grid h-10 w-10 place-items-center rounded-xl bg-sky-300/10 text-sky-200"><Trophy size={17}/></div>
+              <div><h2 className="font-bold">صندوق‌های متوازن امروز</h2><p className="micro">بالاترین امتیاز جامع با پوشش داده حداقل ۶۵٪؛ مقایسه درون گروه مشابه انجام می‌شود.</p></div>
+            </div>
+            <Link href="/about-data#fund-score" className="text-xs font-bold text-sky-200 hover:text-sky-100">فرمول و محدودیت‌ها ←</Link>
+          </div>
+          {topScores.length ? (
+            <div className="grid gap-px bg-white/[0.055] sm:grid-cols-2 xl:grid-cols-4">
+              {topScores.map(({ fund, score }, index) => (
+                <Link key={fund.regNo} href={`/funds/${encodeURIComponent(fund.regNo)}`} className="score-rank-card group p-4 transition hover:bg-sky-300/[0.045]">
+                  <div className="flex items-start justify-between gap-3">
+                    <div className="min-w-0"><p className="truncate font-bold"><span className="ml-2 text-[10px] text-white/25">{faNumber(index + 1)}</span>{fund.symbol || fund.name}</p><p className="mt-1 truncate text-[11px] text-white/40">{fund.category} · {score?.peerLabel}</p></div>
+                    <FundScoreBadge score={score}/>
+                  </div>
+                  <p className="micro mt-4 line-clamp-2">{score?.summary}</p>
+                </Link>
+              ))}
+            </div>
+          ) : <p className="micro px-6 py-7">برای رتبه‌بندی مطمئن، هنوز داده کافی نداریم.</p>}
+          <p className="border-t border-sky-300/10 px-5 py-3 text-[10px] leading-5 text-white/35 sm:px-6">این رتبه‌بندی توصیه خرید نیست؛ عملکرد گذشته، نقدشوندگی، فاصله با NAV، اندازه و تقاضای حقیقی را در Snapshot فعلی خلاصه می‌کند.</p>
+        </section>
+
         <div className="mt-5 grid gap-5 xl:grid-cols-[1.45fr_.8fr]">
           <section className="glass card p-5 sm:p-6">
             <div className="mb-5 flex items-start justify-between gap-4">
@@ -369,10 +406,11 @@ export default function DashboardClient({ data }: { data: DashboardData }) {
           </div>
           <div className="table-scroll overflow-x-auto">
             <table className="w-full min-w-[1120px] border-collapse text-right text-xs">
-              <thead className="bg-white/[0.025] text-white/38"><tr>{["صندوق", "نوع", "بازار", "قیمت آخر", "NAV ابطال", "حباب NAV", "روزانه", "ماهانه", "AUM", "ارزش معاملات", "جریان حقیقی", "قدرت خرید"].map((h) => <th key={h} className="whitespace-nowrap px-4 py-3.5 font-medium">{h}</th>)}</tr></thead>
+              <thead className="bg-white/[0.025] text-white/38"><tr>{["صندوق", "امتیاز جامع", "نوع", "بازار", "قیمت آخر", "NAV ابطال", "حباب NAV", "روزانه", "ماهانه", "AUM", "ارزش معاملات", "جریان حقیقی", "قدرت خرید"].map((h) => <th key={h} className="whitespace-nowrap px-4 py-3.5 font-medium">{h}</th>)}</tr></thead>
               <tbody>
                 {filtered.slice(0, 150).map((fund) => <tr key={fund.regNo} className="border-t border-white/[0.055] transition hover:bg-white/[0.025]">
                   <td className="px-4 py-3.5"><div className="flex items-center gap-3"><WatchlistButton regNo={fund.regNo} fundName={fund.name}/><Link href={`/funds/${fund.regNo}`} className="block min-w-0"><div className="font-bold text-white/90">{fund.symbol || "بدون نماد"}</div><div className="mt-1 max-w-[220px] truncate text-[10px] text-white/38">{fund.name}</div></Link></div></td>
+                  <td className="px-4 py-3.5"><FundScoreBadge score={scoreMap.get(fund.regNo)} compact/></td>
                   <td className="px-4 py-3.5"><span className="rounded-full border border-white/[0.07] px-2 py-1 text-[10px] text-white/55">{fund.category}</span></td>
                   <td className="px-4 py-3.5 text-white/55">{fund.market}</td>
                   <td className="metric-value px-4 py-3.5">{faNumber(fund.lastPrice || fund.closingPrice)}</td>
@@ -385,7 +423,7 @@ export default function DashboardClient({ data }: { data: DashboardData }) {
                   <td className={`metric-value px-4 py-3.5 ${returnClass(fund.realMoneyFlow)}`}>{compactRial(fund.realMoneyFlow)}</td>
                   <td className="metric-value px-4 py-3.5">{fund.buyPowerRatio === null ? "—" : faNumber(fund.buyPowerRatio, 2)}</td>
                 </tr>)}
-                {!filtered.length && <tr><td colSpan={12} className="px-5 py-14 text-center"><Star className="mx-auto text-white/20" size={24}/><p className="mt-3 text-sm font-semibold">صندوقی با این فیلتر پیدا نشد.</p><p className="micro mt-1">فیلترها را تغییر دهید یا چند صندوق را به دیده‌بان اضافه کنید.</p></td></tr>}
+                {!filtered.length && <tr><td colSpan={13} className="px-5 py-14 text-center"><Star className="mx-auto text-white/20" size={24}/><p className="mt-3 text-sm font-semibold">صندوقی با این فیلتر پیدا نشد.</p><p className="micro mt-1">فیلترها را تغییر دهید یا چند صندوق را به دیده‌بان اضافه کنید.</p></td></tr>}
               </tbody>
             </table>
           </div>

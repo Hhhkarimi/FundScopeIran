@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test tests/**/*.test.ts",
     "refresh": "tsx scripts/refresh.ts",
     "scrape:csv": "tsx scripts/export-csv.ts",
     "backfill": "tsx scripts/backfill.ts"
