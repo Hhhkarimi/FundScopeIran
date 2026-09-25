@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-25T19:12:09.839Z",
+  "rowCount": 60,
+  "sourceStatus": {
+    "fipiran": "degraded",
+    "tsetmc": "degraded",
+    "fundbase": "ok"
+  },
+  "quality": {
+    "accepted": true,
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "rowCount": 60,
+      "duplicateRegNos": 0,
+      "navCoveragePct": 93.3,
+      "marketCoveragePct": 100,
+      "assetCoveragePct": 100,
+      "insCodeCoveragePct": 0
+    }
+  },
+  "files": {
+    "funds-latest.json": "8d2eda55ab340e622b2ac4e6c66d4f0cf1224646132faa40ebc9cc2e63a6537d",
+    "funds-latest.csv": "ec554df95dc657dddf6380fa5ccde1a9f3f59a2bb39820d32b968daa458af570"
+  }
+}
