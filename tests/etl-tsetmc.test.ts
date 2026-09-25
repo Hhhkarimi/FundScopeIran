@@ -5,7 +5,7 @@ import { mergeFundData } from "../lib/etl";
 test("normalizes the real TSETMC fund response shape", () => {
   const [fund] = mergeFundData({
     funds: [{
-      regNo: 11172, mfName: "آرمان سپهر آتی", fundType: 7,
+      regNo: "11172", mfName: "آرمان سپهر آتی", fundType: 7,
       recordDate: "2026-09-24T00:00:00", navRed: 32640, navSub: 32804,
       navStat: 32640, netAsset: 1_202_616_601_072, day1Return: 0.607,
       day30Return: 3.524, day365Return: 28.691, portfolioStock: 65.89,
