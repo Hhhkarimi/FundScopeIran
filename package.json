@@ -9,9 +9,11 @@
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
     "test": "node --import tsx --test tests/**/*.test.ts",
-    "refresh": "tsx scripts/refresh.ts",
-    "scrape:csv": "tsx scripts/export-csv.ts",
-    "backfill": "tsx scripts/backfill.ts"
+    "refresh": "node --import tsx scripts/refresh.ts",
+    "scrape:csv": "node --import tsx scripts/export-csv.ts",
+    "backfill": "node --import tsx scripts/backfill-files.ts",
+    "backfill:db": "tsx scripts/backfill.ts",
+    "backfill:files": "node --import tsx scripts/backfill-files.ts"
   },
   "dependencies": {
     "@fontsource-variable/vazirmatn": "^5.2.5",

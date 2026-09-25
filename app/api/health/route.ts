@@ -12,7 +12,7 @@ export async function GET() {
   const ageMinutes = latest ? Math.round((Date.now() - new Date(latest).getTime()) / 60_000) : null;
   const healthy = rows.length > 0;
   return NextResponse.json(
-    { ok: healthy, mode: dashboard.mode, database, rows: rows.length, latest, ageMinutes },
+    { ok: healthy, mode: dashboard.mode, storage: database ? "postgres" : "repository-files", database, rows: rows.length, latest, ageMinutes },
     { status: healthy ? 200 : 503 }
   );
 }

@@ -10,6 +10,7 @@ import {
 } from "@/lib/sources/fipiran";
 import {
   fetchClientTypesAll,
+  fetchTsetmcFundUniverse,
   fetchMarketWatch,
   type RawClientType,
   type RawMarketWatch
@@ -17,11 +18,29 @@ import {
 import { replaceSnapshot } from "@/lib/repository";
 
 const ALLOW_DEGRADATION = process.env.ALLOW_SOURCE_DEGRADATION !== "false";
+const TSETMC_FUND_TYPES = [
+  { fundType: 4, name: "درآمد ثابت" },
+  { fundType: 5, name: "کالایی" },
+  { fundType: 6, name: "سهامی" },
+  { fundType: 7, name: "مختلط" },
+  { fundType: 11, name: "بازارگردانی" },
+  { fundType: 12, name: "جسورانه" },
+  { fundType: 13, name: "پروژه" },
+  { fundType: 14, name: "املاک" },
+  { fundType: 16, name: "خصوصی" },
+  { fundType: 17, name: "صندوق سرمایه‌گذاری" }
+];
 
 function text(value: unknown): string | null {
   if (value === null || value === undefined) return null;
   const result = String(value).trim();
   return result ? result : null;
+}
+
+function identifier(value: unknown): string | null {
+  if (typeof value === "number" && Number.isFinite(value)) return String(Math.trunc(value));
+  const result = text(value);
+  return result?.replace(/\.0$/, "") || null;
 }
 
 function num(value: unknown): number | null {
@@ -64,7 +83,7 @@ function categoryFrom(...values: Array<unknown>): FundCategory {
 }
 
 function websiteOf(fund: RawFipiranFund) {
-  const raw = fund.websiteAddress;
+  const raw = fund.websiteAddress ?? fund.webSite;
   if (Array.isArray(raw)) return text(raw[0]);
   return text(raw);
 }
@@ -156,32 +175,32 @@ export function mergeFundData(args: {
 
   return args.funds
     .map((fund): FundRow | null => {
-      const regNo = text(fund.regNo);
-      const name = text(fund.name);
+      const regNo = identifier(fund.regNo ?? fund.regno ?? fund.registrationNumber ?? fund.fundId);
+      const name = pickText(fund, ["name", "fundName", "mfName", "lVal30", "companyName"]);
       if (!regNo || !name) return null;
 
-      const insCode = text(fund.insCode);
+      const insCode = identifier(fund.insCode ?? fund.inscode ?? fund.instrumentCode);
       const instrument = insCode ? instrumentMap.get(insCode) : undefined;
       const fipiTransaction = insCode ? transactionMap.get(insCode) : undefined;
       const tsetmcTransaction = insCode ? transactionFromTsetmc(tsetmcMap.get(insCode)) : undefined;
       const transaction = { ...tsetmcTransaction, ...fipiTransaction } as RawTransaction;
       const client = insCode ? clientMap.get(insCode) : undefined;
-      const fundTypeId = num(fund.fundType);
+      const fundTypeId = num(fund.fundType ?? fund.fundTypeId ?? fund.type);
       const fundTypeName = fundTypeId !== null ? typeMap.get(fundTypeId) || null : null;
-      const typeOfInvest = text(fund.typeOfInvest);
-      const symbol = text(fund.smallSymbolName) || pickText(instrument, ["smallSymbolName"]);
+      const typeOfInvest = pickText(fund, ["typeOfInvest", "investmentType"]);
+      const symbol = pickText(fund, ["smallSymbolName", "symbol", "lVal18AFC"]) || pickText(instrument, ["smallSymbolName"]);
       const isEtf = Boolean(insCode || symbol || /قابل معامله|ETF/i.test(typeOfInvest || ""));
 
       const lastPrice = pickNum(transaction, ["lastTransaction", "pDrCotVal", "pl"]);
       const closingPrice = pickNum(transaction, ["closingPrice", "pClosing", "pc"]);
-      const navCancel = num(fund.cancelNav);
+      const navCancel = pickNum(fund, ["cancelNav", "navRed", "navCancel"]);
       const navPremiumPct =
         isEtf && navCancel && navCancel > 0 && (lastPrice ?? closingPrice) !== null
           ? (((lastPrice ?? closingPrice) as number) / navCancel - 1) * 100
           : null;
 
-      const unitsSubDay = num(fund.unitsSubDAY);
-      const unitsRedDay = num(fund.unitsRedDAY);
+      const unitsSubDay = pickNum(fund, ["unitsSubDAY", "unitsSub"]);
+      const unitsRedDay = pickNum(fund, ["unitsRedDAY", "unitsRed"]);
       const priceForFlow = closingPrice ?? lastPrice;
       const clientMetrics = deriveClientMetrics(client, priceForFlow);
 
@@ -194,12 +213,12 @@ export function mergeFundData(args: {
         fundTypeName,
         category: categoryFrom(fundTypeName, typeOfInvest, name, symbol),
         typeOfInvest,
-        manager: text(fund.manager),
+        manager: pickText(fund, ["manager", "fundManager", "managerName"]),
         website: websiteOf(fund),
         isEtf,
         market: marketFromInstrument(instrument),
-        initiatedAt: text(fund.initiationDate),
-        sourceUpdatedAt: text(fund.rankLastUpdate) || text(fund.date),
+        initiatedAt: pickText(fund, ["initiationDate", "startDate"]),
+        sourceUpdatedAt: pickText(fund, ["rankLastUpdate", "recordDate", "date"]),
         capturedAt: args.capturedAt,
 
         lastPrice,
@@ -212,26 +231,26 @@ export function mergeFundData(args: {
         tradeValue: pickNum(transaction, ["transactionValue", "qTotCap", "tval"]),
 
         navCancel,
-        navIssue: num(fund.issueNav),
-        navStatistical: num(fund.statisticalNav),
+        navIssue: pickNum(fund, ["issueNav", "navSub", "navIssue"]),
+        navStatistical: pickNum(fund, ["statisticalNav", "navStat", "navStatistical"]),
         navPremiumPct,
         netAsset: num(fund.netAsset),
         fundSize: num(fund.fundSize),
 
-        dailyReturn: num(fund.dailyEfficiency),
-        weeklyReturn: num(fund.weeklyEfficiency),
-        monthlyReturn: num(fund.monthlyEfficiency),
-        quarterlyReturn: num(fund.quarterlyEfficiency),
-        sixMonthReturn: num(fund.sixMonthEfficiency),
-        annualReturn: num(fund.annualEfficiency),
-        lifetimeReturn: num(fund.efficiency),
+        dailyReturn: pickNum(fund, ["dailyEfficiency", "day1Return"]),
+        weeklyReturn: pickNum(fund, ["weeklyEfficiency", "day7Return"]),
+        monthlyReturn: pickNum(fund, ["monthlyEfficiency", "day30Return"]),
+        quarterlyReturn: pickNum(fund, ["quarterlyEfficiency", "day90Return"]),
+        sixMonthReturn: pickNum(fund, ["sixMonthEfficiency", "day180Return"]),
+        annualReturn: pickNum(fund, ["annualEfficiency", "day365Return"]),
+        lifetimeReturn: pickNum(fund, ["efficiency", "dayFirstReturn"]),
 
-        stockPct: num(fund.stock),
-        bondPct: num(fund.bond),
-        cashPct: num(fund.cash),
-        depositPct: num(fund.deposit),
-        otherPct: num(fund.other),
-        commodityPct: num(fund.commodity),
+        stockPct: pickNum(fund, ["stock", "portfolioStock"]),
+        bondPct: pickNum(fund, ["bond", "portfolioBond"]),
+        cashPct: pickNum(fund, ["cash", "portfolioCash"]),
+        depositPct: pickNum(fund, ["deposit", "portfolioDeposit"]),
+        otherPct: pickNum(fund, ["other", "portfolioOther"]),
+        commodityPct: pickNum(fund, ["commodity", "portfolioCommodity"]),
 
         unitsSubDay,
         unitsRedDay,
@@ -261,7 +280,19 @@ export async function scrapeFundRows(): Promise<{
   const capturedAt = new Date().toISOString();
   const warnings: string[] = [];
 
-  const funds = await fetchFundUniverse();
+  let funds: RawFipiranFund[] = [];
+  try {
+    funds = await fetchFundUniverse();
+  } catch (error) {
+    if (!ALLOW_DEGRADATION) throw error;
+    warnings.push(`Fipiran fund universe: ${error instanceof Error ? error.message : "unknown error"}`);
+  }
+
+  if (!funds.length) {
+    const fallbackFunds = await fetchTsetmcFundUniverse();
+    funds = fallbackFunds as RawFipiranFund[];
+    warnings.push("Fipiran: unavailable; using the real TSETMC fund universe fallback");
+  }
   const [fundTypes, etfMarket, tsetmcClientTypes, marketWatch] = await Promise.all([
     optional("Fipiran fund types", fetchFundTypes(), warnings, []),
     optional("Fipiran ETF market", fetchEtfMarketSnapshot(), warnings, { instruments: [], transactions: [] }),
@@ -291,13 +322,15 @@ export async function scrapeFundRows(): Promise<{
 
   const rows = mergeFundData({
     funds,
-    fundTypes,
+    fundTypes: fundTypes.length ? fundTypes : TSETMC_FUND_TYPES,
     instruments: etfMarket.instruments,
     transactions: etfMarket.transactions,
     clientTypes,
     marketWatch,
     capturedAt
   });
+
+  if (!rows.length) throw new Error("All real-data sources returned an empty fund universe");
 
   const fipiranDegraded = warnings.some((w) => w.startsWith("Fipiran"));
   const tsetmcDegraded = warnings.some((w) => w.startsWith("TSETMC"));

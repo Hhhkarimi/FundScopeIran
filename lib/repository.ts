@@ -1,28 +1,6 @@
-import { readFile } from "node:fs/promises";
-import path from "node:path";
 import { db, hasDatabase } from "@/lib/db";
+import { readFileSnapshot, readFundHistoryFile, readMarketHistoryFile } from "@/lib/file-store";
 import type { DashboardData, FundRow, HistoryPoint } from "@/lib/types";
-
-type StaticSnapshot = {
-  generatedAt: string;
-  sourceStatus: DashboardData["sourceStatus"];
-  rows: FundRow[];
-};
-
-async function readStaticSnapshot(): Promise<StaticSnapshot | null> {
-  try {
-    const raw = await readFile(path.join(process.cwd(), "data", "funds-latest.json"), "utf8");
-    const snapshot = JSON.parse(raw) as Partial<StaticSnapshot>;
-    if (!Array.isArray(snapshot.rows)) return null;
-    return {
-      generatedAt: snapshot.generatedAt || snapshot.rows[0]?.capturedAt || new Date().toISOString(),
-      sourceStatus: snapshot.sourceStatus || { fipiran: "unknown", tsetmc: "unknown" },
-      rows: snapshot.rows
-    };
-  } catch {
-    return null;
-  }
-}
 
 function n(value: unknown): number | null {
   if (value === null || value === undefined || value === "") return null;
@@ -102,7 +80,7 @@ export async function replaceSnapshot(
 }
 
 export async function readLatestRows(): Promise<FundRow[]> {
-  if (!hasDatabase()) return (await readStaticSnapshot())?.rows || [];
+  if (!hasDatabase()) return (await readFileSnapshot())?.rows || [];
   const sql = db();
   const rows = await sql`
     with latest as (
@@ -176,7 +154,7 @@ export async function readLatestRows(): Promise<FundRow[]> {
 }
 
 export async function readHistory(limit = 72): Promise<HistoryPoint[]> {
-  if (!hasDatabase()) return [];
+  if (!hasDatabase()) return readMarketHistoryFile(limit);
   const sql = db();
   const rows = await sql`
     select
@@ -203,7 +181,7 @@ export async function readHistory(limit = 72): Promise<HistoryPoint[]> {
 
 export async function readLatestSourceStatus(): Promise<DashboardData["sourceStatus"]> {
   if (!hasDatabase()) {
-    return (await readStaticSnapshot())?.sourceStatus || { fipiran: "unknown", tsetmc: "unknown" };
+    return (await readFileSnapshot())?.sourceStatus || { fipiran: "unknown", tsetmc: "unknown" };
   }
   const sql = db();
   const rows = await sql`select source_status from refresh_runs order by captured_at desc limit 1`;
@@ -217,7 +195,7 @@ export async function readFund(regNo: string): Promise<FundRow | null> {
 }
 
 export async function readFundHistory(regNo: string, limit = 365): Promise<import("@/lib/types").FundHistoryPoint[]> {
-  if (!hasDatabase()) return [];
+  if (!hasDatabase()) return readFundHistoryFile(regNo, limit);
   const sql = db();
   const rows = await sql`
     select * from (

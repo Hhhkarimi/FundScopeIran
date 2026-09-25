@@ -16,7 +16,7 @@
 - ورود/خروج تقریبی پول حقیقی، سرانه خرید/فروش و نسبت قدرت خرید
 - امتیاز جامع توضیح‌پذیر ۰ تا ۱۰۰ با پوشش داده و پنج بُعد قابل مشاهده
 - نقشه حرارتی، Treemap، scatter «بازده × اندازه صندوق»، رهبران بازده و جریان پول
-- ذخیره Snapshot ساعتی در PostgreSQL (Supabase/Neon/هر Postgres سازگار)
+- ذخیره Snapshot ساعتی و تاریخچه روزانه در فایل‌های versioned داخل Git، بدون دیتابیس
 - CSV قابل دانلود از `/api/funds.csv`
 - بک‌فیل NAV، AUM و قیمت تاریخی ETFها با `npm run backfill`
 - GitHub Actions برای Refresh ساعتی بدون وابستگی به Cron پلن Vercel
@@ -27,14 +27,14 @@
 ## معماری داده
 
 ```text
-Fipiran fundcompare ───────┐
-Fipiran fund types ────────┼──> normalize/merge ──> PostgreSQL hourly snapshots ──> Next.js dashboard
-Fipiran ETF market ────────┤                                │
-TSETMC client type ────────┤                                ├──> /api/funds.csv
-TSETMC market watch ───────┘                                └──> SEO fund pages
+Fipiran funds/NAV ───┐
+                     ├──> normalize/merge ──> quality gate ──> Git-backed files ──> Next.js
+TSETMC funds/market ─┘                              │
+                                                   ├── latest JSON/CSV + manifest
+                                                   └── hourly + daily historical partitions
 ```
 
-`Fipiran` منبع اصلی universe صندوق‌هاست. `TSETMC` منبع مکمل است؛ اگر به‌خاطر WAF/IP در دسترس نباشد، pipeline با وضعیت `degraded` ادامه پیدا می‌کند. قیمت/تاریخچه از Fipiran تکمیل می‌شود و برای حقیقی/حقوقی، تعداد محدودی از ETFهای پرتراکنش از endpoint جزئی Fipiran به‌عنوان fallback غنی‌سازی می‌شوند (`FIPIRAN_CLIENT_FALLBACK_LIMIT`).
+`Fipiran` منبع اول NAV و اطلاعات صندوق است. اگر این منبع از runner گیت‌هاب در دسترس نباشد، universe واقعی صندوق‌ها از endpoint صندوق‌های `TSETMC` خوانده می‌شود؛ داده ساختگی به‌عنوان fallback وارد مسیر تولید نمی‌شود. قیمت، معاملات و تاریخچه ETF از TSETMC تکمیل می‌شود. هر snapshot پیش از جایگزینی از quality gate عبور می‌کند؛ پاسخ کم‌تعداد، شناسه‌های مصنوعی، رکورد تکراری، مقدار ناممکن یا افت ناگهانی تعداد صندوق‌ها رد می‌شود و snapshot سالم قبلی باقی می‌ماند.
 
 ## 1) نصب محلی
 
@@ -43,13 +43,13 @@ npm install
 cp .env.example .env.local
 ```
 
-دیتابیس اختیاری است. بدون `DATABASE_URL` برنامه از Snapshot فایل استفاده می‌کند و تا پیش از اولین Refresh، خودکار با داده نمایشی بالا می‌آید:
+دیتابیس لازم نیست. برنامه مستقیماً فایل‌های پوشه `data/` را می‌خواند. حالت نمایشی فقط با درخواست صریح زیر فعال می‌شود:
 
 ```env
 DEMO_MODE=true
 ```
 
-اعداد DEMO صراحتاً در UI با برچسب داده نمایشی مشخص می‌شوند.
+در Production این متغیر را تعریف نکنید؛ در صورت نبود snapshot واقعی، UI به‌جای عدد ساختگی حالت خالی نشان می‌دهد.
 
 سپس:
 
@@ -57,25 +57,15 @@ DEMO_MODE=true
 npm run dev
 ```
 
-## 2) ساخت دیتابیس (اختیاری)
+## 2) اولین Scrape واقعی
 
-یک پروژه Supabase یا Neon بسازید و فایل زیر را در SQL editor اجرا کنید:
-
-```text
-db/migrations/001_init.sql
-```
-
-بعد `DATABASE_URL` را در `.env.local` و در Secrets گیت‌هاب/Vercel قرار دهید. اگر حالت بدون دیتابیس را می‌خواهید، این مرحله را کامل رد کنید.
-
-## 3) اولین Scrape واقعی و CSV
-
-برای Scrape + ذخیره اختیاری در PostgreSQL + ساخت `data/funds-latest.csv`:
+برای crawl، اعتبارسنجی و ذخیره فایل‌های آخرین snapshot:
 
 ```bash
 npm run refresh
 ```
 
-فقط برای ساخت CSV بدون ذخیره DB:
+دستور معادل برای ساخت خروجی:
 
 ```bash
 npm run scrape:csv
@@ -83,9 +73,9 @@ npm run scrape:csv
 
 خروجی CSV UTF-8 BOM دارد تا در Excel فارسی درست باز شود.
 
-## 4) تاریخچه حداکثری
+## 3) تاریخچه واقعی
 
-پس از اولین refresh (برای ایجاد رکوردهای `funds`) بک‌فیل را اجرا کنید:
+برای دریافت حداکثر دو سال NAV صندوق‌ها و قیمت ETFها و نگهداری در فایل‌های سالانه اجرا کنید:
 
 ```bash
 npm run backfill
@@ -97,15 +87,9 @@ npm run backfill
 BACKFILL_LIMIT=10 npm run backfill
 ```
 
-اگر دسترسی TSETMC از شبکه شما مشکل دارد:
+خروجی در `data/history/funds-YYYY.ndjson` با کلید یکتای «تاریخ + شماره ثبت» merge می‌شود؛ بنابراین اجرای دوباره رکورد تکراری تولید نمی‌کند. workflow هفتگی نیز این بک‌فیل را خودکار اجرا می‌کند.
 
-```bash
-BACKFILL_ETF_PRICES=false npm run backfill
-```
-
-NAV و AUM تاریخی از Fipiran ذخیره می‌شود. تاریخچه قیمت ETF ابتدا از Fipiran و در صورت شکست از TSETMC دریافت و در `fund_daily_history` ثبت می‌شود.
-
-## 5) GitHub Actions ساعتی
+## 4) GitHub Actions
 
 Workflow آماده است:
 
@@ -115,23 +99,33 @@ Workflow آماده است:
 
 Workflow هر ساعت در دقیقه ۷ بدون دیتابیس اجرا می‌شود، فایل‌های `data/funds-latest.csv` و `data/funds-latest.json` را به‌روزرسانی و در ریپو commit می‌کند. اجرای دستی نیز با `workflow_dispatch` ممکن است.
 
-## 6) Deploy روی Vercel
+فایل `history-backfill.yml` هفته‌ای یک‌بار تاریخچه را بازسازی می‌کند. هر دو workflow از یک concurrency group استفاده می‌کنند تا commitهای داده با هم برخورد نکنند.
+
+ساختار ذخیره‌سازی:
+
+| فایل | کاربرد |
+|---|---|
+| `data/funds-latest.json` | آخرین snapshot پذیرفته‌شده |
+| `data/funds-latest.csv` | خروجی قابل دانلود |
+| `data/manifest.json` | وضعیت منابع، کیفیت و checksum |
+| `data/history/market.json` | تاریخچه ساعتی شاخص‌های تجمیعی |
+| `data/history/funds-YYYY.ndjson` | تاریخچه روزانه هر صندوق |
+| `data/raw/YYYY/MM/*.json.gz` | نسخه فشرده روزانه برای ممیزی |
+
+## 5) Deploy روی Vercel
 
 Repo را به Vercel Import کنید و Environment Variables زیر را تنظیم کنید:
 
 ```env
-CRON_SECRET=...
 NEXT_PUBLIC_SITE_URL=https://your-domain.example
 ALLOW_SOURCE_DEGRADATION=true
 ```
 
 `vercel.json` عمداً Cron ندارد تا روی Hobby نیز deploy شود. Refresh ساعتی پیش‌فرض از GitHub Actions انجام می‌شود.
 
-### Vercel Pro Cron (اختیاری)
+روی فایل‌سیستم Vercel چیزی نوشته نمی‌شود، چون پایدار نیست. GitHub Actions فایل‌ها را commit می‌کند و همان commit یک deploy تازه در Vercel می‌سازد.
 
-اگر پلن شما Cron ساعتی را پشتیبانی می‌کند، محتوای `vercel.pro.json` را جایگزین `vercel.json` کنید. مسیر `/api/cron/refresh` با `CRON_SECRET` محافظت می‌شود و Vercel آن را به صورت Bearer token ارسال می‌کند.
-
-## 7) Source adapterها
+## 6) Source adapterها
 
 اگر endpointها تغییر کردند، معمولاً فقط این فایل‌ها نیاز به اصلاح دارند:
 
@@ -201,14 +195,9 @@ Buy Power = (Buy Volume / Buyer Count) / (Sell Volume / Seller Count)
 | `/robots.txt` | Robots |
 | `/llms.txt` | توضیح ساختاری برای موتورهای مولد |
 
-## مدل داده
+## مدل نگهداری داده
 
-سه جدول اصلی:
-
-- `funds`: اطلاعات پایدار صندوق
-- `fund_snapshots`: snapshotهای ساعتی بازار/NAV/بازده
-- `fund_daily_history`: تاریخچه روزانه NAV و قیمت
-- `refresh_runs`: وضعیت منابع در هر اجرای scraper
+داده به‌جای جدول در فایل‌های JSON، CSV، NDJSON و JSON فشرده نگهداری می‌شود. Git تاریخ تغییرات، rollback و audit trail را فراهم می‌کند؛ پارتیشن سالانه نیز رشد فایل تاریخچه را کنترل می‌کند.
 
 ## ملاحظات Production
 
@@ -217,12 +206,12 @@ Buy Power = (Buy Volume / Buyer Count) / (Sell Volume / Seller Count)
 3. **Rate limit:** این پروژه از endpointهای bulk استفاده می‌کند و در refresh ساعتی درخواست‌های بسیار محدودی می‌فرستد.
 4. **Schema drift:** قبل از تصمیم مالی، داده همان روز را با سایت منبع مقایسه کنید.
 5. **Caching:** UI و CSV یک ساعت revalidate می‌شوند؛ جمع‌آوری داده مستقل از render است.
-6. **امنیت:** `CRON_SECRET` و `DATABASE_URL` را هرگز commit نکنید.
+6. **رشد ریپو:** نسخه فشرده روزانه و پارتیشن سالانه حجم را کنترل می‌کند؛ اندازه ریپو باید دوره‌ای پایش شود.
 
 ## توسعه بعدی پیشنهادی
 
 - صفحات مقایسه ۲ تا ۵ صندوق با URL قابل share
-- نمودار تاریخچه NAV/قیمت از `fund_daily_history`
+- هشدارهای قابل تنظیم برای تغییر حباب NAV و جریان پول غیرعادی
 - هشدار حباب NAV و جریان پول غیرعادی
 - snapshot image برای اشتراک شبکه‌های اجتماعی
 - تست قرارداد API با fixtureهای anonymized

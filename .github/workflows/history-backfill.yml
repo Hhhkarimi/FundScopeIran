@@ -1,16 +1,13 @@
-name: Hourly fund refresh
+name: Historical fund backfill
 
 on:
   schedule:
-    - cron: "7 * * * *"
+    - cron: "33 17 * * 4"
   workflow_dispatch:
   push:
     paths:
-      - ".github/workflows/hourly-refresh.yml"
-      - "lib/data-quality.ts"
-      - "lib/file-store.ts"
-      - "lib/sources/**"
-      - "scripts/export-csv.ts"
+      - ".github/workflows/history-backfill.yml"
+      - "scripts/backfill-files.ts"
 
 permissions:
   contents: write
@@ -20,9 +17,9 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  refresh:
+  backfill:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -31,34 +28,23 @@ jobs:
           cache: npm
       - name: Install dependencies
         run: npm ci --no-audit --no-fund
-      - name: Build and validate real snapshots
+      - name: Backfill real NAV and ETF price history
         env:
           FIPIRAN_BASE_URL: https://www.fipiran.com/services
           TSETMC_BASE_URL: https://cdn.tsetmc.com/api
           ALLOW_SOURCE_DEGRADATION: "true"
-          MIN_REAL_FUND_ROWS: "20"
-        run: npm run scrape:csv
-      - name: Run data and application tests
-        run: npm test
-      - name: Commit accepted snapshots
+          BACKFILL_DAYS: "730"
+        run: npm run backfill
+      - name: Commit historical partitions
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/funds-latest.csv data/funds-latest.json data/manifest.json data/history data/raw
+          git add data/history
           git diff --cached --quiet && exit 0
-          git commit -m "data: archive verified fund snapshot"
+          git commit -m "data: backfill verified fund history"
           for attempt in 1 2 3; do
             git pull --rebase origin main && git push && exit 0
             sleep $((attempt * 5))
           done
           exit 1
-      - name: Upload verified snapshot
-        uses: actions/upload-artifact@v4
-        with:
-          name: funds-latest-${{ github.run_number }}
-          path: |
-            data/funds-latest.csv
-            data/funds-latest.json
-            data/manifest.json
-          retention-days: 7

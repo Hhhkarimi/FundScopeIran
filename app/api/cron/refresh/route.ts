@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { refreshSnapshot, scrapeFundRows } from "@/lib/etl";
+import { refreshSnapshot } from "@/lib/etl";
 import { hasDatabase } from "@/lib/db";
 
 export const runtime = "nodejs";
@@ -14,7 +14,14 @@ export async function GET(request: Request) {
 
   try {
     const database = hasDatabase();
-    const result = database ? await refreshSnapshot() : (await scrapeFundRows()).result;
+    if (!database) {
+      return NextResponse.json({
+        ok: false,
+        persisted: false,
+        error: "File-backed refresh runs in GitHub Actions because Vercel Functions have no durable local filesystem."
+      }, { status: 409 });
+    }
+    const result = await refreshSnapshot();
     return NextResponse.json({ ok: true, persisted: database, ...result });
   } catch (error) {
     return NextResponse.json(
