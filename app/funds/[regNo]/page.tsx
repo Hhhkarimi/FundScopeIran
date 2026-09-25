@@ -5,6 +5,7 @@ import { ArrowRight, ExternalLink } from "lucide-react";
 import { readFundHistory } from "@/lib/repository";
 import { getDashboardData } from "@/lib/dashboard";
 import FundHistoryChart from "@/components/FundHistoryChart";
+import WatchlistButton from "@/components/WatchlistButton";
 import { compactRial, faDateTime, faNumber, percent } from "@/lib/format";
 
 export const revalidate = 3600;
@@ -58,7 +59,10 @@ export default async function FundPage({ params }: { params: Promise<{ regNo: st
             <h1 className="mt-4 text-3xl font-black leading-[1.5] sm:text-5xl">{fund.symbol && <span className="text-lime-200">{fund.symbol} </span>}{fund.name}</h1>
             <p className="mt-3 text-sm text-white/45">مدیر: {fund.manager || "—"} · آخرین Snapshot: {faDateTime(fund.capturedAt)}</p>
           </div>
-          {fund.website && <a href={fund.website} target="_blank" rel="noreferrer" className="inline-flex items-center justify-center gap-2 rounded-xl border border-white/10 px-4 py-2.5 text-xs text-white/65 hover:bg-white/5">وب‌سایت صندوق<ExternalLink size={14}/></a>}
+          <div className="flex flex-wrap items-center gap-2">
+            <WatchlistButton regNo={fund.regNo} fundName={fund.name} variant="label" />
+            {fund.website && <a href={fund.website} target="_blank" rel="noreferrer" className="inline-flex items-center justify-center gap-2 rounded-xl border border-white/10 px-4 py-2.5 text-xs text-white/65 hover:bg-white/5">وب‌سایت صندوق<ExternalLink size={14}/></a>}
+          </div>
         </div>
 
         <div className="mt-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
