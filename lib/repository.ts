@@ -1,5 +1,28 @@
+import { readFile } from "node:fs/promises";
+import path from "node:path";
 import { db, hasDatabase } from "@/lib/db";
 import type { DashboardData, FundRow, HistoryPoint } from "@/lib/types";
+
+type StaticSnapshot = {
+  generatedAt: string;
+  sourceStatus: DashboardData["sourceStatus"];
+  rows: FundRow[];
+};
+
+async function readStaticSnapshot(): Promise<StaticSnapshot | null> {
+  try {
+    const raw = await readFile(path.join(process.cwd(), "data", "funds-latest.json"), "utf8");
+    const snapshot = JSON.parse(raw) as Partial<StaticSnapshot>;
+    if (!Array.isArray(snapshot.rows)) return null;
+    return {
+      generatedAt: snapshot.generatedAt || snapshot.rows[0]?.capturedAt || new Date().toISOString(),
+      sourceStatus: snapshot.sourceStatus || { fipiran: "unknown", tsetmc: "unknown" },
+      rows: snapshot.rows
+    };
+  } catch {
+    return null;
+  }
+}
 
 function n(value: unknown): number | null {
   if (value === null || value === undefined || value === "") return null;
@@ -79,7 +102,7 @@ export async function replaceSnapshot(
 }
 
 export async function readLatestRows(): Promise<FundRow[]> {
-  if (!hasDatabase()) return [];
+  if (!hasDatabase()) return (await readStaticSnapshot())?.rows || [];
   const sql = db();
   const rows = await sql`
     with latest as (
@@ -179,7 +202,9 @@ export async function readHistory(limit = 72): Promise<HistoryPoint[]> {
 }
 
 export async function readLatestSourceStatus(): Promise<DashboardData["sourceStatus"]> {
-  if (!hasDatabase()) return { fipiran: "unknown", tsetmc: "unknown" };
+  if (!hasDatabase()) {
+    return (await readStaticSnapshot())?.sourceStatus || { fipiran: "unknown", tsetmc: "unknown" };
+  }
   const sql = db();
   const rows = await sql`select source_status from refresh_runs order by captured_at desc limit 1`;
   const value = rows[0]?.source_status as DashboardData["sourceStatus"] | undefined;

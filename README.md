@@ -42,7 +42,7 @@ npm install
 cp .env.example .env.local
 ```
 
-در `.env.local` حداقل `DATABASE_URL` را وارد کنید. برای تست UI بدون دیتابیس می‌توانید موقتاً این مقدار را بگذارید:
+دیتابیس اختیاری است. بدون `DATABASE_URL` برنامه از Snapshot فایل استفاده می‌کند و تا پیش از اولین Refresh، خودکار با داده نمایشی بالا می‌آید:
 
 ```env
 DEMO_MODE=true
@@ -56,7 +56,7 @@ DEMO_MODE=true
 npm run dev
 ```
 
-## 2) ساخت دیتابیس
+## 2) ساخت دیتابیس (اختیاری)
 
 یک پروژه Supabase یا Neon بسازید و فایل زیر را در SQL editor اجرا کنید:
 
@@ -64,11 +64,11 @@ npm run dev
 db/migrations/001_init.sql
 ```
 
-بعد `DATABASE_URL` را در `.env.local` و در Secrets گیت‌هاب/Vercel قرار دهید.
+بعد `DATABASE_URL` را در `.env.local` و در Secrets گیت‌هاب/Vercel قرار دهید. اگر حالت بدون دیتابیس را می‌خواهید، این مرحله را کامل رد کنید.
 
 ## 3) اولین Scrape واقعی و CSV
 
-برای Scrape + ذخیره در PostgreSQL + ساخت `data/funds-latest.csv`:
+برای Scrape + ذخیره اختیاری در PostgreSQL + ساخت `data/funds-latest.csv`:
 
 ```bash
 npm run refresh
@@ -112,20 +112,13 @@ Workflow آماده است:
 .github/workflows/hourly-refresh.yml
 ```
 
-در GitHub Repo به مسیر `Settings → Secrets and variables → Actions` بروید و Secret زیر را اضافه کنید:
-
-```text
-DATABASE_URL
-```
-
-Workflow هر ساعت در دقیقه ۷ اجرا می‌شود، DB را آپدیت می‌کند و CSV همان Run را به‌صورت artifact هفت‌روزه ذخیره می‌کند. اجرای دستی نیز با `workflow_dispatch` ممکن است.
+Workflow هر ساعت در دقیقه ۷ بدون دیتابیس اجرا می‌شود، فایل‌های `data/funds-latest.csv` و `data/funds-latest.json` را به‌روزرسانی و در ریپو commit می‌کند. اجرای دستی نیز با `workflow_dispatch` ممکن است.
 
 ## 6) Deploy روی Vercel
 
 Repo را به Vercel Import کنید و Environment Variables زیر را تنظیم کنید:
 
 ```env
-DATABASE_URL=...
 CRON_SECRET=...
 NEXT_PUBLIC_SITE_URL=https://your-domain.example
 ALLOW_SOURCE_DEGRADATION=true

@@ -1,9 +1,9 @@
 import type { MetadataRoute } from "next";
-import { readLatestRows } from "@/lib/repository";
+import { getDashboardData } from "@/lib/dashboard";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const base = process.env.NEXT_PUBLIC_SITE_URL || "https://example.com";
-  const funds = await readLatestRows();
+  const funds = (await getDashboardData()).funds;
   return [
     { url: base, changeFrequency: "hourly", priority: 1 },
     { url: `${base}/about-data`, changeFrequency: "monthly", priority: 0.5 },

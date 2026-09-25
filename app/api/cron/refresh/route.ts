@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
-import { refreshSnapshot } from "@/lib/etl";
+import { refreshSnapshot, scrapeFundRows } from "@/lib/etl";
+import { hasDatabase } from "@/lib/db";
 
 export const runtime = "nodejs";
 export const maxDuration = 300;
@@ -12,8 +13,9 @@ export async function GET(request: Request) {
   }
 
   try {
-    const result = await refreshSnapshot();
-    return NextResponse.json({ ok: true, ...result });
+    const database = hasDatabase();
+    const result = database ? await refreshSnapshot() : (await scrapeFundRows()).result;
+    return NextResponse.json({ ok: true, persisted: database, ...result });
   } catch (error) {
     return NextResponse.json(
       { ok: false, error: error instanceof Error ? error.message : "Refresh failed" },

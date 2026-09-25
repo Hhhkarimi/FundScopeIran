@@ -2,11 +2,12 @@ import { readHistory, readLatestRows, readLatestSourceStatus } from "@/lib/repos
 import type { DashboardData } from "@/lib/types";
 import { summarize } from "@/lib/metrics";
 import { demoDashboard } from "@/lib/demo";
+import { hasDatabase } from "@/lib/db";
 
 export async function getDashboardData(): Promise<DashboardData> {
   const rows = await readLatestRows();
   if (!rows.length) {
-    if (process.env.DEMO_MODE === "true") return demoDashboard();
+    if (!hasDatabase() || process.env.DEMO_MODE === "true") return demoDashboard();
     return {
       mode: "empty",
       generatedAt: new Date().toISOString(),

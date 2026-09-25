@@ -5,10 +5,19 @@ import { fundsToCsv } from "../lib/csv";
 
 async function main() {
   const { rows, result } = await scrapeFundRows();
-  const out = path.join(process.cwd(), "data", "funds-latest.csv");
-  await mkdir(path.dirname(out), { recursive: true });
-  await writeFile(out, fundsToCsv(rows), "utf8");
-  console.log(`Wrote ${rows.length} rows to ${out}`);
+  const dataDir = path.join(process.cwd(), "data");
+  const csvOut = path.join(dataDir, "funds-latest.csv");
+  const jsonOut = path.join(dataDir, "funds-latest.json");
+  await mkdir(dataDir, { recursive: true });
+  await Promise.all([
+    writeFile(csvOut, fundsToCsv(rows), "utf8"),
+    writeFile(jsonOut, JSON.stringify({
+      generatedAt: result.capturedAt,
+      sourceStatus: result.sourceStatus,
+      rows
+    }), "utf8")
+  ]);
+  console.log(`Wrote ${rows.length} rows to ${csvOut} and ${jsonOut}`);
   if (result.warnings.length) console.warn(result.warnings.join("\n"));
 }
 

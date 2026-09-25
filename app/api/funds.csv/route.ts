@@ -1,12 +1,12 @@
-import { readLatestRows } from "@/lib/repository";
+import { getDashboardData } from "@/lib/dashboard";
 import { fundsToCsv } from "@/lib/csv";
 
 export const runtime = "nodejs";
 export const revalidate = 3600;
 
 export async function GET() {
-  const rows = await readLatestRows();
-  const csv = fundsToCsv(rows);
+  const dashboard = await getDashboardData();
+  const csv = fundsToCsv(dashboard.funds);
   return new Response(csv, {
     headers: {
       "Content-Type": "text/csv; charset=utf-8",

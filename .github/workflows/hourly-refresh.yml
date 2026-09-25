@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: hourly-fund-refresh
@@ -23,13 +23,20 @@ jobs:
           node-version: 22
       - name: Install dependencies
         run: npm install --no-audit --no-fund
-      - name: Refresh database and build CSV
+      - name: Build database-free snapshots
         env:
-          DATABASE_URL: ${{ secrets.DATABASE_URL }}
           FIPIRAN_BASE_URL: https://www.fipiran.com/services
           TSETMC_BASE_URL: https://cdn.tsetmc.com/api
           ALLOW_SOURCE_DEGRADATION: "true"
-        run: npm run refresh
+        run: npm run scrape:csv
+      - name: Commit updated snapshots
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/funds-latest.csv data/funds-latest.json
+          git diff --cached --quiet && exit 0
+          git commit -m "data: refresh fund snapshots"
+          git push
       - name: Upload latest CSV
         uses: actions/upload-artifact@v4
         with:

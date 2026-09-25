@@ -268,7 +268,7 @@ export default function DashboardClient({ data }: { data: DashboardData }) {
               <ResponsiveContainer width="100%" height="100%">
                 <Treemap data={treemapData} dataKey="size" nameKey="name" stroke="#10241e" content={(props: any) => {
                   const { x, y, width, height, name, index } = props;
-                  if (width < 40 || height < 28) return null;
+                  if (width < 40 || height < 28) return <g />;
                   return <g><rect x={x} y={y} width={width} height={height} rx={8} fill={categoryColors[name] || "#758a81"} fillOpacity={0.78} /><text x={x + width / 2} y={y + height / 2} textAnchor="middle" dominantBaseline="central" fill="#07100e" fontSize={11} fontWeight={800}>{shortName(name, 10)}</text></g>;
                 }} />
               </ResponsiveContainer>
