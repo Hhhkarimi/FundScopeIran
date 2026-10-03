@@ -24027,6 +24027,8 @@
 {"regNo":"fundbase:فارمانی","date":"2026-09-28","realMoneyFlow":-48000000}
 {"regNo":"fundbase:فرا الگوریتم","date":"2026-09-28","realMoneyFlow":46000000}
 {"regNo":"fundbase:فراز","date":"2026-09-28","realMoneyFlow":52000000}
+{"regNo":"fundbase:هیبرید","date":"2026-09-28","realMoneyFlow":31000000}
+{"regNo":"fundbase:یاس","date":"2026-09-28","realMoneyFlow":-148000000}
 {"regNo":"fundbase:آسام","date":"2026-09-29","realMoneyFlow":-8000000}
 {"regNo":"fundbase:آسان","date":"2026-09-29","realMoneyFlow":-22000000}
 {"regNo":"fundbase:آگاس","date":"2026-09-29","realMoneyFlow":-514000000}
@@ -24148,6 +24150,8 @@
 {"regNo":"fundbase:فارمانی","date":"2026-09-29","realMoneyFlow":-15000000}
 {"regNo":"fundbase:فرا الگوریتم","date":"2026-09-29","realMoneyFlow":12000000}
 {"regNo":"fundbase:فراز","date":"2026-09-29","realMoneyFlow":-14000000}
+{"regNo":"fundbase:هیبرید","date":"2026-09-29","realMoneyFlow":-23000000}
+{"regNo":"fundbase:یاس","date":"2026-09-29","realMoneyFlow":-86000000}
 {"regNo":"fundbase:آسام","date":"2026-09-30","realMoneyFlow":-2000000}
 {"regNo":"fundbase:آسان","date":"2026-09-30","realMoneyFlow":147000000}
 {"regNo":"fundbase:آگاس","date":"2026-09-30","realMoneyFlow":56000000}
@@ -24225,3 +24229,7 @@
 {"regNo":"fundbase:صنم","date":"2026-09-30","realMoneyFlow":64000000}
 {"regNo":"fundbase:صنوین","date":"2026-09-30","realMoneyFlow":2000000}
 {"regNo":"fundbase:ضمان","date":"2026-09-30","realMoneyFlow":28000000}
+{"regNo":"fundbase:هیبرید","date":"2026-09-30","realMoneyFlow":-12000000}
+{"regNo":"fundbase:یاس","date":"2026-09-30","realMoneyFlow":-198000000}
+{"regNo":"fundbase:هیبرید","date":"2026-10-03","realMoneyFlow":13000000}
+{"regNo":"fundbase:یاس","date":"2026-10-03","realMoneyFlow":235000000}
