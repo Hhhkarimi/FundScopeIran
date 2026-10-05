@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-04T15:46:53.209Z",
-  "rowCount": 304,
+  "generatedAt": "2026-10-05T19:36:14.240Z",
+  "rowCount": 319,
   "sourceStatus": {
     "fipiran": "degraded",
     "tsetmc": "degraded",
@@ -12,16 +12,16 @@
     "errors": [],
     "warnings": [],
     "metrics": {
-      "rowCount": 304,
+      "rowCount": 319,
       "duplicateRegNos": 0,
-      "navCoveragePct": 95.1,
+      "navCoveragePct": 95.3,
       "marketCoveragePct": 100,
-      "assetCoveragePct": 98.4,
+      "assetCoveragePct": 97.8,
       "insCodeCoveragePct": 0
     }
   },
   "files": {
-    "funds-latest.json": "a428a5796db53e80185b2331eb07409416a925fd90e2d496b19e2b44fe1281e5",
-    "funds-latest.csv": "54f8af4f768b97d4a02ff967d34b3a44a509c64ce2852e38867a6849f8d15da3"
+    "funds-latest.json": "abb337f186105605865305f37b524bb4ce72f7acdf7bbfdb5ac0607659da8e24",
+    "funds-latest.csv": "be3e214b29964a744999c5068b14131f4fcfeae19f2c852ece0789d9eb1f4aa9"
   }
 }
