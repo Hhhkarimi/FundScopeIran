@@ -1101,12 +1101,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-10-06","realMoneyFlow":-5000000}
 {"regNo":"fundbase:ویستا","date":"2025-10-06","realMoneyFlow":1000000}
 {"regNo":"fundbase:یلدا","date":"2025-10-06","realMoneyFlow":-2000000}
+{"regNo":"fundbase:آتیمس","date":"2025-10-07","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آذرین","date":"2025-10-07","realMoneyFlow":-64000000}
 {"regNo":"fundbase:آرام","date":"2025-10-07","realMoneyFlow":20000000}
 {"regNo":"fundbase:آرامش","date":"2025-10-07","realMoneyFlow":35000000}
 {"regNo":"fundbase:آس","date":"2025-10-07","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آسا","date":"2025-10-07","realMoneyFlow":-19000000}
 {"regNo":"fundbase:آساس","date":"2025-10-07","realMoneyFlow":-5000000}
 {"regNo":"fundbase:آسام","date":"2025-10-07","realMoneyFlow":-6000000}
 {"regNo":"fundbase:آسان","date":"2025-10-07","realMoneyFlow":27000000}
+{"regNo":"fundbase:آفاق","date":"2025-10-07","realMoneyFlow":-201000000}
 {"regNo":"fundbase:آفرین","date":"2025-10-07","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-10-07","realMoneyFlow":40000000}
 {"regNo":"fundbase:آلتون","date":"2025-10-07","realMoneyFlow":-75000000}
@@ -1120,6 +1124,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-10-07","realMoneyFlow":-183000000}
 {"regNo":"fundbase:استیل","date":"2025-10-07","realMoneyFlow":101000000}
 {"regNo":"fundbase:اطلس","date":"2025-10-07","realMoneyFlow":242000000}
+{"regNo":"fundbase:اعتبار","date":"2025-10-07","realMoneyFlow":-824000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-10-07","realMoneyFlow":-1000000}
 {"regNo":"fundbase:اعتماد","date":"2025-10-07","realMoneyFlow":522000000}
 {"regNo":"fundbase:افران","date":"2025-10-07","realMoneyFlow":438000000}
@@ -1146,6 +1151,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-10-07","realMoneyFlow":179000000}
 {"regNo":"fundbase:پادا","date":"2025-10-07","realMoneyFlow":1000000}
 {"regNo":"fundbase:پالایش","date":"2025-10-07","realMoneyFlow":-151000000}
+{"regNo":"fundbase:پایا","date":"2025-10-07","realMoneyFlow":-627000000}
 {"regNo":"fundbase:پایش","date":"2025-10-07","realMoneyFlow":-2000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-10-07","realMoneyFlow":13000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-10-07","realMoneyFlow":33000000}
@@ -1162,7 +1168,9 @@
 {"regNo":"fundbase:تابش","date":"2025-10-07","realMoneyFlow":216000000}
 {"regNo":"fundbase:تاراز","date":"2025-10-07","realMoneyFlow":-2000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-10-07","realMoneyFlow":877000000}
+{"regNo":"fundbase:تداوم","date":"2025-10-07","realMoneyFlow":35000000}
 {"regNo":"fundbase:ترمه","date":"2025-10-07","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-10-07","realMoneyFlow":27000000}
 {"regNo":"fundbase:تکپاد","date":"2025-10-07","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-10-07","realMoneyFlow":-659000000}
 {"regNo":"fundbase:توان","date":"2025-10-07","realMoneyFlow":896000000}
@@ -1298,12 +1306,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-10-07","realMoneyFlow":0}
 {"regNo":"fundbase:ویستا","date":"2025-10-07","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-10-07","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-10-08","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-10-08","realMoneyFlow":-15000000}
 {"regNo":"fundbase:آرام","date":"2025-10-08","realMoneyFlow":-52000000}
 {"regNo":"fundbase:آرامش","date":"2025-10-08","realMoneyFlow":14000000}
 {"regNo":"fundbase:آس","date":"2025-10-08","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آسا","date":"2025-10-08","realMoneyFlow":19000000}
 {"regNo":"fundbase:آساس","date":"2025-10-08","realMoneyFlow":-24000000}
 {"regNo":"fundbase:آسام","date":"2025-10-08","realMoneyFlow":0}
 {"regNo":"fundbase:آسان","date":"2025-10-08","realMoneyFlow":16000000}
+{"regNo":"fundbase:آفاق","date":"2025-10-08","realMoneyFlow":116000000}
 {"regNo":"fundbase:آگاس","date":"2025-10-08","realMoneyFlow":-363000000}
 {"regNo":"fundbase:آلتون","date":"2025-10-08","realMoneyFlow":-163000000}
 {"regNo":"fundbase:آلیاژ","date":"2025-10-08","realMoneyFlow":-40000000}
@@ -1316,6 +1328,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-10-08","realMoneyFlow":-167000000}
 {"regNo":"fundbase:استیل","date":"2025-10-08","realMoneyFlow":-146000000}
 {"regNo":"fundbase:اطلس","date":"2025-10-08","realMoneyFlow":-200000000}
+{"regNo":"fundbase:اعتبار","date":"2025-10-08","realMoneyFlow":537000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-10-08","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-10-08","realMoneyFlow":479000000}
 {"regNo":"fundbase:افران","date":"2025-10-08","realMoneyFlow":578000000}
@@ -1341,6 +1354,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-10-08","realMoneyFlow":111000000}
 {"regNo":"fundbase:پادا","date":"2025-10-08","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-10-08","realMoneyFlow":-835000000}
+{"regNo":"fundbase:پایا","date":"2025-10-08","realMoneyFlow":-29000000}
 {"regNo":"fundbase:پایش","date":"2025-10-08","realMoneyFlow":-3000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-10-08","realMoneyFlow":-1000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-10-08","realMoneyFlow":-31000000}
@@ -1358,7 +1372,9 @@
 {"regNo":"fundbase:تابش","date":"2025-10-08","realMoneyFlow":-30000000}
 {"regNo":"fundbase:تاراز","date":"2025-10-08","realMoneyFlow":-1000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-10-08","realMoneyFlow":-75000000}
+{"regNo":"fundbase:تداوم","date":"2025-10-08","realMoneyFlow":473000000}
 {"regNo":"fundbase:ترمه","date":"2025-10-08","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-10-08","realMoneyFlow":13000000}
 {"regNo":"fundbase:تکپاد","date":"2025-10-08","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-10-08","realMoneyFlow":129000000}
 {"regNo":"fundbase:توان","date":"2025-10-08","realMoneyFlow":396000000}
@@ -1492,12 +1508,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-10-08","realMoneyFlow":1000000}
 {"regNo":"fundbase:ویستا","date":"2025-10-08","realMoneyFlow":-2000000}
 {"regNo":"fundbase:یلدا","date":"2025-10-08","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-10-11","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-10-11","realMoneyFlow":2000000}
 {"regNo":"fundbase:آرام","date":"2025-10-11","realMoneyFlow":-12000000}
 {"regNo":"fundbase:آرامش","date":"2025-10-11","realMoneyFlow":65000000}
 {"regNo":"fundbase:آس","date":"2025-10-11","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-10-11","realMoneyFlow":16000000}
 {"regNo":"fundbase:آساس","date":"2025-10-11","realMoneyFlow":6000000}
 {"regNo":"fundbase:آسام","date":"2025-10-11","realMoneyFlow":0}
 {"regNo":"fundbase:آسان","date":"2025-10-11","realMoneyFlow":47000000}
+{"regNo":"fundbase:آفاق","date":"2025-10-11","realMoneyFlow":13000000}
 {"regNo":"fundbase:آگاس","date":"2025-10-11","realMoneyFlow":-42000000}
 {"regNo":"fundbase:آلتون","date":"2025-10-11","realMoneyFlow":-245000000}
 {"regNo":"fundbase:آلیاژ","date":"2025-10-11","realMoneyFlow":-27000000}
@@ -1511,6 +1531,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-10-11","realMoneyFlow":1000000}
 {"regNo":"fundbase:استیل","date":"2025-10-11","realMoneyFlow":-53000000}
 {"regNo":"fundbase:اطلس","date":"2025-10-11","realMoneyFlow":27000000}
+{"regNo":"fundbase:اعتبار","date":"2025-10-11","realMoneyFlow":-527000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-10-11","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-10-11","realMoneyFlow":202000000}
 {"regNo":"fundbase:افران","date":"2025-10-11","realMoneyFlow":-48000000}
@@ -1536,6 +1557,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-10-11","realMoneyFlow":47000000}
 {"regNo":"fundbase:پادا","date":"2025-10-11","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-10-11","realMoneyFlow":-273000000}
+{"regNo":"fundbase:پایا","date":"2025-10-11","realMoneyFlow":40000000}
 {"regNo":"fundbase:پایش","date":"2025-10-11","realMoneyFlow":-26000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-10-11","realMoneyFlow":0}
 {"regNo":"fundbase:پتروآگاه","date":"2025-10-11","realMoneyFlow":-23000000}
@@ -1553,6 +1575,8 @@
 {"regNo":"fundbase:تابش","date":"2025-10-11","realMoneyFlow":-31000000}
 {"regNo":"fundbase:تاراز","date":"2025-10-11","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-10-11","realMoneyFlow":12000000}
+{"regNo":"fundbase:تداوم","date":"2025-10-11","realMoneyFlow":250000000}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-10-11","realMoneyFlow":26000000}
 {"regNo":"fundbase:تکپاد","date":"2025-10-11","realMoneyFlow":-3000000}
 {"regNo":"fundbase:تمشک","date":"2025-10-11","realMoneyFlow":-366000000}
 {"regNo":"fundbase:توان","date":"2025-10-11","realMoneyFlow":425000000}
@@ -1687,12 +1711,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-10-11","realMoneyFlow":9000000}
 {"regNo":"fundbase:ویستا","date":"2025-10-11","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-10-11","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-10-12","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-10-12","realMoneyFlow":1000000}
 {"regNo":"fundbase:آرام","date":"2025-10-12","realMoneyFlow":135000000}
 {"regNo":"fundbase:آرامش","date":"2025-10-12","realMoneyFlow":-198000000}
 {"regNo":"fundbase:آس","date":"2025-10-12","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-10-12","realMoneyFlow":-46000000}
 {"regNo":"fundbase:آساس","date":"2025-10-12","realMoneyFlow":160000000}
 {"regNo":"fundbase:آسام","date":"2025-10-12","realMoneyFlow":2000000}
 {"regNo":"fundbase:آسان","date":"2025-10-12","realMoneyFlow":4000000}
+{"regNo":"fundbase:آفاق","date":"2025-10-12","realMoneyFlow":-51000000}
 {"regNo":"fundbase:آفرین","date":"2025-10-12","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آگاس","date":"2025-10-12","realMoneyFlow":468000000}
 {"regNo":"fundbase:آلتون","date":"2025-10-12","realMoneyFlow":108000000}
@@ -1707,6 +1735,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-10-12","realMoneyFlow":21000000}
 {"regNo":"fundbase:استیل","date":"2025-10-12","realMoneyFlow":103000000}
 {"regNo":"fundbase:اطلس","date":"2025-10-12","realMoneyFlow":430000000}
+{"regNo":"fundbase:اعتبار","date":"2025-10-12","realMoneyFlow":318000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-10-12","realMoneyFlow":5000000}
 {"regNo":"fundbase:اعتماد","date":"2025-10-12","realMoneyFlow":-362000000}
 {"regNo":"fundbase:افران","date":"2025-10-12","realMoneyFlow":-254000000}
@@ -1733,6 +1762,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-10-12","realMoneyFlow":49000000}
 {"regNo":"fundbase:پادا","date":"2025-10-12","realMoneyFlow":-8000000}
 {"regNo":"fundbase:پالایش","date":"2025-10-12","realMoneyFlow":189000000}
+{"regNo":"fundbase:پایا","date":"2025-10-12","realMoneyFlow":228000000}
 {"regNo":"fundbase:پایش","date":"2025-10-12","realMoneyFlow":-2000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-10-12","realMoneyFlow":9000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-10-12","realMoneyFlow":46000000}
@@ -1750,7 +1780,9 @@
 {"regNo":"fundbase:تابش","date":"2025-10-12","realMoneyFlow":-24000000}
 {"regNo":"fundbase:تاراز","date":"2025-10-12","realMoneyFlow":22000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-10-12","realMoneyFlow":40000000}
+{"regNo":"fundbase:تداوم","date":"2025-10-12","realMoneyFlow":244000000}
 {"regNo":"fundbase:ترمه","date":"2025-10-12","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-10-12","realMoneyFlow":12000000}
 {"regNo":"fundbase:تکپاد","date":"2025-10-12","realMoneyFlow":4000000}
 {"regNo":"fundbase:تمشک","date":"2025-10-12","realMoneyFlow":27000000}
 {"regNo":"fundbase:توان","date":"2025-10-12","realMoneyFlow":278000000}
@@ -1885,12 +1917,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-10-12","realMoneyFlow":21000000}
 {"regNo":"fundbase:ویستا","date":"2025-10-12","realMoneyFlow":3000000}
 {"regNo":"fundbase:یلدا","date":"2025-10-12","realMoneyFlow":2000000}
+{"regNo":"fundbase:آتیمس","date":"2025-10-13","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آذرین","date":"2025-10-13","realMoneyFlow":-7000000}
 {"regNo":"fundbase:آرام","date":"2025-10-13","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آرامش","date":"2025-10-13","realMoneyFlow":-34000000}
 {"regNo":"fundbase:آس","date":"2025-10-13","realMoneyFlow":-20000000}
+{"regNo":"fundbase:آسا","date":"2025-10-13","realMoneyFlow":-35000000}
 {"regNo":"fundbase:آساس","date":"2025-10-13","realMoneyFlow":-102000000}
 {"regNo":"fundbase:آسام","date":"2025-10-13","realMoneyFlow":-5000000}
 {"regNo":"fundbase:آسان","date":"2025-10-13","realMoneyFlow":-16000000}
+{"regNo":"fundbase:آفاق","date":"2025-10-13","realMoneyFlow":-51000000}
 {"regNo":"fundbase:آفرین","date":"2025-10-13","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-10-13","realMoneyFlow":-261000000}
 {"regNo":"fundbase:آلتون","date":"2025-10-13","realMoneyFlow":-469000000}
@@ -1905,6 +1941,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-10-13","realMoneyFlow":8000000}
 {"regNo":"fundbase:استیل","date":"2025-10-13","realMoneyFlow":-95000000}
 {"regNo":"fundbase:اطلس","date":"2025-10-13","realMoneyFlow":-53000000}
+{"regNo":"fundbase:اعتبار","date":"2025-10-13","realMoneyFlow":-521000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-10-13","realMoneyFlow":1000000}
 {"regNo":"fundbase:اعتماد","date":"2025-10-13","realMoneyFlow":-400000000}
 {"regNo":"fundbase:افران","date":"2025-10-13","realMoneyFlow":-153000000}
@@ -1931,6 +1968,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-10-13","realMoneyFlow":-17000000}
 {"regNo":"fundbase:پادا","date":"2025-10-13","realMoneyFlow":-1000000}
 {"regNo":"fundbase:پالایش","date":"2025-10-13","realMoneyFlow":279000000}
+{"regNo":"fundbase:پایا","date":"2025-10-13","realMoneyFlow":57000000}
 {"regNo":"fundbase:پایش","date":"2025-10-13","realMoneyFlow":-19000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-10-13","realMoneyFlow":-27000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-10-13","realMoneyFlow":-95000000}
@@ -1948,7 +1986,9 @@
 {"regNo":"fundbase:تابش","date":"2025-10-13","realMoneyFlow":15000000}
 {"regNo":"fundbase:تاراز","date":"2025-10-13","realMoneyFlow":-21000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-10-13","realMoneyFlow":-3000000}
+{"regNo":"fundbase:تداوم","date":"2025-10-13","realMoneyFlow":143000000}
 {"regNo":"fundbase:ترمه","date":"2025-10-13","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-10-13","realMoneyFlow":-2000000}
 {"regNo":"fundbase:تکپاد","date":"2025-10-13","realMoneyFlow":-4000000}
 {"regNo":"fundbase:تمشک","date":"2025-10-13","realMoneyFlow":-67000000}
 {"regNo":"fundbase:توان","date":"2025-10-13","realMoneyFlow":619000000}
@@ -2084,12 +2124,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-10-13","realMoneyFlow":-6000000}
 {"regNo":"fundbase:ویستا","date":"2025-10-13","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-10-13","realMoneyFlow":-3000000}
+{"regNo":"fundbase:آتیمس","date":"2025-10-14","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آذرین","date":"2025-10-14","realMoneyFlow":-13000000}
 {"regNo":"fundbase:آرام","date":"2025-10-14","realMoneyFlow":-53000000}
 {"regNo":"fundbase:آرامش","date":"2025-10-14","realMoneyFlow":10000000}
 {"regNo":"fundbase:آس","date":"2025-10-14","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-10-14","realMoneyFlow":-2000000}
 {"regNo":"fundbase:آساس","date":"2025-10-14","realMoneyFlow":-54000000}
 {"regNo":"fundbase:آسام","date":"2025-10-14","realMoneyFlow":0}
 {"regNo":"fundbase:آسان","date":"2025-10-14","realMoneyFlow":1000000}
+{"regNo":"fundbase:آفاق","date":"2025-10-14","realMoneyFlow":-179000000}
 {"regNo":"fundbase:آفرین","date":"2025-10-14","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-10-14","realMoneyFlow":-128000000}
 {"regNo":"fundbase:آلتون","date":"2025-10-14","realMoneyFlow":77000000}
@@ -2104,6 +2148,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-10-14","realMoneyFlow":-11000000}
 {"regNo":"fundbase:استیل","date":"2025-10-14","realMoneyFlow":-149000000}
 {"regNo":"fundbase:اطلس","date":"2025-10-14","realMoneyFlow":-37000000}
+{"regNo":"fundbase:اعتبار","date":"2025-10-14","realMoneyFlow":570000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-10-14","realMoneyFlow":-1000000}
 {"regNo":"fundbase:اعتماد","date":"2025-10-14","realMoneyFlow":259000000}
 {"regNo":"fundbase:افران","date":"2025-10-14","realMoneyFlow":1204000000}
@@ -2129,6 +2174,7 @@
 {"regNo":"fundbase:بهین رو","date":"2025-10-14","realMoneyFlow":-47000000}
 {"regNo":"fundbase:بیدار","date":"2025-10-14","realMoneyFlow":-2000000}
 {"regNo":"fundbase:پالایش","date":"2025-10-14","realMoneyFlow":-481000000}
+{"regNo":"fundbase:پایا","date":"2025-10-14","realMoneyFlow":62000000}
 {"regNo":"fundbase:پایش","date":"2025-10-14","realMoneyFlow":1000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-10-14","realMoneyFlow":-21000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-10-14","realMoneyFlow":-58000000}
@@ -2146,7 +2192,9 @@
 {"regNo":"fundbase:تابش","date":"2025-10-14","realMoneyFlow":40000000}
 {"regNo":"fundbase:تاراز","date":"2025-10-14","realMoneyFlow":-2000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-10-14","realMoneyFlow":109000000}
+{"regNo":"fundbase:تداوم","date":"2025-10-14","realMoneyFlow":131000000}
 {"regNo":"fundbase:ترمه","date":"2025-10-14","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-10-14","realMoneyFlow":-21000000}
 {"regNo":"fundbase:تکپاد","date":"2025-10-14","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-10-14","realMoneyFlow":-2000000}
 {"regNo":"fundbase:توان","date":"2025-10-14","realMoneyFlow":-94000000}
@@ -2280,12 +2328,15 @@
 {"regNo":"fundbase:وبازار","date":"2025-10-14","realMoneyFlow":-23000000}
 {"regNo":"fundbase:ویستا","date":"2025-10-14","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-10-14","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-10-15","realMoneyFlow":1000000}
 {"regNo":"fundbase:آرام","date":"2025-10-15","realMoneyFlow":-4000000}
 {"regNo":"fundbase:آرامش","date":"2025-10-15","realMoneyFlow":-102000000}
 {"regNo":"fundbase:آس","date":"2025-10-15","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آسا","date":"2025-10-15","realMoneyFlow":6000000}
 {"regNo":"fundbase:آساس","date":"2025-10-15","realMoneyFlow":-32000000}
 {"regNo":"fundbase:آسام","date":"2025-10-15","realMoneyFlow":-2000000}
 {"regNo":"fundbase:آسان","date":"2025-10-15","realMoneyFlow":44000000}
+{"regNo":"fundbase:آفاق","date":"2025-10-15","realMoneyFlow":121000000}
 {"regNo":"fundbase:آفرین","date":"2025-10-15","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-10-15","realMoneyFlow":-17000000}
 {"regNo":"fundbase:آلتون","date":"2025-10-15","realMoneyFlow":-205000000}
@@ -2300,6 +2351,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-10-15","realMoneyFlow":4000000}
 {"regNo":"fundbase:استیل","date":"2025-10-15","realMoneyFlow":-57000000}
 {"regNo":"fundbase:اطلس","date":"2025-10-15","realMoneyFlow":-127000000}
+{"regNo":"fundbase:اعتبار","date":"2025-10-15","realMoneyFlow":-293000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-10-15","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-10-15","realMoneyFlow":111000000}
 {"regNo":"fundbase:افران","date":"2025-10-15","realMoneyFlow":584000000}
@@ -2326,6 +2378,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-10-15","realMoneyFlow":81000000}
 {"regNo":"fundbase:پادا","date":"2025-10-15","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-10-15","realMoneyFlow":-455000000}
+{"regNo":"fundbase:پایا","date":"2025-10-15","realMoneyFlow":250000000}
 {"regNo":"fundbase:پایش","date":"2025-10-15","realMoneyFlow":12000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-10-15","realMoneyFlow":-1000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-10-15","realMoneyFlow":0}
@@ -2343,6 +2396,8 @@
 {"regNo":"fundbase:تابش","date":"2025-10-15","realMoneyFlow":-36000000}
 {"regNo":"fundbase:تاراز","date":"2025-10-15","realMoneyFlow":-1000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-10-15","realMoneyFlow":-224000000}
+{"regNo":"fundbase:تداوم","date":"2025-10-15","realMoneyFlow":261000000}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-10-15","realMoneyFlow":5000000}
 {"regNo":"fundbase:تکپاد","date":"2025-10-15","realMoneyFlow":-1000000}
 {"regNo":"fundbase:تمشک","date":"2025-10-15","realMoneyFlow":-18000000}
 {"regNo":"fundbase:توان","date":"2025-10-15","realMoneyFlow":-23000000}
@@ -2475,12 +2530,16 @@
 {"regNo":"fundbase:هیوا","date":"2025-10-15","realMoneyFlow":0}
 {"regNo":"fundbase:وبازار","date":"2025-10-15","realMoneyFlow":-13000000}
 {"regNo":"fundbase:یلدا","date":"2025-10-15","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-10-18","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-10-18","realMoneyFlow":30000000}
 {"regNo":"fundbase:آرام","date":"2025-10-18","realMoneyFlow":62000000}
 {"regNo":"fundbase:آرامش","date":"2025-10-18","realMoneyFlow":-10000000}
 {"regNo":"fundbase:آس","date":"2025-10-18","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آسا","date":"2025-10-18","realMoneyFlow":-112000000}
 {"regNo":"fundbase:آساس","date":"2025-10-18","realMoneyFlow":287000000}
 {"regNo":"fundbase:آسام","date":"2025-10-18","realMoneyFlow":35000000}
 {"regNo":"fundbase:آسان","date":"2025-10-18","realMoneyFlow":-3000000}
+{"regNo":"fundbase:آفاق","date":"2025-10-18","realMoneyFlow":62000000}
 {"regNo":"fundbase:آفرین","date":"2025-10-18","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-10-18","realMoneyFlow":27000000}
 {"regNo":"fundbase:آلتون","date":"2025-10-18","realMoneyFlow":-23000000}
@@ -2495,6 +2554,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-10-18","realMoneyFlow":-51000000}
 {"regNo":"fundbase:استیل","date":"2025-10-18","realMoneyFlow":125000000}
 {"regNo":"fundbase:اطلس","date":"2025-10-18","realMoneyFlow":69000000}
+{"regNo":"fundbase:اعتبار","date":"2025-10-18","realMoneyFlow":816000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-10-18","realMoneyFlow":-1000000}
 {"regNo":"fundbase:اعتماد","date":"2025-10-18","realMoneyFlow":-1108000000}
 {"regNo":"fundbase:افران","date":"2025-10-18","realMoneyFlow":-3790000000}
@@ -2521,6 +2581,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-10-18","realMoneyFlow":-42000000}
 {"regNo":"fundbase:پادا","date":"2025-10-18","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-10-18","realMoneyFlow":444000000}
+{"regNo":"fundbase:پایا","date":"2025-10-18","realMoneyFlow":-13000000}
 {"regNo":"fundbase:پایش","date":"2025-10-18","realMoneyFlow":-8000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-10-18","realMoneyFlow":79000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-10-18","realMoneyFlow":-12000000}
@@ -2537,7 +2598,9 @@
 {"regNo":"fundbase:تابش","date":"2025-10-18","realMoneyFlow":94000000}
 {"regNo":"fundbase:تاراز","date":"2025-10-18","realMoneyFlow":1000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-10-18","realMoneyFlow":-56000000}
+{"regNo":"fundbase:تداوم","date":"2025-10-18","realMoneyFlow":163000000}
 {"regNo":"fundbase:ترمه","date":"2025-10-18","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-10-18","realMoneyFlow":-11000000}
 {"regNo":"fundbase:تکپاد","date":"2025-10-18","realMoneyFlow":17000000}
 {"regNo":"fundbase:تمشک","date":"2025-10-18","realMoneyFlow":-23000000}
 {"regNo":"fundbase:توان","date":"2025-10-18","realMoneyFlow":-9000000}
@@ -2670,12 +2733,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-10-18","realMoneyFlow":47000000}
 {"regNo":"fundbase:ویستا","date":"2025-10-18","realMoneyFlow":4000000}
 {"regNo":"fundbase:یلدا","date":"2025-10-18","realMoneyFlow":32000000}
+{"regNo":"fundbase:آتیمس","date":"2025-10-19","realMoneyFlow":-4000000}
+{"regNo":"fundbase:آذرین","date":"2025-10-19","realMoneyFlow":-31000000}
 {"regNo":"fundbase:آرام","date":"2025-10-19","realMoneyFlow":-14000000}
 {"regNo":"fundbase:آرامش","date":"2025-10-19","realMoneyFlow":-7000000}
 {"regNo":"fundbase:آس","date":"2025-10-19","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-10-19","realMoneyFlow":-23000000}
 {"regNo":"fundbase:آساس","date":"2025-10-19","realMoneyFlow":-167000000}
 {"regNo":"fundbase:آسام","date":"2025-10-19","realMoneyFlow":-38000000}
 {"regNo":"fundbase:آسان","date":"2025-10-19","realMoneyFlow":-8000000}
+{"regNo":"fundbase:آفاق","date":"2025-10-19","realMoneyFlow":-11000000}
 {"regNo":"fundbase:آفرین","date":"2025-10-19","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-10-19","realMoneyFlow":37000000}
 {"regNo":"fundbase:آلتون","date":"2025-10-19","realMoneyFlow":-427000000}
@@ -2690,6 +2757,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-10-19","realMoneyFlow":26000000}
 {"regNo":"fundbase:استیل","date":"2025-10-19","realMoneyFlow":-78000000}
 {"regNo":"fundbase:اطلس","date":"2025-10-19","realMoneyFlow":-171000000}
+{"regNo":"fundbase:اعتبار","date":"2025-10-19","realMoneyFlow":-562000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-10-19","realMoneyFlow":2000000}
 {"regNo":"fundbase:اعتماد","date":"2025-10-19","realMoneyFlow":-520000000}
 {"regNo":"fundbase:افران","date":"2025-10-19","realMoneyFlow":-1316000000}
@@ -2717,6 +2785,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-10-19","realMoneyFlow":222000000}
 {"regNo":"fundbase:پادا","date":"2025-10-19","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-10-19","realMoneyFlow":-10000000}
+{"regNo":"fundbase:پایا","date":"2025-10-19","realMoneyFlow":-126000000}
 {"regNo":"fundbase:پایش","date":"2025-10-19","realMoneyFlow":-1000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-10-19","realMoneyFlow":-7000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-10-19","realMoneyFlow":22000000}
@@ -2734,7 +2803,9 @@
 {"regNo":"fundbase:تابش","date":"2025-10-19","realMoneyFlow":278000000}
 {"regNo":"fundbase:تاراز","date":"2025-10-19","realMoneyFlow":-2000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-10-19","realMoneyFlow":-9000000}
+{"regNo":"fundbase:تداوم","date":"2025-10-19","realMoneyFlow":-640000000}
 {"regNo":"fundbase:ترمه","date":"2025-10-19","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-10-19","realMoneyFlow":-47000000}
 {"regNo":"fundbase:تکپاد","date":"2025-10-19","realMoneyFlow":-19000000}
 {"regNo":"fundbase:تمشک","date":"2025-10-19","realMoneyFlow":14000000}
 {"regNo":"fundbase:توان","date":"2025-10-19","realMoneyFlow":31000000}
@@ -2867,12 +2938,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-10-19","realMoneyFlow":-39000000}
 {"regNo":"fundbase:ویستا","date":"2025-10-19","realMoneyFlow":-4000000}
 {"regNo":"fundbase:یلدا","date":"2025-10-19","realMoneyFlow":-5000000}
+{"regNo":"fundbase:آتیمس","date":"2025-10-20","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آذرین","date":"2025-10-20","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آرام","date":"2025-10-20","realMoneyFlow":-11000000}
 {"regNo":"fundbase:آرامش","date":"2025-10-20","realMoneyFlow":-100000000}
 {"regNo":"fundbase:آس","date":"2025-10-20","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آسا","date":"2025-10-20","realMoneyFlow":-6000000}
 {"regNo":"fundbase:آساس","date":"2025-10-20","realMoneyFlow":-47000000}
 {"regNo":"fundbase:آسام","date":"2025-10-20","realMoneyFlow":1000000}
 {"regNo":"fundbase:آسان","date":"2025-10-20","realMoneyFlow":7000000}
+{"regNo":"fundbase:آفاق","date":"2025-10-20","realMoneyFlow":-81000000}
 {"regNo":"fundbase:آفرین","date":"2025-10-20","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-10-20","realMoneyFlow":-206000000}
 {"regNo":"fundbase:آلتون","date":"2025-10-20","realMoneyFlow":124000000}
@@ -2887,6 +2962,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-10-20","realMoneyFlow":5000000}
 {"regNo":"fundbase:استیل","date":"2025-10-20","realMoneyFlow":-9000000}
 {"regNo":"fundbase:اطلس","date":"2025-10-20","realMoneyFlow":-110000000}
+{"regNo":"fundbase:اعتبار","date":"2025-10-20","realMoneyFlow":558000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-10-20","realMoneyFlow":-13000000}
 {"regNo":"fundbase:اعتماد","date":"2025-10-20","realMoneyFlow":53000000}
 {"regNo":"fundbase:افران","date":"2025-10-20","realMoneyFlow":1506000000}
@@ -2914,6 +2990,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-10-20","realMoneyFlow":-557000000}
 {"regNo":"fundbase:پادا","date":"2025-10-20","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-10-20","realMoneyFlow":-181000000}
+{"regNo":"fundbase:پایا","date":"2025-10-20","realMoneyFlow":185000000}
 {"regNo":"fundbase:پایش","date":"2025-10-20","realMoneyFlow":116000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-10-20","realMoneyFlow":-8000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-10-20","realMoneyFlow":-24000000}
@@ -2929,6 +3006,8 @@
 {"regNo":"fundbase:تابش","date":"2025-10-20","realMoneyFlow":2000000}
 {"regNo":"fundbase:تاراز","date":"2025-10-20","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-10-20","realMoneyFlow":-26000000}
+{"regNo":"fundbase:تداوم","date":"2025-10-20","realMoneyFlow":45000000}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-10-20","realMoneyFlow":30000000}
 {"regNo":"fundbase:تکپاد","date":"2025-10-20","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-10-20","realMoneyFlow":18000000}
 {"regNo":"fundbase:توان","date":"2025-10-20","realMoneyFlow":-160000000}
@@ -3059,12 +3138,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-10-20","realMoneyFlow":-4000000}
 {"regNo":"fundbase:ویستا","date":"2025-10-20","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-10-20","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-10-21","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-10-21","realMoneyFlow":0}
 {"regNo":"fundbase:آرام","date":"2025-10-21","realMoneyFlow":9000000}
 {"regNo":"fundbase:آرامش","date":"2025-10-21","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آس","date":"2025-10-21","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-10-21","realMoneyFlow":7000000}
 {"regNo":"fundbase:آساس","date":"2025-10-21","realMoneyFlow":-24000000}
 {"regNo":"fundbase:آسام","date":"2025-10-21","realMoneyFlow":0}
 {"regNo":"fundbase:آسان","date":"2025-10-21","realMoneyFlow":43000000}
+{"regNo":"fundbase:آفاق","date":"2025-10-21","realMoneyFlow":-75000000}
 {"regNo":"fundbase:آفرین","date":"2025-10-21","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آگاس","date":"2025-10-21","realMoneyFlow":-71000000}
 {"regNo":"fundbase:آلتون","date":"2025-10-21","realMoneyFlow":-898000000}
@@ -3079,6 +3162,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-10-21","realMoneyFlow":-4000000}
 {"regNo":"fundbase:استیل","date":"2025-10-21","realMoneyFlow":-17000000}
 {"regNo":"fundbase:اطلس","date":"2025-10-21","realMoneyFlow":-33000000}
+{"regNo":"fundbase:اعتبار","date":"2025-10-21","realMoneyFlow":-635000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-10-21","realMoneyFlow":-1000000}
 {"regNo":"fundbase:اعتماد","date":"2025-10-21","realMoneyFlow":-53000000}
 {"regNo":"fundbase:افران","date":"2025-10-21","realMoneyFlow":897000000}
@@ -3104,6 +3188,7 @@
 {"regNo":"fundbase:بهین رو","date":"2025-10-21","realMoneyFlow":-28000000}
 {"regNo":"fundbase:بیدار","date":"2025-10-21","realMoneyFlow":99000000}
 {"regNo":"fundbase:پالایش","date":"2025-10-21","realMoneyFlow":1155000000}
+{"regNo":"fundbase:پایا","date":"2025-10-21","realMoneyFlow":9000000}
 {"regNo":"fundbase:پایش","date":"2025-10-21","realMoneyFlow":20000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-10-21","realMoneyFlow":-2000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-10-21","realMoneyFlow":-34000000}
@@ -3120,8 +3205,10 @@
 {"regNo":"fundbase:تابش","date":"2025-10-21","realMoneyFlow":-1000000}
 {"regNo":"fundbase:تاراز","date":"2025-10-21","realMoneyFlow":-1000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-10-21","realMoneyFlow":-61000000}
+{"regNo":"fundbase:تداوم","date":"2025-10-21","realMoneyFlow":45000000}
 {"regNo":"fundbase:تدبیریکم","date":"2025-10-21","realMoneyFlow":0}
 {"regNo":"fundbase:ترمه","date":"2025-10-21","realMoneyFlow":-4000000}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-10-21","realMoneyFlow":29000000}
 {"regNo":"fundbase:تکپاد","date":"2025-10-21","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-10-21","realMoneyFlow":-231000000}
 {"regNo":"fundbase:توان","date":"2025-10-21","realMoneyFlow":57000000}
@@ -3250,11 +3337,15 @@
 {"regNo":"fundbase:وبازار","date":"2025-10-21","realMoneyFlow":-11000000}
 {"regNo":"fundbase:ویستا","date":"2025-10-21","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-10-21","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-10-22","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-10-22","realMoneyFlow":1000000}
 {"regNo":"fundbase:آرام","date":"2025-10-22","realMoneyFlow":17000000}
 {"regNo":"fundbase:آرامش","date":"2025-10-22","realMoneyFlow":0}
 {"regNo":"fundbase:آس","date":"2025-10-22","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-10-22","realMoneyFlow":0}
 {"regNo":"fundbase:آساس","date":"2025-10-22","realMoneyFlow":-126000000}
 {"regNo":"fundbase:آسام","date":"2025-10-22","realMoneyFlow":-8000000}
+{"regNo":"fundbase:آفاق","date":"2025-10-22","realMoneyFlow":18000000}
 {"regNo":"fundbase:آفرین","date":"2025-10-22","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-10-22","realMoneyFlow":32000000}
 {"regNo":"fundbase:آلتون","date":"2025-10-22","realMoneyFlow":192000000}
@@ -3269,6 +3360,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-10-22","realMoneyFlow":0}
 {"regNo":"fundbase:استیل","date":"2025-10-22","realMoneyFlow":-20000000}
 {"regNo":"fundbase:اطلس","date":"2025-10-22","realMoneyFlow":140000000}
+{"regNo":"fundbase:اعتبار","date":"2025-10-22","realMoneyFlow":27000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-10-22","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-10-22","realMoneyFlow":2000000}
 {"regNo":"fundbase:افران","date":"2025-10-22","realMoneyFlow":-11000000}
@@ -3295,6 +3387,7 @@
 {"regNo":"fundbase:بهین رو","date":"2025-10-22","realMoneyFlow":-46000000}
 {"regNo":"fundbase:بیدار","date":"2025-10-22","realMoneyFlow":580000000}
 {"regNo":"fundbase:پالایش","date":"2025-10-22","realMoneyFlow":-66000000}
+{"regNo":"fundbase:پایا","date":"2025-10-22","realMoneyFlow":54000000}
 {"regNo":"fundbase:پایش","date":"2025-10-22","realMoneyFlow":-32000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-10-22","realMoneyFlow":4000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-10-22","realMoneyFlow":-37000000}
@@ -3313,6 +3406,7 @@
 {"regNo":"fundbase:تاراز","date":"2025-10-22","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-10-22","realMoneyFlow":-15000000}
 {"regNo":"fundbase:ترمه","date":"2025-10-22","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-10-22","realMoneyFlow":0}
 {"regNo":"fundbase:تکپاد","date":"2025-10-22","realMoneyFlow":-1000000}
 {"regNo":"fundbase:تمشک","date":"2025-10-22","realMoneyFlow":-14000000}
 {"regNo":"fundbase:توان","date":"2025-10-22","realMoneyFlow":431000000}
@@ -3445,12 +3539,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-10-22","realMoneyFlow":-3000000}
 {"regNo":"fundbase:ویستا","date":"2025-10-22","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-10-22","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-10-25","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-10-25","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آرام","date":"2025-10-25","realMoneyFlow":29000000}
 {"regNo":"fundbase:آرامش","date":"2025-10-25","realMoneyFlow":37000000}
 {"regNo":"fundbase:آس","date":"2025-10-25","realMoneyFlow":-2000000}
+{"regNo":"fundbase:آسا","date":"2025-10-25","realMoneyFlow":-58000000}
 {"regNo":"fundbase:آساس","date":"2025-10-25","realMoneyFlow":-137000000}
 {"regNo":"fundbase:آسام","date":"2025-10-25","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آسان","date":"2025-10-25","realMoneyFlow":37000000}
+{"regNo":"fundbase:آفاق","date":"2025-10-25","realMoneyFlow":482000000}
 {"regNo":"fundbase:آفرین","date":"2025-10-25","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-10-25","realMoneyFlow":-166000000}
 {"regNo":"fundbase:آلتون","date":"2025-10-25","realMoneyFlow":393000000}
@@ -3464,6 +3562,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-10-25","realMoneyFlow":-38000000}
 {"regNo":"fundbase:استیل","date":"2025-10-25","realMoneyFlow":-5000000}
 {"regNo":"fundbase:اطلس","date":"2025-10-25","realMoneyFlow":137000000}
+{"regNo":"fundbase:اعتبار","date":"2025-10-25","realMoneyFlow":-478000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-10-25","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-10-25","realMoneyFlow":-174000000}
 {"regNo":"fundbase:افران","date":"2025-10-25","realMoneyFlow":1364000000}
@@ -3490,6 +3589,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-10-25","realMoneyFlow":-34000000}
 {"regNo":"fundbase:پادا","date":"2025-10-25","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-10-25","realMoneyFlow":31000000}
+{"regNo":"fundbase:پایا","date":"2025-10-25","realMoneyFlow":-175000000}
 {"regNo":"fundbase:پایش","date":"2025-10-25","realMoneyFlow":-5000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-10-25","realMoneyFlow":-21000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-10-25","realMoneyFlow":-19000000}
@@ -3506,7 +3606,9 @@
 {"regNo":"fundbase:تابش","date":"2025-10-25","realMoneyFlow":-61000000}
 {"regNo":"fundbase:تاراز","date":"2025-10-25","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-10-25","realMoneyFlow":6000000}
+{"regNo":"fundbase:تداوم","date":"2025-10-25","realMoneyFlow":286000000}
 {"regNo":"fundbase:ترمه","date":"2025-10-25","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-10-25","realMoneyFlow":-81000000}
 {"regNo":"fundbase:تکپاد","date":"2025-10-25","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-10-25","realMoneyFlow":0}
 {"regNo":"fundbase:توان","date":"2025-10-25","realMoneyFlow":-41000000}
@@ -3638,12 +3740,16 @@
 {"regNo":"fundbase:هیوا","date":"2025-10-25","realMoneyFlow":0}
 {"regNo":"fundbase:وبازار","date":"2025-10-25","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-10-25","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-10-26","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-10-26","realMoneyFlow":2000000}
 {"regNo":"fundbase:آرام","date":"2025-10-26","realMoneyFlow":113000000}
 {"regNo":"fundbase:آرامش","date":"2025-10-26","realMoneyFlow":121000000}
 {"regNo":"fundbase:آس","date":"2025-10-26","realMoneyFlow":-16000000}
+{"regNo":"fundbase:آسا","date":"2025-10-26","realMoneyFlow":62000000}
 {"regNo":"fundbase:آساس","date":"2025-10-26","realMoneyFlow":-136000000}
 {"regNo":"fundbase:آسام","date":"2025-10-26","realMoneyFlow":5000000}
 {"regNo":"fundbase:آسان","date":"2025-10-26","realMoneyFlow":68000000}
+{"regNo":"fundbase:آفاق","date":"2025-10-26","realMoneyFlow":81000000}
 {"regNo":"fundbase:آفرین","date":"2025-10-26","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-10-26","realMoneyFlow":-178000000}
 {"regNo":"fundbase:آلتون","date":"2025-10-26","realMoneyFlow":-533000000}
@@ -3658,6 +3764,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-10-26","realMoneyFlow":8000000}
 {"regNo":"fundbase:استیل","date":"2025-10-26","realMoneyFlow":5000000}
 {"regNo":"fundbase:اطلس","date":"2025-10-26","realMoneyFlow":-53000000}
+{"regNo":"fundbase:اعتبار","date":"2025-10-26","realMoneyFlow":647000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-10-26","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-10-26","realMoneyFlow":1000000}
 {"regNo":"fundbase:افران","date":"2025-10-26","realMoneyFlow":911000000}
@@ -3684,6 +3791,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-10-26","realMoneyFlow":-92000000}
 {"regNo":"fundbase:پادا","date":"2025-10-26","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-10-26","realMoneyFlow":-352000000}
+{"regNo":"fundbase:پایا","date":"2025-10-26","realMoneyFlow":-73000000}
 {"regNo":"fundbase:پایش","date":"2025-10-26","realMoneyFlow":209000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-10-26","realMoneyFlow":310000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-10-26","realMoneyFlow":144000000}
@@ -3701,6 +3809,8 @@
 {"regNo":"fundbase:تابش","date":"2025-10-26","realMoneyFlow":-19000000}
 {"regNo":"fundbase:تاراز","date":"2025-10-26","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-10-26","realMoneyFlow":-17000000}
+{"regNo":"fundbase:تداوم","date":"2025-10-26","realMoneyFlow":89000000}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-10-26","realMoneyFlow":-9000000}
 {"regNo":"fundbase:تکپاد","date":"2025-10-26","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-10-26","realMoneyFlow":9000000}
 {"regNo":"fundbase:توان","date":"2025-10-26","realMoneyFlow":-170000000}
@@ -3837,12 +3947,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-10-26","realMoneyFlow":-6000000}
 {"regNo":"fundbase:ویستا","date":"2025-10-26","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-10-26","realMoneyFlow":5000000}
+{"regNo":"fundbase:آتیمس","date":"2025-10-27","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-10-27","realMoneyFlow":8000000}
 {"regNo":"fundbase:آرام","date":"2025-10-27","realMoneyFlow":192000000}
 {"regNo":"fundbase:آرامش","date":"2025-10-27","realMoneyFlow":86000000}
 {"regNo":"fundbase:آس","date":"2025-10-27","realMoneyFlow":-4000000}
+{"regNo":"fundbase:آسا","date":"2025-10-27","realMoneyFlow":33000000}
 {"regNo":"fundbase:آساس","date":"2025-10-27","realMoneyFlow":-8000000}
 {"regNo":"fundbase:آسام","date":"2025-10-27","realMoneyFlow":10000000}
 {"regNo":"fundbase:آسان","date":"2025-10-27","realMoneyFlow":51000000}
+{"regNo":"fundbase:آفاق","date":"2025-10-27","realMoneyFlow":24000000}
 {"regNo":"fundbase:آفرین","date":"2025-10-27","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-10-27","realMoneyFlow":59000000}
 {"regNo":"fundbase:آلتون","date":"2025-10-27","realMoneyFlow":-64000000}
@@ -3857,6 +3971,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-10-27","realMoneyFlow":-2000000}
 {"regNo":"fundbase:استیل","date":"2025-10-27","realMoneyFlow":71000000}
 {"regNo":"fundbase:اطلس","date":"2025-10-27","realMoneyFlow":269000000}
+{"regNo":"fundbase:اعتبار","date":"2025-10-27","realMoneyFlow":-161000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-10-27","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-10-27","realMoneyFlow":491000000}
 {"regNo":"fundbase:افران","date":"2025-10-27","realMoneyFlow":165000000}
@@ -3883,6 +3998,7 @@
 {"regNo":"fundbase:بهین رو","date":"2025-10-27","realMoneyFlow":16000000}
 {"regNo":"fundbase:بیدار","date":"2025-10-27","realMoneyFlow":366000000}
 {"regNo":"fundbase:پالایش","date":"2025-10-27","realMoneyFlow":513000000}
+{"regNo":"fundbase:پایا","date":"2025-10-27","realMoneyFlow":-68000000}
 {"regNo":"fundbase:پایش","date":"2025-10-27","realMoneyFlow":-5000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-10-27","realMoneyFlow":-89000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-10-27","realMoneyFlow":-3000000}
@@ -3899,7 +4015,9 @@
 {"regNo":"fundbase:تابش","date":"2025-10-27","realMoneyFlow":68000000}
 {"regNo":"fundbase:تاراز","date":"2025-10-27","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-10-27","realMoneyFlow":-136000000}
+{"regNo":"fundbase:تداوم","date":"2025-10-27","realMoneyFlow":343000000}
 {"regNo":"fundbase:ترمه","date":"2025-10-27","realMoneyFlow":1000000}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-10-27","realMoneyFlow":-25000000}
 {"regNo":"fundbase:تکپاد","date":"2025-10-27","realMoneyFlow":6000000}
 {"regNo":"fundbase:تمشک","date":"2025-10-27","realMoneyFlow":-1000000}
 {"regNo":"fundbase:توان","date":"2025-10-27","realMoneyFlow":-384000000}
@@ -4037,12 +4155,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-10-27","realMoneyFlow":0}
 {"regNo":"fundbase:ویستا","date":"2025-10-27","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-10-27","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آتیمس","date":"2025-10-28","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-10-28","realMoneyFlow":112000000}
 {"regNo":"fundbase:آرام","date":"2025-10-28","realMoneyFlow":-19000000}
 {"regNo":"fundbase:آرامش","date":"2025-10-28","realMoneyFlow":-40000000}
 {"regNo":"fundbase:آس","date":"2025-10-28","realMoneyFlow":-2000000}
+{"regNo":"fundbase:آسا","date":"2025-10-28","realMoneyFlow":-4000000}
 {"regNo":"fundbase:آساس","date":"2025-10-28","realMoneyFlow":-148000000}
 {"regNo":"fundbase:آسام","date":"2025-10-28","realMoneyFlow":-7000000}
 {"regNo":"fundbase:آسان","date":"2025-10-28","realMoneyFlow":-26000000}
+{"regNo":"fundbase:آفاق","date":"2025-10-28","realMoneyFlow":-99000000}
 {"regNo":"fundbase:آفرین","date":"2025-10-28","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-10-28","realMoneyFlow":27000000}
 {"regNo":"fundbase:آلتون","date":"2025-10-28","realMoneyFlow":202000000}
@@ -4057,6 +4179,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-10-28","realMoneyFlow":-78000000}
 {"regNo":"fundbase:استیل","date":"2025-10-28","realMoneyFlow":540000000}
 {"regNo":"fundbase:اطلس","date":"2025-10-28","realMoneyFlow":368000000}
+{"regNo":"fundbase:اعتبار","date":"2025-10-28","realMoneyFlow":541000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-10-28","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-10-28","realMoneyFlow":-150000000}
 {"regNo":"fundbase:افران","date":"2025-10-28","realMoneyFlow":-336000000}
@@ -4084,6 +4207,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-10-28","realMoneyFlow":360000000}
 {"regNo":"fundbase:پادا","date":"2025-10-28","realMoneyFlow":-14000000}
 {"regNo":"fundbase:پالایش","date":"2025-10-28","realMoneyFlow":-359000000}
+{"regNo":"fundbase:پایا","date":"2025-10-28","realMoneyFlow":-178000000}
 {"regNo":"fundbase:پایش","date":"2025-10-28","realMoneyFlow":-5000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-10-28","realMoneyFlow":-67000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-10-28","realMoneyFlow":170000000}
@@ -4101,7 +4225,9 @@
 {"regNo":"fundbase:تابش","date":"2025-10-28","realMoneyFlow":-83000000}
 {"regNo":"fundbase:تاراز","date":"2025-10-28","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-10-28","realMoneyFlow":-73000000}
+{"regNo":"fundbase:تداوم","date":"2025-10-28","realMoneyFlow":568000000}
 {"regNo":"fundbase:ترمه","date":"2025-10-28","realMoneyFlow":25000000}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-10-28","realMoneyFlow":-11000000}
 {"regNo":"fundbase:تکپاد","date":"2025-10-28","realMoneyFlow":-3000000}
 {"regNo":"fundbase:تمشک","date":"2025-10-28","realMoneyFlow":-160000000}
 {"regNo":"fundbase:توان","date":"2025-10-28","realMoneyFlow":-47000000}
@@ -4239,12 +4365,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-10-28","realMoneyFlow":-6000000}
 {"regNo":"fundbase:ویستا","date":"2025-10-28","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-10-28","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-10-29","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-10-29","realMoneyFlow":-59000000}
 {"regNo":"fundbase:آرام","date":"2025-10-29","realMoneyFlow":-84000000}
 {"regNo":"fundbase:آرامش","date":"2025-10-29","realMoneyFlow":6000000}
 {"regNo":"fundbase:آس","date":"2025-10-29","realMoneyFlow":-13000000}
+{"regNo":"fundbase:آسا","date":"2025-10-29","realMoneyFlow":-9000000}
 {"regNo":"fundbase:آساس","date":"2025-10-29","realMoneyFlow":-213000000}
 {"regNo":"fundbase:آسام","date":"2025-10-29","realMoneyFlow":-3000000}
 {"regNo":"fundbase:آسان","date":"2025-10-29","realMoneyFlow":35000000}
+{"regNo":"fundbase:آفاق","date":"2025-10-29","realMoneyFlow":24000000}
 {"regNo":"fundbase:آفرین","date":"2025-10-29","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-10-29","realMoneyFlow":18000000}
 {"regNo":"fundbase:آلتون","date":"2025-10-29","realMoneyFlow":-40000000}
@@ -4259,6 +4389,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-10-29","realMoneyFlow":24000000}
 {"regNo":"fundbase:استیل","date":"2025-10-29","realMoneyFlow":47000000}
 {"regNo":"fundbase:اطلس","date":"2025-10-29","realMoneyFlow":77000000}
+{"regNo":"fundbase:اعتبار","date":"2025-10-29","realMoneyFlow":-595000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-10-29","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-10-29","realMoneyFlow":193000000}
 {"regNo":"fundbase:افران","date":"2025-10-29","realMoneyFlow":846000000}
@@ -4285,6 +4416,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-10-29","realMoneyFlow":249000000}
 {"regNo":"fundbase:پادا","date":"2025-10-29","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-10-29","realMoneyFlow":-350000000}
+{"regNo":"fundbase:پایا","date":"2025-10-29","realMoneyFlow":-15000000}
 {"regNo":"fundbase:پایش","date":"2025-10-29","realMoneyFlow":9000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-10-29","realMoneyFlow":-57000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-10-29","realMoneyFlow":7000000}
@@ -4302,7 +4434,9 @@
 {"regNo":"fundbase:تابش","date":"2025-10-29","realMoneyFlow":69000000}
 {"regNo":"fundbase:تاراز","date":"2025-10-29","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-10-29","realMoneyFlow":6000000}
+{"regNo":"fundbase:تداوم","date":"2025-10-29","realMoneyFlow":175000000}
 {"regNo":"fundbase:ترمه","date":"2025-10-29","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-10-29","realMoneyFlow":6000000}
 {"regNo":"fundbase:تکپاد","date":"2025-10-29","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-10-29","realMoneyFlow":-10000000}
 {"regNo":"fundbase:توان","date":"2025-10-29","realMoneyFlow":-193000000}
@@ -4439,12 +4573,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-10-29","realMoneyFlow":0}
 {"regNo":"fundbase:ویستا","date":"2025-10-29","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-10-29","realMoneyFlow":-3000000}
+{"regNo":"fundbase:آتیمس","date":"2025-11-01","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-11-01","realMoneyFlow":-59000000}
 {"regNo":"fundbase:آرام","date":"2025-11-01","realMoneyFlow":-58000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-01","realMoneyFlow":0}
 {"regNo":"fundbase:آس","date":"2025-11-01","realMoneyFlow":-2000000}
+{"regNo":"fundbase:آسا","date":"2025-11-01","realMoneyFlow":-11000000}
 {"regNo":"fundbase:آساس","date":"2025-11-01","realMoneyFlow":-279000000}
 {"regNo":"fundbase:آسام","date":"2025-11-01","realMoneyFlow":6000000}
 {"regNo":"fundbase:آسان","date":"2025-11-01","realMoneyFlow":53000000}
+{"regNo":"fundbase:آفاق","date":"2025-11-01","realMoneyFlow":-10000000}
 {"regNo":"fundbase:آفرین","date":"2025-11-01","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-11-01","realMoneyFlow":-213000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-01","realMoneyFlow":147000000}
@@ -4459,6 +4597,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-11-01","realMoneyFlow":1000000}
 {"regNo":"fundbase:استیل","date":"2025-11-01","realMoneyFlow":-192000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-01","realMoneyFlow":-20000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-01","realMoneyFlow":92000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-11-01","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-11-01","realMoneyFlow":1000000}
 {"regNo":"fundbase:افران","date":"2025-11-01","realMoneyFlow":-2000000}
@@ -4487,6 +4626,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-11-01","realMoneyFlow":-59000000}
 {"regNo":"fundbase:پادا","date":"2025-11-01","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-11-01","realMoneyFlow":-181000000}
+{"regNo":"fundbase:پایا","date":"2025-11-01","realMoneyFlow":0}
 {"regNo":"fundbase:پایش","date":"2025-11-01","realMoneyFlow":34000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-01","realMoneyFlow":-44000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-01","realMoneyFlow":-24000000}
@@ -4505,6 +4645,7 @@
 {"regNo":"fundbase:تاراز","date":"2025-11-01","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-01","realMoneyFlow":-79000000}
 {"regNo":"fundbase:ترمه","date":"2025-11-01","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-01","realMoneyFlow":-2000000}
 {"regNo":"fundbase:تکپاد","date":"2025-11-01","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-11-01","realMoneyFlow":-97000000}
 {"regNo":"fundbase:توان","date":"2025-11-01","realMoneyFlow":162000000}
@@ -4641,12 +4782,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-01","realMoneyFlow":-1000000}
 {"regNo":"fundbase:ویستا","date":"2025-11-01","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-11-01","realMoneyFlow":-30000000}
+{"regNo":"fundbase:آتیمس","date":"2025-11-02","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آذرین","date":"2025-11-02","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آرام","date":"2025-11-02","realMoneyFlow":-22000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-02","realMoneyFlow":43000000}
 {"regNo":"fundbase:آس","date":"2025-11-02","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-11-02","realMoneyFlow":2000000}
 {"regNo":"fundbase:آساس","date":"2025-11-02","realMoneyFlow":-240000000}
 {"regNo":"fundbase:آسام","date":"2025-11-02","realMoneyFlow":1000000}
 {"regNo":"fundbase:آسان","date":"2025-11-02","realMoneyFlow":72000000}
+{"regNo":"fundbase:آفاق","date":"2025-11-02","realMoneyFlow":74000000}
 {"regNo":"fundbase:آفرین","date":"2025-11-02","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-11-02","realMoneyFlow":-58000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-02","realMoneyFlow":-54000000}
@@ -4662,6 +4807,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-11-02","realMoneyFlow":0}
 {"regNo":"fundbase:استیل","date":"2025-11-02","realMoneyFlow":-97000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-02","realMoneyFlow":-97000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-02","realMoneyFlow":-884000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-11-02","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-11-02","realMoneyFlow":115000000}
 {"regNo":"fundbase:افران","date":"2025-11-02","realMoneyFlow":125000000}
@@ -4690,6 +4836,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-11-02","realMoneyFlow":-71000000}
 {"regNo":"fundbase:پادا","date":"2025-11-02","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-11-02","realMoneyFlow":69000000}
+{"regNo":"fundbase:پایا","date":"2025-11-02","realMoneyFlow":-166000000}
 {"regNo":"fundbase:پایش","date":"2025-11-02","realMoneyFlow":-10000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-02","realMoneyFlow":-24000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-02","realMoneyFlow":9000000}
@@ -4707,7 +4854,9 @@
 {"regNo":"fundbase:تابش","date":"2025-11-02","realMoneyFlow":65000000}
 {"regNo":"fundbase:تاراز","date":"2025-11-02","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-02","realMoneyFlow":14000000}
+{"regNo":"fundbase:تداوم","date":"2025-11-02","realMoneyFlow":121000000}
 {"regNo":"fundbase:ترمه","date":"2025-11-02","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-02","realMoneyFlow":-22000000}
 {"regNo":"fundbase:تکپاد","date":"2025-11-02","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-11-02","realMoneyFlow":-28000000}
 {"regNo":"fundbase:توان","date":"2025-11-02","realMoneyFlow":390000000}
@@ -4843,12 +4992,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-02","realMoneyFlow":-8000000}
 {"regNo":"fundbase:ویستا","date":"2025-11-02","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-11-02","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آتیمس","date":"2025-11-03","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-11-03","realMoneyFlow":0}
 {"regNo":"fundbase:آرام","date":"2025-11-03","realMoneyFlow":111000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-03","realMoneyFlow":0}
 {"regNo":"fundbase:آس","date":"2025-11-03","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آسا","date":"2025-11-03","realMoneyFlow":-55000000}
 {"regNo":"fundbase:آساس","date":"2025-11-03","realMoneyFlow":-194000000}
 {"regNo":"fundbase:آسام","date":"2025-11-03","realMoneyFlow":-3000000}
 {"regNo":"fundbase:آسان","date":"2025-11-03","realMoneyFlow":19000000}
+{"regNo":"fundbase:آفاق","date":"2025-11-03","realMoneyFlow":-4000000}
 {"regNo":"fundbase:آفرین","date":"2025-11-03","realMoneyFlow":-3000000}
 {"regNo":"fundbase:آگاس","date":"2025-11-03","realMoneyFlow":-138000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-03","realMoneyFlow":-68000000}
@@ -4864,6 +5017,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-11-03","realMoneyFlow":1000000}
 {"regNo":"fundbase:استیل","date":"2025-11-03","realMoneyFlow":-134000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-03","realMoneyFlow":-137000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-03","realMoneyFlow":890000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-11-03","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-11-03","realMoneyFlow":-190000000}
 {"regNo":"fundbase:افران","date":"2025-11-03","realMoneyFlow":-70000000}
@@ -4892,6 +5046,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-11-03","realMoneyFlow":-93000000}
 {"regNo":"fundbase:پادا","date":"2025-11-03","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-11-03","realMoneyFlow":-178000000}
+{"regNo":"fundbase:پایا","date":"2025-11-03","realMoneyFlow":134000000}
 {"regNo":"fundbase:پایش","date":"2025-11-03","realMoneyFlow":0}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-03","realMoneyFlow":-23000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-03","realMoneyFlow":-23000000}
@@ -4908,7 +5063,9 @@
 {"regNo":"fundbase:تابش","date":"2025-11-03","realMoneyFlow":226000000}
 {"regNo":"fundbase:تاراز","date":"2025-11-03","realMoneyFlow":-70000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-03","realMoneyFlow":-55000000}
+{"regNo":"fundbase:تداوم","date":"2025-11-03","realMoneyFlow":-18000000}
 {"regNo":"fundbase:ترمه","date":"2025-11-03","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-03","realMoneyFlow":-2000000}
 {"regNo":"fundbase:تکپاد","date":"2025-11-03","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-11-03","realMoneyFlow":-16000000}
 {"regNo":"fundbase:توان","date":"2025-11-03","realMoneyFlow":93000000}
@@ -5045,12 +5202,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-03","realMoneyFlow":-2000000}
 {"regNo":"fundbase:ویستا","date":"2025-11-03","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-11-03","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-11-04","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-11-04","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آرام","date":"2025-11-04","realMoneyFlow":-17000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-04","realMoneyFlow":-23000000}
 {"regNo":"fundbase:آس","date":"2025-11-04","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-11-04","realMoneyFlow":12000000}
 {"regNo":"fundbase:آساس","date":"2025-11-04","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آسام","date":"2025-11-04","realMoneyFlow":-7000000}
 {"regNo":"fundbase:آسان","date":"2025-11-04","realMoneyFlow":-2000000}
+{"regNo":"fundbase:آفاق","date":"2025-11-04","realMoneyFlow":-44000000}
 {"regNo":"fundbase:آفرین","date":"2025-11-04","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-11-04","realMoneyFlow":-87000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-04","realMoneyFlow":-27000000}
@@ -5066,6 +5227,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-11-04","realMoneyFlow":18000000}
 {"regNo":"fundbase:استیل","date":"2025-11-04","realMoneyFlow":-51000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-04","realMoneyFlow":-61000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-04","realMoneyFlow":-731000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-11-04","realMoneyFlow":7000000}
 {"regNo":"fundbase:اعتماد","date":"2025-11-04","realMoneyFlow":91000000}
 {"regNo":"fundbase:افران","date":"2025-11-04","realMoneyFlow":-146000000}
@@ -5092,6 +5254,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-11-04","realMoneyFlow":56000000}
 {"regNo":"fundbase:پادا","date":"2025-11-04","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-11-04","realMoneyFlow":-391000000}
+{"regNo":"fundbase:پایا","date":"2025-11-04","realMoneyFlow":21000000}
 {"regNo":"fundbase:پایش","date":"2025-11-04","realMoneyFlow":3000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-04","realMoneyFlow":-6000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-04","realMoneyFlow":-7000000}
@@ -5109,7 +5272,9 @@
 {"regNo":"fundbase:تابش","date":"2025-11-04","realMoneyFlow":-51000000}
 {"regNo":"fundbase:تاراز","date":"2025-11-04","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-04","realMoneyFlow":-5000000}
+{"regNo":"fundbase:تداوم","date":"2025-11-04","realMoneyFlow":-19000000}
 {"regNo":"fundbase:ترمه","date":"2025-11-04","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-04","realMoneyFlow":-9000000}
 {"regNo":"fundbase:تکپاد","date":"2025-11-04","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-11-04","realMoneyFlow":-527000000}
 {"regNo":"fundbase:توان","date":"2025-11-04","realMoneyFlow":-61000000}
@@ -5242,12 +5407,15 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-04","realMoneyFlow":-13000000}
 {"regNo":"fundbase:ویستا","date":"2025-11-04","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-11-04","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-11-05","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آرام","date":"2025-11-05","realMoneyFlow":-7000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-05","realMoneyFlow":7000000}
 {"regNo":"fundbase:آس","date":"2025-11-05","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-11-05","realMoneyFlow":-20000000}
 {"regNo":"fundbase:آساس","date":"2025-11-05","realMoneyFlow":-16000000}
 {"regNo":"fundbase:آسام","date":"2025-11-05","realMoneyFlow":4000000}
 {"regNo":"fundbase:آسان","date":"2025-11-05","realMoneyFlow":24000000}
+{"regNo":"fundbase:آفاق","date":"2025-11-05","realMoneyFlow":147000000}
 {"regNo":"fundbase:آگاس","date":"2025-11-05","realMoneyFlow":-11000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-05","realMoneyFlow":56000000}
 {"regNo":"fundbase:آلکان","date":"2025-11-05","realMoneyFlow":0}
@@ -5262,6 +5430,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-11-05","realMoneyFlow":1018000000}
 {"regNo":"fundbase:استیل","date":"2025-11-05","realMoneyFlow":-43000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-05","realMoneyFlow":-124000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-05","realMoneyFlow":862000000}
 {"regNo":"fundbase:اعتماد","date":"2025-11-05","realMoneyFlow":318000000}
 {"regNo":"fundbase:افران","date":"2025-11-05","realMoneyFlow":1934000000}
 {"regNo":"fundbase:افق ملت","date":"2025-11-05","realMoneyFlow":0}
@@ -5288,6 +5457,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-11-05","realMoneyFlow":-65000000}
 {"regNo":"fundbase:پادا","date":"2025-11-05","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-11-05","realMoneyFlow":-91000000}
+{"regNo":"fundbase:پایا","date":"2025-11-05","realMoneyFlow":83000000}
 {"regNo":"fundbase:پایش","date":"2025-11-05","realMoneyFlow":-5000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-05","realMoneyFlow":-3000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-05","realMoneyFlow":-17000000}
@@ -5304,7 +5474,9 @@
 {"regNo":"fundbase:پیشران","date":"2025-11-05","realMoneyFlow":-23000000}
 {"regNo":"fundbase:تابش","date":"2025-11-05","realMoneyFlow":4000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-05","realMoneyFlow":-6000000}
+{"regNo":"fundbase:تداوم","date":"2025-11-05","realMoneyFlow":317000000}
 {"regNo":"fundbase:ترمه","date":"2025-11-05","realMoneyFlow":-1000000}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-05","realMoneyFlow":37000000}
 {"regNo":"fundbase:تکپاد","date":"2025-11-05","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-11-05","realMoneyFlow":-284000000}
 {"regNo":"fundbase:توان","date":"2025-11-05","realMoneyFlow":-339000000}
@@ -5440,12 +5612,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-05","realMoneyFlow":-2000000}
 {"regNo":"fundbase:ویستا","date":"2025-11-05","realMoneyFlow":-2000000}
 {"regNo":"fundbase:یلدا","date":"2025-11-05","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-11-08","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-11-08","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آرام","date":"2025-11-08","realMoneyFlow":13000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-08","realMoneyFlow":-91000000}
 {"regNo":"fundbase:آس","date":"2025-11-08","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آسا","date":"2025-11-08","realMoneyFlow":38000000}
 {"regNo":"fundbase:آساس","date":"2025-11-08","realMoneyFlow":-18000000}
 {"regNo":"fundbase:آسام","date":"2025-11-08","realMoneyFlow":1000000}
 {"regNo":"fundbase:آسان","date":"2025-11-08","realMoneyFlow":-7000000}
+{"regNo":"fundbase:آفاق","date":"2025-11-08","realMoneyFlow":223000000}
 {"regNo":"fundbase:آگاس","date":"2025-11-08","realMoneyFlow":-122000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-08","realMoneyFlow":13000000}
 {"regNo":"fundbase:آلکان","date":"2025-11-08","realMoneyFlow":-1000000}
@@ -5460,6 +5636,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-11-08","realMoneyFlow":-823000000}
 {"regNo":"fundbase:استیل","date":"2025-11-08","realMoneyFlow":-39000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-08","realMoneyFlow":1000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-08","realMoneyFlow":-580000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-11-08","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-11-08","realMoneyFlow":905000000}
 {"regNo":"fundbase:افران","date":"2025-11-08","realMoneyFlow":1000000000}
@@ -5487,6 +5664,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-11-08","realMoneyFlow":-367000000}
 {"regNo":"fundbase:پادا","date":"2025-11-08","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-11-08","realMoneyFlow":-101000000}
+{"regNo":"fundbase:پایا","date":"2025-11-08","realMoneyFlow":-87000000}
 {"regNo":"fundbase:پایش","date":"2025-11-08","realMoneyFlow":24000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-08","realMoneyFlow":-15000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-08","realMoneyFlow":-5000000}
@@ -5502,7 +5680,9 @@
 {"regNo":"fundbase:تابش","date":"2025-11-08","realMoneyFlow":-2000000}
 {"regNo":"fundbase:تاراز","date":"2025-11-08","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-08","realMoneyFlow":-60000000}
+{"regNo":"fundbase:تداوم","date":"2025-11-08","realMoneyFlow":399000000}
 {"regNo":"fundbase:ترمه","date":"2025-11-08","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-08","realMoneyFlow":-11000000}
 {"regNo":"fundbase:تمشک","date":"2025-11-08","realMoneyFlow":-24000000}
 {"regNo":"fundbase:توان","date":"2025-11-08","realMoneyFlow":-90000000}
 {"regNo":"fundbase:ثابت اکسیژن","date":"2025-11-08","realMoneyFlow":-13000000}
@@ -5637,12 +5817,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-08","realMoneyFlow":-1000000}
 {"regNo":"fundbase:ویستا","date":"2025-11-08","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-11-08","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-11-09","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آذرین","date":"2025-11-09","realMoneyFlow":0}
 {"regNo":"fundbase:آرام","date":"2025-11-09","realMoneyFlow":-4000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-09","realMoneyFlow":-83000000}
 {"regNo":"fundbase:آس","date":"2025-11-09","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-11-09","realMoneyFlow":-26000000}
 {"regNo":"fundbase:آساس","date":"2025-11-09","realMoneyFlow":-55000000}
 {"regNo":"fundbase:آسام","date":"2025-11-09","realMoneyFlow":-3000000}
 {"regNo":"fundbase:آسان","date":"2025-11-09","realMoneyFlow":30000000}
+{"regNo":"fundbase:آفاق","date":"2025-11-09","realMoneyFlow":191000000}
 {"regNo":"fundbase:آفرین","date":"2025-11-09","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آگاس","date":"2025-11-09","realMoneyFlow":-300000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-09","realMoneyFlow":7000000}
@@ -5658,6 +5842,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-11-09","realMoneyFlow":-56000000}
 {"regNo":"fundbase:استیل","date":"2025-11-09","realMoneyFlow":-82000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-09","realMoneyFlow":-646000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-09","realMoneyFlow":847000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-11-09","realMoneyFlow":-2000000}
 {"regNo":"fundbase:اعتماد","date":"2025-11-09","realMoneyFlow":376000000}
 {"regNo":"fundbase:افران","date":"2025-11-09","realMoneyFlow":543000000}
@@ -5686,6 +5871,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-11-09","realMoneyFlow":-44000000}
 {"regNo":"fundbase:پادا","date":"2025-11-09","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-11-09","realMoneyFlow":-389000000}
+{"regNo":"fundbase:پایا","date":"2025-11-09","realMoneyFlow":75000000}
 {"regNo":"fundbase:پایش","date":"2025-11-09","realMoneyFlow":36000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-09","realMoneyFlow":-27000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-09","realMoneyFlow":-91000000}
@@ -5703,8 +5889,10 @@
 {"regNo":"fundbase:تابش","date":"2025-11-09","realMoneyFlow":-41000000}
 {"regNo":"fundbase:تاراز","date":"2025-11-09","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-09","realMoneyFlow":-5000000}
+{"regNo":"fundbase:تداوم","date":"2025-11-09","realMoneyFlow":189000000}
 {"regNo":"fundbase:تدبیریکم","date":"2025-11-09","realMoneyFlow":0}
 {"regNo":"fundbase:ترمه","date":"2025-11-09","realMoneyFlow":-6000000}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-09","realMoneyFlow":-10000000}
 {"regNo":"fundbase:تکپاد","date":"2025-11-09","realMoneyFlow":-3000000}
 {"regNo":"fundbase:تمشک","date":"2025-11-09","realMoneyFlow":127000000}
 {"regNo":"fundbase:توان","date":"2025-11-09","realMoneyFlow":97000000}
@@ -5843,12 +6031,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-09","realMoneyFlow":0}
 {"regNo":"fundbase:ویستا","date":"2025-11-09","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-11-09","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-11-10","realMoneyFlow":-2000000}
+{"regNo":"fundbase:آذرین","date":"2025-11-10","realMoneyFlow":0}
 {"regNo":"fundbase:آرام","date":"2025-11-10","realMoneyFlow":2000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-10","realMoneyFlow":-25000000}
 {"regNo":"fundbase:آس","date":"2025-11-10","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آسا","date":"2025-11-10","realMoneyFlow":-30000000}
 {"regNo":"fundbase:آساس","date":"2025-11-10","realMoneyFlow":-4000000}
 {"regNo":"fundbase:آسام","date":"2025-11-10","realMoneyFlow":0}
 {"regNo":"fundbase:آسان","date":"2025-11-10","realMoneyFlow":49000000}
+{"regNo":"fundbase:آفاق","date":"2025-11-10","realMoneyFlow":141000000}
 {"regNo":"fundbase:آفرین","date":"2025-11-10","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-11-10","realMoneyFlow":30000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-10","realMoneyFlow":184000000}
@@ -5864,6 +6056,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-11-10","realMoneyFlow":-8000000}
 {"regNo":"fundbase:استیل","date":"2025-11-10","realMoneyFlow":60000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-10","realMoneyFlow":-103000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-10","realMoneyFlow":-443000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-11-10","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-11-10","realMoneyFlow":833000000}
 {"regNo":"fundbase:افران","date":"2025-11-10","realMoneyFlow":-1100000000}
@@ -5889,6 +6082,7 @@
 {"regNo":"fundbase:بهین رو","date":"2025-11-10","realMoneyFlow":-25000000}
 {"regNo":"fundbase:بیدار","date":"2025-11-10","realMoneyFlow":-26000000}
 {"regNo":"fundbase:پالایش","date":"2025-11-10","realMoneyFlow":-446000000}
+{"regNo":"fundbase:پایا","date":"2025-11-10","realMoneyFlow":101000000}
 {"regNo":"fundbase:پایش","date":"2025-11-10","realMoneyFlow":-8000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-10","realMoneyFlow":-3000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-10","realMoneyFlow":-12000000}
@@ -5906,8 +6100,10 @@
 {"regNo":"fundbase:تابش","date":"2025-11-10","realMoneyFlow":18000000}
 {"regNo":"fundbase:تاراز","date":"2025-11-10","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-10","realMoneyFlow":-2000000}
+{"regNo":"fundbase:تداوم","date":"2025-11-10","realMoneyFlow":157000000}
 {"regNo":"fundbase:تدبیریکم","date":"2025-11-10","realMoneyFlow":0}
 {"regNo":"fundbase:ترمه","date":"2025-11-10","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-10","realMoneyFlow":19000000}
 {"regNo":"fundbase:تکپاد","date":"2025-11-10","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-11-10","realMoneyFlow":336000000}
 {"regNo":"fundbase:توان","date":"2025-11-10","realMoneyFlow":45000000}
@@ -6040,12 +6236,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-10","realMoneyFlow":-1000000}
 {"regNo":"fundbase:ویستا","date":"2025-11-10","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-11-10","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-11-11","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-11-11","realMoneyFlow":-4000000}
 {"regNo":"fundbase:آرام","date":"2025-11-11","realMoneyFlow":-19000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-11","realMoneyFlow":-82000000}
 {"regNo":"fundbase:آس","date":"2025-11-11","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آسا","date":"2025-11-11","realMoneyFlow":-8000000}
 {"regNo":"fundbase:آساس","date":"2025-11-11","realMoneyFlow":-33000000}
 {"regNo":"fundbase:آسام","date":"2025-11-11","realMoneyFlow":5000000}
 {"regNo":"fundbase:آسان","date":"2025-11-11","realMoneyFlow":84000000}
+{"regNo":"fundbase:آفاق","date":"2025-11-11","realMoneyFlow":-59000000}
 {"regNo":"fundbase:آگاس","date":"2025-11-11","realMoneyFlow":-22000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-11","realMoneyFlow":-191000000}
 {"regNo":"fundbase:آلکان","date":"2025-11-11","realMoneyFlow":1000000}
@@ -6060,6 +6260,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-11-11","realMoneyFlow":-2000000}
 {"regNo":"fundbase:استیل","date":"2025-11-11","realMoneyFlow":-27000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-11","realMoneyFlow":-94000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-11","realMoneyFlow":457000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-11-11","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-11-11","realMoneyFlow":-185000000}
 {"regNo":"fundbase:افران","date":"2025-11-11","realMoneyFlow":-1517000000}
@@ -6086,6 +6287,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-11-11","realMoneyFlow":17000000}
 {"regNo":"fundbase:پادا","date":"2025-11-11","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-11-11","realMoneyFlow":-506000000}
+{"regNo":"fundbase:پایا","date":"2025-11-11","realMoneyFlow":129000000}
 {"regNo":"fundbase:پایش","date":"2025-11-11","realMoneyFlow":-26000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-11","realMoneyFlow":0}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-11","realMoneyFlow":-19000000}
@@ -6102,8 +6304,10 @@
 {"regNo":"fundbase:تابش","date":"2025-11-11","realMoneyFlow":-8000000}
 {"regNo":"fundbase:تاراز","date":"2025-11-11","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-11","realMoneyFlow":16000000}
+{"regNo":"fundbase:تداوم","date":"2025-11-11","realMoneyFlow":-22000000}
 {"regNo":"fundbase:تدبیریکم","date":"2025-11-11","realMoneyFlow":0}
 {"regNo":"fundbase:ترمه","date":"2025-11-11","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-11","realMoneyFlow":-39000000}
 {"regNo":"fundbase:تکپاد","date":"2025-11-11","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-11-11","realMoneyFlow":377000000}
 {"regNo":"fundbase:توان","date":"2025-11-11","realMoneyFlow":-67000000}
@@ -6234,12 +6438,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-11","realMoneyFlow":-3000000}
 {"regNo":"fundbase:ویستا","date":"2025-11-11","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-11-11","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-11-12","realMoneyFlow":-2000000}
+{"regNo":"fundbase:آذرین","date":"2025-11-12","realMoneyFlow":0}
 {"regNo":"fundbase:آرام","date":"2025-11-12","realMoneyFlow":6000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-12","realMoneyFlow":18000000}
 {"regNo":"fundbase:آس","date":"2025-11-12","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-11-12","realMoneyFlow":8000000}
 {"regNo":"fundbase:آساس","date":"2025-11-12","realMoneyFlow":-6000000}
 {"regNo":"fundbase:آسام","date":"2025-11-12","realMoneyFlow":-2000000}
 {"regNo":"fundbase:آسان","date":"2025-11-12","realMoneyFlow":-6000000}
+{"regNo":"fundbase:آفاق","date":"2025-11-12","realMoneyFlow":4000000}
 {"regNo":"fundbase:آگاس","date":"2025-11-12","realMoneyFlow":-15000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-12","realMoneyFlow":349000000}
 {"regNo":"fundbase:آلکان","date":"2025-11-12","realMoneyFlow":0}
@@ -6254,6 +6462,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-11-12","realMoneyFlow":12000000}
 {"regNo":"fundbase:استیل","date":"2025-11-12","realMoneyFlow":-9000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-12","realMoneyFlow":-398000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-12","realMoneyFlow":-764000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-11-12","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-11-12","realMoneyFlow":740000000}
 {"regNo":"fundbase:افران","date":"2025-11-12","realMoneyFlow":141000000}
@@ -6281,6 +6490,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-11-12","realMoneyFlow":-59000000}
 {"regNo":"fundbase:پادا","date":"2025-11-12","realMoneyFlow":-2000000}
 {"regNo":"fundbase:پالایش","date":"2025-11-12","realMoneyFlow":-94000000}
+{"regNo":"fundbase:پایا","date":"2025-11-12","realMoneyFlow":68000000}
 {"regNo":"fundbase:پایش","date":"2025-11-12","realMoneyFlow":1000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-12","realMoneyFlow":0}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-12","realMoneyFlow":-31000000}
@@ -6296,8 +6506,10 @@
 {"regNo":"fundbase:پیشران","date":"2025-11-12","realMoneyFlow":-2000000}
 {"regNo":"fundbase:تابش","date":"2025-11-12","realMoneyFlow":32000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-12","realMoneyFlow":-11000000}
+{"regNo":"fundbase:تداوم","date":"2025-11-12","realMoneyFlow":118000000}
 {"regNo":"fundbase:تدبیریکم","date":"2025-11-12","realMoneyFlow":0}
 {"regNo":"fundbase:ترمه","date":"2025-11-12","realMoneyFlow":-1000000}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-12","realMoneyFlow":28000000}
 {"regNo":"fundbase:تکپاد","date":"2025-11-12","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-11-12","realMoneyFlow":-374000000}
 {"regNo":"fundbase:توان","date":"2025-11-12","realMoneyFlow":-75000000}
@@ -6432,12 +6644,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-12","realMoneyFlow":0}
 {"regNo":"fundbase:ویستا","date":"2025-11-12","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-11-12","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-11-15","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-11-15","realMoneyFlow":3000000}
 {"regNo":"fundbase:آرام","date":"2025-11-15","realMoneyFlow":66000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-15","realMoneyFlow":-29000000}
 {"regNo":"fundbase:آس","date":"2025-11-15","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-11-15","realMoneyFlow":-7000000}
 {"regNo":"fundbase:آساس","date":"2025-11-15","realMoneyFlow":-8000000}
 {"regNo":"fundbase:آسام","date":"2025-11-15","realMoneyFlow":1000000}
 {"regNo":"fundbase:آسان","date":"2025-11-15","realMoneyFlow":3000000}
+{"regNo":"fundbase:آفاق","date":"2025-11-15","realMoneyFlow":-39000000}
 {"regNo":"fundbase:آفرین","date":"2025-11-15","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-11-15","realMoneyFlow":-9000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-15","realMoneyFlow":337000000}
@@ -6453,6 +6669,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-11-15","realMoneyFlow":-12000000}
 {"regNo":"fundbase:استیل","date":"2025-11-15","realMoneyFlow":-1000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-15","realMoneyFlow":-98000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-15","realMoneyFlow":634000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-11-15","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-11-15","realMoneyFlow":-888000000}
 {"regNo":"fundbase:افران","date":"2025-11-15","realMoneyFlow":-1959000000}
@@ -6480,6 +6697,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-11-15","realMoneyFlow":10000000}
 {"regNo":"fundbase:پادا","date":"2025-11-15","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-11-15","realMoneyFlow":425000000}
+{"regNo":"fundbase:پایا","date":"2025-11-15","realMoneyFlow":-120000000}
 {"regNo":"fundbase:پایش","date":"2025-11-15","realMoneyFlow":338000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-15","realMoneyFlow":1000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-15","realMoneyFlow":-1000000}
@@ -6496,7 +6714,9 @@
 {"regNo":"fundbase:تابش","date":"2025-11-15","realMoneyFlow":55000000}
 {"regNo":"fundbase:تاراز","date":"2025-11-15","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-15","realMoneyFlow":-1000000}
+{"regNo":"fundbase:تداوم","date":"2025-11-15","realMoneyFlow":-400000000}
 {"regNo":"fundbase:ترمه","date":"2025-11-15","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-15","realMoneyFlow":-8000000}
 {"regNo":"fundbase:تکپاد","date":"2025-11-15","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-11-15","realMoneyFlow":-37000000}
 {"regNo":"fundbase:توان","date":"2025-11-15","realMoneyFlow":-3000000}
@@ -6633,11 +6853,15 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-15","realMoneyFlow":0}
 {"regNo":"fundbase:ویستا","date":"2025-11-15","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-11-15","realMoneyFlow":3000000}
+{"regNo":"fundbase:آتیمس","date":"2025-11-16","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-11-16","realMoneyFlow":-2000000}
 {"regNo":"fundbase:آرام","date":"2025-11-16","realMoneyFlow":39000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-16","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-11-16","realMoneyFlow":-25000000}
 {"regNo":"fundbase:آساس","date":"2025-11-16","realMoneyFlow":-3000000}
 {"regNo":"fundbase:آسام","date":"2025-11-16","realMoneyFlow":2000000}
 {"regNo":"fundbase:آسان","date":"2025-11-16","realMoneyFlow":0}
+{"regNo":"fundbase:آفاق","date":"2025-11-16","realMoneyFlow":0}
 {"regNo":"fundbase:آفرین","date":"2025-11-16","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-11-16","realMoneyFlow":16000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-16","realMoneyFlow":1028000000}
@@ -6653,6 +6877,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-11-16","realMoneyFlow":-1000000}
 {"regNo":"fundbase:استیل","date":"2025-11-16","realMoneyFlow":-78000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-16","realMoneyFlow":86000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-16","realMoneyFlow":-1000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-11-16","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-11-16","realMoneyFlow":-8000000}
 {"regNo":"fundbase:افران","date":"2025-11-16","realMoneyFlow":-44000000}
@@ -6680,6 +6905,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-11-16","realMoneyFlow":-66000000}
 {"regNo":"fundbase:پادا","date":"2025-11-16","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-11-16","realMoneyFlow":365000000}
+{"regNo":"fundbase:پایا","date":"2025-11-16","realMoneyFlow":0}
 {"regNo":"fundbase:پایش","date":"2025-11-16","realMoneyFlow":0}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-16","realMoneyFlow":-1000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-16","realMoneyFlow":-2000000}
@@ -6696,7 +6922,9 @@
 {"regNo":"fundbase:پیشران","date":"2025-11-16","realMoneyFlow":23000000}
 {"regNo":"fundbase:تابش","date":"2025-11-16","realMoneyFlow":218000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-16","realMoneyFlow":-1000000}
+{"regNo":"fundbase:تداوم","date":"2025-11-16","realMoneyFlow":-1000000}
 {"regNo":"fundbase:ترمه","date":"2025-11-16","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-16","realMoneyFlow":0}
 {"regNo":"fundbase:تکپاد","date":"2025-11-16","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-11-16","realMoneyFlow":-27000000}
 {"regNo":"fundbase:توان","date":"2025-11-16","realMoneyFlow":132000000}
@@ -6827,12 +7055,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-16","realMoneyFlow":0}
 {"regNo":"fundbase:ویستا","date":"2025-11-16","realMoneyFlow":-2000000}
 {"regNo":"fundbase:یلدا","date":"2025-11-16","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-11-17","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-11-17","realMoneyFlow":0}
 {"regNo":"fundbase:آرام","date":"2025-11-17","realMoneyFlow":-97000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-17","realMoneyFlow":-86000000}
 {"regNo":"fundbase:آس","date":"2025-11-17","realMoneyFlow":3000000}
+{"regNo":"fundbase:آسا","date":"2025-11-17","realMoneyFlow":5000000}
 {"regNo":"fundbase:آساس","date":"2025-11-17","realMoneyFlow":-3000000}
 {"regNo":"fundbase:آسام","date":"2025-11-17","realMoneyFlow":-2000000}
 {"regNo":"fundbase:آسان","date":"2025-11-17","realMoneyFlow":8000000}
+{"regNo":"fundbase:آفاق","date":"2025-11-17","realMoneyFlow":-4000000}
 {"regNo":"fundbase:آفرین","date":"2025-11-17","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-11-17","realMoneyFlow":-48000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-17","realMoneyFlow":1678000000}
@@ -6848,6 +7080,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-11-17","realMoneyFlow":-13000000}
 {"regNo":"fundbase:استیل","date":"2025-11-17","realMoneyFlow":-63000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-17","realMoneyFlow":-26000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-17","realMoneyFlow":768000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-11-17","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-11-17","realMoneyFlow":-164000000}
 {"regNo":"fundbase:افران","date":"2025-11-17","realMoneyFlow":-2039000000}
@@ -6875,6 +7108,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-11-17","realMoneyFlow":53000000}
 {"regNo":"fundbase:پادا","date":"2025-11-17","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-11-17","realMoneyFlow":-124000000}
+{"regNo":"fundbase:پایا","date":"2025-11-17","realMoneyFlow":-30000000}
 {"regNo":"fundbase:پایش","date":"2025-11-17","realMoneyFlow":82000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-17","realMoneyFlow":-1000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-17","realMoneyFlow":-53000000}
@@ -6891,7 +7125,9 @@
 {"regNo":"fundbase:تابش","date":"2025-11-17","realMoneyFlow":179000000}
 {"regNo":"fundbase:تاراز","date":"2025-11-17","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-17","realMoneyFlow":-129000000}
+{"regNo":"fundbase:تداوم","date":"2025-11-17","realMoneyFlow":166000000}
 {"regNo":"fundbase:ترمه","date":"2025-11-17","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-17","realMoneyFlow":91000000}
 {"regNo":"fundbase:تکپاد","date":"2025-11-17","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-11-17","realMoneyFlow":-84000000}
 {"regNo":"fundbase:توان","date":"2025-11-17","realMoneyFlow":141000000}
@@ -7027,12 +7263,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-17","realMoneyFlow":0}
 {"regNo":"fundbase:ویستا","date":"2025-11-17","realMoneyFlow":-2000000}
 {"regNo":"fundbase:یلدا","date":"2025-11-17","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-11-18","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-11-18","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آرام","date":"2025-11-18","realMoneyFlow":55000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-18","realMoneyFlow":-44000000}
 {"regNo":"fundbase:آس","date":"2025-11-18","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-11-18","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آساس","date":"2025-11-18","realMoneyFlow":-8000000}
 {"regNo":"fundbase:آسام","date":"2025-11-18","realMoneyFlow":1000000}
 {"regNo":"fundbase:آسان","date":"2025-11-18","realMoneyFlow":12000000}
+{"regNo":"fundbase:آفاق","date":"2025-11-18","realMoneyFlow":-10000000}
 {"regNo":"fundbase:آفرین","date":"2025-11-18","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-11-18","realMoneyFlow":6000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-18","realMoneyFlow":1367000000}
@@ -7048,6 +7288,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-11-18","realMoneyFlow":3000000}
 {"regNo":"fundbase:استیل","date":"2025-11-18","realMoneyFlow":-7000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-18","realMoneyFlow":-46000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-18","realMoneyFlow":-775000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-11-18","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-11-18","realMoneyFlow":250000000}
 {"regNo":"fundbase:افران","date":"2025-11-18","realMoneyFlow":-81000000}
@@ -7074,6 +7315,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-11-18","realMoneyFlow":67000000}
 {"regNo":"fundbase:پادا","date":"2025-11-18","realMoneyFlow":-1000000}
 {"regNo":"fundbase:پالایش","date":"2025-11-18","realMoneyFlow":-351000000}
+{"regNo":"fundbase:پایا","date":"2025-11-18","realMoneyFlow":-2000000}
 {"regNo":"fundbase:پایش","date":"2025-11-18","realMoneyFlow":-3000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-18","realMoneyFlow":-3000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-18","realMoneyFlow":-3000000}
@@ -7090,7 +7332,9 @@
 {"regNo":"fundbase:تابش","date":"2025-11-18","realMoneyFlow":529000000}
 {"regNo":"fundbase:تاراز","date":"2025-11-18","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-18","realMoneyFlow":0}
+{"regNo":"fundbase:تداوم","date":"2025-11-18","realMoneyFlow":-121000000}
 {"regNo":"fundbase:ترمه","date":"2025-11-18","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-18","realMoneyFlow":5000000}
 {"regNo":"fundbase:تکپاد","date":"2025-11-18","realMoneyFlow":-1000000}
 {"regNo":"fundbase:تمشک","date":"2025-11-18","realMoneyFlow":-170000000}
 {"regNo":"fundbase:توان","date":"2025-11-18","realMoneyFlow":68000000}
@@ -7226,12 +7470,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-18","realMoneyFlow":0}
 {"regNo":"fundbase:ویستا","date":"2025-11-18","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-11-18","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-11-19","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-11-19","realMoneyFlow":0}
 {"regNo":"fundbase:آرام","date":"2025-11-19","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-19","realMoneyFlow":14000000}
 {"regNo":"fundbase:آس","date":"2025-11-19","realMoneyFlow":-2000000}
+{"regNo":"fundbase:آسا","date":"2025-11-19","realMoneyFlow":38000000}
 {"regNo":"fundbase:آساس","date":"2025-11-19","realMoneyFlow":-9000000}
 {"regNo":"fundbase:آسام","date":"2025-11-19","realMoneyFlow":11000000}
 {"regNo":"fundbase:آسان","date":"2025-11-19","realMoneyFlow":30000000}
+{"regNo":"fundbase:آفاق","date":"2025-11-19","realMoneyFlow":183000000}
 {"regNo":"fundbase:آگاس","date":"2025-11-19","realMoneyFlow":-31000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-19","realMoneyFlow":98000000}
 {"regNo":"fundbase:آلکان","date":"2025-11-19","realMoneyFlow":0}
@@ -7246,6 +7494,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-11-19","realMoneyFlow":105000000}
 {"regNo":"fundbase:استیل","date":"2025-11-19","realMoneyFlow":-16000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-19","realMoneyFlow":-178000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-19","realMoneyFlow":1284000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-11-19","realMoneyFlow":-1000000}
 {"regNo":"fundbase:اعتماد","date":"2025-11-19","realMoneyFlow":762000000}
 {"regNo":"fundbase:افران","date":"2025-11-19","realMoneyFlow":1689000000}
@@ -7271,6 +7520,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-11-19","realMoneyFlow":34000000}
 {"regNo":"fundbase:پادا","date":"2025-11-19","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-11-19","realMoneyFlow":-20000000}
+{"regNo":"fundbase:پایا","date":"2025-11-19","realMoneyFlow":-21000000}
 {"regNo":"fundbase:پایش","date":"2025-11-19","realMoneyFlow":-34000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-19","realMoneyFlow":-1000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-19","realMoneyFlow":-12000000}
@@ -7285,7 +7535,9 @@
 {"regNo":"fundbase:پیشران","date":"2025-11-19","realMoneyFlow":-12000000}
 {"regNo":"fundbase:تابش","date":"2025-11-19","realMoneyFlow":135000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-19","realMoneyFlow":-9000000}
+{"regNo":"fundbase:تداوم","date":"2025-11-19","realMoneyFlow":166000000}
 {"regNo":"fundbase:ترمه","date":"2025-11-19","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-19","realMoneyFlow":6000000}
 {"regNo":"fundbase:تکپاد","date":"2025-11-19","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-11-19","realMoneyFlow":25000000}
 {"regNo":"fundbase:توان","date":"2025-11-19","realMoneyFlow":-35000000}
@@ -7423,12 +7675,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-19","realMoneyFlow":-1000000}
 {"regNo":"fundbase:ویستا","date":"2025-11-19","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-11-19","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-11-22","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-11-22","realMoneyFlow":0}
 {"regNo":"fundbase:آرام","date":"2025-11-22","realMoneyFlow":62000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-22","realMoneyFlow":0}
 {"regNo":"fundbase:آس","date":"2025-11-22","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-11-22","realMoneyFlow":0}
 {"regNo":"fundbase:آساس","date":"2025-11-22","realMoneyFlow":7000000}
 {"regNo":"fundbase:آسام","date":"2025-11-22","realMoneyFlow":-2000000}
 {"regNo":"fundbase:آسان","date":"2025-11-22","realMoneyFlow":23000000}
+{"regNo":"fundbase:آفاق","date":"2025-11-22","realMoneyFlow":1000000}
 {"regNo":"fundbase:آفرین","date":"2025-11-22","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-11-22","realMoneyFlow":-30000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-22","realMoneyFlow":1257000000}
@@ -7443,6 +7699,7 @@
 {"regNo":"fundbase:ارزش مسکن","date":"2025-11-22","realMoneyFlow":0}
 {"regNo":"fundbase:استیل","date":"2025-11-22","realMoneyFlow":-12000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-22","realMoneyFlow":-40000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-22","realMoneyFlow":-2000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-11-22","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-11-22","realMoneyFlow":4000000}
 {"regNo":"fundbase:افران","date":"2025-11-22","realMoneyFlow":-11000000}
@@ -7470,6 +7727,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-11-22","realMoneyFlow":-87000000}
 {"regNo":"fundbase:پادا","date":"2025-11-22","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-11-22","realMoneyFlow":-178000000}
+{"regNo":"fundbase:پایا","date":"2025-11-22","realMoneyFlow":0}
 {"regNo":"fundbase:پایش","date":"2025-11-22","realMoneyFlow":-25000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-22","realMoneyFlow":0}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-22","realMoneyFlow":-12000000}
@@ -7486,7 +7744,9 @@
 {"regNo":"fundbase:تابش","date":"2025-11-22","realMoneyFlow":342000000}
 {"regNo":"fundbase:تاراز","date":"2025-11-22","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-22","realMoneyFlow":-1000000}
+{"regNo":"fundbase:تداوم","date":"2025-11-22","realMoneyFlow":1000000}
 {"regNo":"fundbase:ترمه","date":"2025-11-22","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-22","realMoneyFlow":0}
 {"regNo":"fundbase:تکپاد","date":"2025-11-22","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-11-22","realMoneyFlow":-9000000}
 {"regNo":"fundbase:توان","date":"2025-11-22","realMoneyFlow":65000000}
@@ -7618,12 +7878,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-22","realMoneyFlow":-2000000}
 {"regNo":"fundbase:ویستا","date":"2025-11-22","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-11-22","realMoneyFlow":1000000}
+{"regNo":"fundbase:آتیمس","date":"2025-11-23","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-11-23","realMoneyFlow":14000000}
 {"regNo":"fundbase:آرام","date":"2025-11-23","realMoneyFlow":149000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-23","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آس","date":"2025-11-23","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آسا","date":"2025-11-23","realMoneyFlow":-50000000}
 {"regNo":"fundbase:آساس","date":"2025-11-23","realMoneyFlow":42000000}
 {"regNo":"fundbase:آسام","date":"2025-11-23","realMoneyFlow":-5000000}
 {"regNo":"fundbase:آسان","date":"2025-11-23","realMoneyFlow":30000000}
+{"regNo":"fundbase:آفاق","date":"2025-11-23","realMoneyFlow":59000000}
 {"regNo":"fundbase:آفرین","date":"2025-11-23","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-11-23","realMoneyFlow":92000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-23","realMoneyFlow":189000000}
@@ -7639,6 +7903,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-11-23","realMoneyFlow":6000000}
 {"regNo":"fundbase:استیل","date":"2025-11-23","realMoneyFlow":180000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-23","realMoneyFlow":100000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-23","realMoneyFlow":579000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-11-23","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-11-23","realMoneyFlow":-2291000000}
 {"regNo":"fundbase:افران","date":"2025-11-23","realMoneyFlow":1449000000}
@@ -7666,6 +7931,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-11-23","realMoneyFlow":-53000000}
 {"regNo":"fundbase:پادا","date":"2025-11-23","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-11-23","realMoneyFlow":-672000000}
+{"regNo":"fundbase:پایا","date":"2025-11-23","realMoneyFlow":-391000000}
 {"regNo":"fundbase:پایش","date":"2025-11-23","realMoneyFlow":5000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-23","realMoneyFlow":190000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-23","realMoneyFlow":-6000000}
@@ -7682,7 +7948,9 @@
 {"regNo":"fundbase:تابش","date":"2025-11-23","realMoneyFlow":62000000}
 {"regNo":"fundbase:تاراز","date":"2025-11-23","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-23","realMoneyFlow":0}
+{"regNo":"fundbase:تداوم","date":"2025-11-23","realMoneyFlow":350000000}
 {"regNo":"fundbase:ترمه","date":"2025-11-23","realMoneyFlow":-21000000}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-23","realMoneyFlow":3000000}
 {"regNo":"fundbase:تکپاد","date":"2025-11-23","realMoneyFlow":6000000}
 {"regNo":"fundbase:تمشک","date":"2025-11-23","realMoneyFlow":-13000000}
 {"regNo":"fundbase:توان","date":"2025-11-23","realMoneyFlow":57000000}
@@ -7818,12 +8086,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-23","realMoneyFlow":2000000}
 {"regNo":"fundbase:ویستا","date":"2025-11-23","realMoneyFlow":1000000}
 {"regNo":"fundbase:یلدا","date":"2025-11-23","realMoneyFlow":1000000}
+{"regNo":"fundbase:آتیمس","date":"2025-11-25","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آذرین","date":"2025-11-25","realMoneyFlow":-11000000}
 {"regNo":"fundbase:آرام","date":"2025-11-25","realMoneyFlow":21000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-25","realMoneyFlow":-113000000}
 {"regNo":"fundbase:آس","date":"2025-11-25","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-11-25","realMoneyFlow":28000000}
 {"regNo":"fundbase:آساس","date":"2025-11-25","realMoneyFlow":4000000}
 {"regNo":"fundbase:آسام","date":"2025-11-25","realMoneyFlow":-8000000}
 {"regNo":"fundbase:آسان","date":"2025-11-25","realMoneyFlow":64000000}
+{"regNo":"fundbase:آفاق","date":"2025-11-25","realMoneyFlow":-205000000}
 {"regNo":"fundbase:آفرین","date":"2025-11-25","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-11-25","realMoneyFlow":57000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-25","realMoneyFlow":42000000}
@@ -7839,6 +8111,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-11-25","realMoneyFlow":-37000000}
 {"regNo":"fundbase:استیل","date":"2025-11-25","realMoneyFlow":-12000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-25","realMoneyFlow":227000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-25","realMoneyFlow":-811000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-11-25","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-11-25","realMoneyFlow":-113000000}
 {"regNo":"fundbase:افران","date":"2025-11-25","realMoneyFlow":-115000000}
@@ -7867,6 +8140,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-11-25","realMoneyFlow":-95000000}
 {"regNo":"fundbase:پادا","date":"2025-11-25","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-11-25","realMoneyFlow":170000000}
+{"regNo":"fundbase:پایا","date":"2025-11-25","realMoneyFlow":-179000000}
 {"regNo":"fundbase:پایش","date":"2025-11-25","realMoneyFlow":130000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-25","realMoneyFlow":15000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-25","realMoneyFlow":57000000}
@@ -7884,7 +8158,9 @@
 {"regNo":"fundbase:تابش","date":"2025-11-25","realMoneyFlow":15000000}
 {"regNo":"fundbase:تاراز","date":"2025-11-25","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-25","realMoneyFlow":-20000000}
+{"regNo":"fundbase:تداوم","date":"2025-11-25","realMoneyFlow":-166000000}
 {"regNo":"fundbase:ترمه","date":"2025-11-25","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-25","realMoneyFlow":-59000000}
 {"regNo":"fundbase:تکپاد","date":"2025-11-25","realMoneyFlow":32000000}
 {"regNo":"fundbase:تمشک","date":"2025-11-25","realMoneyFlow":139000000}
 {"regNo":"fundbase:توان","date":"2025-11-25","realMoneyFlow":-266000000}
@@ -8023,12 +8299,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-25","realMoneyFlow":9000000}
 {"regNo":"fundbase:ویستا","date":"2025-11-25","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-11-25","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آتیمس","date":"2025-11-26","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-11-26","realMoneyFlow":-2000000}
 {"regNo":"fundbase:آرام","date":"2025-11-26","realMoneyFlow":-38000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-26","realMoneyFlow":-16000000}
 {"regNo":"fundbase:آس","date":"2025-11-26","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-11-26","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آساس","date":"2025-11-26","realMoneyFlow":-32000000}
 {"regNo":"fundbase:آسام","date":"2025-11-26","realMoneyFlow":-7000000}
 {"regNo":"fundbase:آسان","date":"2025-11-26","realMoneyFlow":-8000000}
+{"regNo":"fundbase:آفاق","date":"2025-11-26","realMoneyFlow":42000000}
 {"regNo":"fundbase:آفرین","date":"2025-11-26","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-11-26","realMoneyFlow":-29000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-26","realMoneyFlow":104000000}
@@ -8044,6 +8324,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-11-26","realMoneyFlow":100000000}
 {"regNo":"fundbase:استیل","date":"2025-11-26","realMoneyFlow":-34000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-26","realMoneyFlow":-77000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-26","realMoneyFlow":565000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-11-26","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-11-26","realMoneyFlow":31000000}
 {"regNo":"fundbase:افران","date":"2025-11-26","realMoneyFlow":1608000000}
@@ -8071,6 +8352,7 @@
 {"regNo":"fundbase:بهین رو","date":"2025-11-26","realMoneyFlow":-45000000}
 {"regNo":"fundbase:بیدار","date":"2025-11-26","realMoneyFlow":17000000}
 {"regNo":"fundbase:پالایش","date":"2025-11-26","realMoneyFlow":-329000000}
+{"regNo":"fundbase:پایا","date":"2025-11-26","realMoneyFlow":-37000000}
 {"regNo":"fundbase:پایش","date":"2025-11-26","realMoneyFlow":-164000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-26","realMoneyFlow":-47000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-26","realMoneyFlow":12000000}
@@ -8088,7 +8370,9 @@
 {"regNo":"fundbase:تابش","date":"2025-11-26","realMoneyFlow":-298000000}
 {"regNo":"fundbase:تاراز","date":"2025-11-26","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-26","realMoneyFlow":1000000}
+{"regNo":"fundbase:تداوم","date":"2025-11-26","realMoneyFlow":228000000}
 {"regNo":"fundbase:ترمه","date":"2025-11-26","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-26","realMoneyFlow":-10000000}
 {"regNo":"fundbase:تکپاد","date":"2025-11-26","realMoneyFlow":-31000000}
 {"regNo":"fundbase:تمشک","date":"2025-11-26","realMoneyFlow":88000000}
 {"regNo":"fundbase:توان","date":"2025-11-26","realMoneyFlow":-39000000}
@@ -8227,12 +8511,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-26","realMoneyFlow":-4000000}
 {"regNo":"fundbase:ویستا","date":"2025-11-26","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-11-26","realMoneyFlow":1000000}
+{"regNo":"fundbase:آتیمس","date":"2025-11-29","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-11-29","realMoneyFlow":8000000}
 {"regNo":"fundbase:آرام","date":"2025-11-29","realMoneyFlow":-25000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-29","realMoneyFlow":-138000000}
 {"regNo":"fundbase:آس","date":"2025-11-29","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-11-29","realMoneyFlow":23000000}
 {"regNo":"fundbase:آساس","date":"2025-11-29","realMoneyFlow":-4000000}
 {"regNo":"fundbase:آسام","date":"2025-11-29","realMoneyFlow":3000000}
 {"regNo":"fundbase:آسان","date":"2025-11-29","realMoneyFlow":9000000}
+{"regNo":"fundbase:آفاق","date":"2025-11-29","realMoneyFlow":-121000000}
 {"regNo":"fundbase:آفرین","date":"2025-11-29","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-11-29","realMoneyFlow":-17000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-29","realMoneyFlow":1782000000}
@@ -8248,6 +8536,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-11-29","realMoneyFlow":34000000}
 {"regNo":"fundbase:استیل","date":"2025-11-29","realMoneyFlow":-44000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-29","realMoneyFlow":-92000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-29","realMoneyFlow":-797000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-11-29","realMoneyFlow":-5000000}
 {"regNo":"fundbase:اعتماد","date":"2025-11-29","realMoneyFlow":-382000000}
 {"regNo":"fundbase:افران","date":"2025-11-29","realMoneyFlow":-2920000000}
@@ -8275,6 +8564,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-11-29","realMoneyFlow":67000000}
 {"regNo":"fundbase:پادا","date":"2025-11-29","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-11-29","realMoneyFlow":-493000000}
+{"regNo":"fundbase:پایا","date":"2025-11-29","realMoneyFlow":-182000000}
 {"regNo":"fundbase:پایش","date":"2025-11-29","realMoneyFlow":-94000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-29","realMoneyFlow":-66000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-29","realMoneyFlow":16000000}
@@ -8290,6 +8580,8 @@
 {"regNo":"fundbase:پیشران","date":"2025-11-29","realMoneyFlow":-9000000}
 {"regNo":"fundbase:تابش","date":"2025-11-29","realMoneyFlow":671000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-29","realMoneyFlow":-5000000}
+{"regNo":"fundbase:تداوم","date":"2025-11-29","realMoneyFlow":-66000000}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-29","realMoneyFlow":-45000000}
 {"regNo":"fundbase:تکپاد","date":"2025-11-29","realMoneyFlow":-3000000}
 {"regNo":"fundbase:تمشک","date":"2025-11-29","realMoneyFlow":473000000}
 {"regNo":"fundbase:توان","date":"2025-11-29","realMoneyFlow":-45000000}
@@ -8426,12 +8718,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-29","realMoneyFlow":-2000000}
 {"regNo":"fundbase:ویستا","date":"2025-11-29","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-11-29","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-11-30","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-11-30","realMoneyFlow":-3000000}
 {"regNo":"fundbase:آرام","date":"2025-11-30","realMoneyFlow":-61000000}
 {"regNo":"fundbase:آرامش","date":"2025-11-30","realMoneyFlow":110000000}
 {"regNo":"fundbase:آس","date":"2025-11-30","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-11-30","realMoneyFlow":-9000000}
 {"regNo":"fundbase:آساس","date":"2025-11-30","realMoneyFlow":-17000000}
 {"regNo":"fundbase:آسام","date":"2025-11-30","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آسان","date":"2025-11-30","realMoneyFlow":-17000000}
+{"regNo":"fundbase:آفاق","date":"2025-11-30","realMoneyFlow":30000000}
 {"regNo":"fundbase:آفرین","date":"2025-11-30","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-11-30","realMoneyFlow":-4000000}
 {"regNo":"fundbase:آلتون","date":"2025-11-30","realMoneyFlow":208000000}
@@ -8447,6 +8743,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-11-30","realMoneyFlow":-21000000}
 {"regNo":"fundbase:استیل","date":"2025-11-30","realMoneyFlow":-45000000}
 {"regNo":"fundbase:اطلس","date":"2025-11-30","realMoneyFlow":41000000}
+{"regNo":"fundbase:اعتبار","date":"2025-11-30","realMoneyFlow":-136000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-11-30","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-11-30","realMoneyFlow":-586000000}
 {"regNo":"fundbase:افران","date":"2025-11-30","realMoneyFlow":-1041000000}
@@ -8473,6 +8770,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-11-30","realMoneyFlow":-21000000}
 {"regNo":"fundbase:پادا","date":"2025-11-30","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-11-30","realMoneyFlow":-24000000}
+{"regNo":"fundbase:پایا","date":"2025-11-30","realMoneyFlow":-63000000}
 {"regNo":"fundbase:پایش","date":"2025-11-30","realMoneyFlow":-6000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-11-30","realMoneyFlow":-3000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-11-30","realMoneyFlow":-14000000}
@@ -8489,7 +8787,9 @@
 {"regNo":"fundbase:تابش","date":"2025-11-30","realMoneyFlow":-73000000}
 {"regNo":"fundbase:تاراز","date":"2025-11-30","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-11-30","realMoneyFlow":3000000}
+{"regNo":"fundbase:تداوم","date":"2025-11-30","realMoneyFlow":203000000}
 {"regNo":"fundbase:ترمه","date":"2025-11-30","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-11-30","realMoneyFlow":1000000}
 {"regNo":"fundbase:تکپاد","date":"2025-11-30","realMoneyFlow":-1000000}
 {"regNo":"fundbase:تمشک","date":"2025-11-30","realMoneyFlow":-103000000}
 {"regNo":"fundbase:توان","date":"2025-11-30","realMoneyFlow":-59000000}
@@ -8626,12 +8926,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-11-30","realMoneyFlow":-3000000}
 {"regNo":"fundbase:ویستا","date":"2025-11-30","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-11-30","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-12-01","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آذرین","date":"2025-12-01","realMoneyFlow":0}
 {"regNo":"fundbase:آرام","date":"2025-12-01","realMoneyFlow":22000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-01","realMoneyFlow":-29000000}
 {"regNo":"fundbase:آس","date":"2025-12-01","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-12-01","realMoneyFlow":0}
 {"regNo":"fundbase:آساس","date":"2025-12-01","realMoneyFlow":8000000}
 {"regNo":"fundbase:آسام","date":"2025-12-01","realMoneyFlow":-2000000}
 {"regNo":"fundbase:آسان","date":"2025-12-01","realMoneyFlow":-20000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-01","realMoneyFlow":-28000000}
 {"regNo":"fundbase:آگاس","date":"2025-12-01","realMoneyFlow":70000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-01","realMoneyFlow":-51000000}
 {"regNo":"fundbase:آلکان","date":"2025-12-01","realMoneyFlow":0}
@@ -8646,6 +8950,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-01","realMoneyFlow":-16000000}
 {"regNo":"fundbase:استیل","date":"2025-12-01","realMoneyFlow":-13000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-01","realMoneyFlow":35000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-01","realMoneyFlow":698000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-01","realMoneyFlow":1000000}
 {"regNo":"fundbase:اعتماد","date":"2025-12-01","realMoneyFlow":-77000000}
 {"regNo":"fundbase:افران","date":"2025-12-01","realMoneyFlow":-544000000}
@@ -8673,6 +8978,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-01","realMoneyFlow":-96000000}
 {"regNo":"fundbase:پادا","date":"2025-12-01","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-12-01","realMoneyFlow":142000000}
+{"regNo":"fundbase:پایا","date":"2025-12-01","realMoneyFlow":-60000000}
 {"regNo":"fundbase:پایش","date":"2025-12-01","realMoneyFlow":180000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-01","realMoneyFlow":-11000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-01","realMoneyFlow":35000000}
@@ -8688,6 +8994,8 @@
 {"regNo":"fundbase:تابش","date":"2025-12-01","realMoneyFlow":89000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-01","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-01","realMoneyFlow":0}
+{"regNo":"fundbase:تداوم","date":"2025-12-01","realMoneyFlow":-112000000}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-01","realMoneyFlow":-21000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-01","realMoneyFlow":-1000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-01","realMoneyFlow":216000000}
 {"regNo":"fundbase:توان","date":"2025-12-01","realMoneyFlow":588000000}
@@ -8823,12 +9131,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-12-01","realMoneyFlow":7000000}
 {"regNo":"fundbase:ویستا","date":"2025-12-01","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-12-01","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-12-02","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-12-02","realMoneyFlow":-2000000}
 {"regNo":"fundbase:آرام","date":"2025-12-02","realMoneyFlow":-19000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-02","realMoneyFlow":-28000000}
 {"regNo":"fundbase:آس","date":"2025-12-02","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-12-02","realMoneyFlow":0}
 {"regNo":"fundbase:آساس","date":"2025-12-02","realMoneyFlow":0}
 {"regNo":"fundbase:آسام","date":"2025-12-02","realMoneyFlow":18000000}
 {"regNo":"fundbase:آسان","date":"2025-12-02","realMoneyFlow":-3000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-02","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آگاس","date":"2025-12-02","realMoneyFlow":7000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-02","realMoneyFlow":-462000000}
 {"regNo":"fundbase:آلکان","date":"2025-12-02","realMoneyFlow":0}
@@ -8843,6 +9155,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-02","realMoneyFlow":0}
 {"regNo":"fundbase:استیل","date":"2025-12-02","realMoneyFlow":-15000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-02","realMoneyFlow":-10000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-02","realMoneyFlow":-1000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-02","realMoneyFlow":-9000000}
 {"regNo":"fundbase:اعتماد","date":"2025-12-02","realMoneyFlow":0}
 {"regNo":"fundbase:افران","date":"2025-12-02","realMoneyFlow":2000000}
@@ -8870,6 +9183,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-02","realMoneyFlow":47000000}
 {"regNo":"fundbase:پادا","date":"2025-12-02","realMoneyFlow":-1000000}
 {"regNo":"fundbase:پالایش","date":"2025-12-02","realMoneyFlow":3000000}
+{"regNo":"fundbase:پایا","date":"2025-12-02","realMoneyFlow":0}
 {"regNo":"fundbase:پایش","date":"2025-12-02","realMoneyFlow":-79000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-02","realMoneyFlow":-10000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-02","realMoneyFlow":-1000000}
@@ -8888,7 +9202,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-02","realMoneyFlow":56000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-02","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-02","realMoneyFlow":11000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-02","realMoneyFlow":0}
 {"regNo":"fundbase:ترمه","date":"2025-12-02","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-02","realMoneyFlow":-225000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-02","realMoneyFlow":3000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-02","realMoneyFlow":-139000000}
 {"regNo":"fundbase:توان","date":"2025-12-02","realMoneyFlow":62000000}
@@ -9022,12 +9338,16 @@
 {"regNo":"fundbase:هیوا","date":"2025-12-02","realMoneyFlow":0}
 {"regNo":"fundbase:وبازار","date":"2025-12-02","realMoneyFlow":2000000}
 {"regNo":"fundbase:یلدا","date":"2025-12-02","realMoneyFlow":2000000}
+{"regNo":"fundbase:آتیمس","date":"2025-12-03","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-12-03","realMoneyFlow":11000000}
 {"regNo":"fundbase:آرام","date":"2025-12-03","realMoneyFlow":-79000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-03","realMoneyFlow":-12000000}
 {"regNo":"fundbase:آس","date":"2025-12-03","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-12-03","realMoneyFlow":7000000}
 {"regNo":"fundbase:آساس","date":"2025-12-03","realMoneyFlow":-48000000}
 {"regNo":"fundbase:آسام","date":"2025-12-03","realMoneyFlow":-16000000}
 {"regNo":"fundbase:آسان","date":"2025-12-03","realMoneyFlow":10000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-03","realMoneyFlow":6000000}
 {"regNo":"fundbase:آفرین","date":"2025-12-03","realMoneyFlow":-15000000}
 {"regNo":"fundbase:آگاس","date":"2025-12-03","realMoneyFlow":91000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-03","realMoneyFlow":-52000000}
@@ -9043,6 +9363,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-03","realMoneyFlow":178000000}
 {"regNo":"fundbase:استیل","date":"2025-12-03","realMoneyFlow":-10000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-03","realMoneyFlow":-66000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-03","realMoneyFlow":586000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-03","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-12-03","realMoneyFlow":41000000}
 {"regNo":"fundbase:افران","date":"2025-12-03","realMoneyFlow":484000000}
@@ -9071,6 +9392,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-03","realMoneyFlow":-147000000}
 {"regNo":"fundbase:پادا","date":"2025-12-03","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-12-03","realMoneyFlow":535000000}
+{"regNo":"fundbase:پایا","date":"2025-12-03","realMoneyFlow":87000000}
 {"regNo":"fundbase:پایش","date":"2025-12-03","realMoneyFlow":-77000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-03","realMoneyFlow":-1000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-03","realMoneyFlow":0}
@@ -9087,7 +9409,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-03","realMoneyFlow":205000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-03","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-03","realMoneyFlow":-23000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-03","realMoneyFlow":142000000}
 {"regNo":"fundbase:ترمه","date":"2025-12-03","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-03","realMoneyFlow":12000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-03","realMoneyFlow":1000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-03","realMoneyFlow":324000000}
 {"regNo":"fundbase:توان","date":"2025-12-03","realMoneyFlow":0}
@@ -9225,12 +9549,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-12-03","realMoneyFlow":3000000}
 {"regNo":"fundbase:ویستا","date":"2025-12-03","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-12-03","realMoneyFlow":-2000000}
+{"regNo":"fundbase:آتیمس","date":"2025-12-06","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-12-06","realMoneyFlow":28000000}
 {"regNo":"fundbase:آرام","date":"2025-12-06","realMoneyFlow":-193000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-06","realMoneyFlow":10000000}
 {"regNo":"fundbase:آس","date":"2025-12-06","realMoneyFlow":-8000000}
+{"regNo":"fundbase:آسا","date":"2025-12-06","realMoneyFlow":-23000000}
 {"regNo":"fundbase:آساس","date":"2025-12-06","realMoneyFlow":298000000}
 {"regNo":"fundbase:آسام","date":"2025-12-06","realMoneyFlow":0}
 {"regNo":"fundbase:آسان","date":"2025-12-06","realMoneyFlow":18000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-06","realMoneyFlow":-178000000}
 {"regNo":"fundbase:آفرین","date":"2025-12-06","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-12-06","realMoneyFlow":106000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-06","realMoneyFlow":380000000}
@@ -9246,6 +9574,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-06","realMoneyFlow":-30000000}
 {"regNo":"fundbase:استیل","date":"2025-12-06","realMoneyFlow":104000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-06","realMoneyFlow":101000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-06","realMoneyFlow":-613000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-06","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-12-06","realMoneyFlow":-764000000}
 {"regNo":"fundbase:افران","date":"2025-12-06","realMoneyFlow":-2192000000}
@@ -9273,6 +9602,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-06","realMoneyFlow":75000000}
 {"regNo":"fundbase:پادا","date":"2025-12-06","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-12-06","realMoneyFlow":306000000}
+{"regNo":"fundbase:پایا","date":"2025-12-06","realMoneyFlow":-207000000}
 {"regNo":"fundbase:پایش","date":"2025-12-06","realMoneyFlow":-106000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-06","realMoneyFlow":-4000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-06","realMoneyFlow":3000000}
@@ -9290,7 +9620,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-06","realMoneyFlow":316000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-06","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-06","realMoneyFlow":-3000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-06","realMoneyFlow":-248000000}
 {"regNo":"fundbase:ترمه","date":"2025-12-06","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-06","realMoneyFlow":-126000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-06","realMoneyFlow":4000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-06","realMoneyFlow":130000000}
 {"regNo":"fundbase:توان","date":"2025-12-06","realMoneyFlow":-679000000}
@@ -9429,12 +9761,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-12-06","realMoneyFlow":-1000000}
 {"regNo":"fundbase:ویستا","date":"2025-12-06","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-12-06","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-12-07","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-12-07","realMoneyFlow":-32000000}
 {"regNo":"fundbase:آرام","date":"2025-12-07","realMoneyFlow":-116000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-07","realMoneyFlow":-45000000}
 {"regNo":"fundbase:آس","date":"2025-12-07","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آسا","date":"2025-12-07","realMoneyFlow":4000000}
 {"regNo":"fundbase:آساس","date":"2025-12-07","realMoneyFlow":-22000000}
 {"regNo":"fundbase:آسام","date":"2025-12-07","realMoneyFlow":-3000000}
 {"regNo":"fundbase:آسان","date":"2025-12-07","realMoneyFlow":-6000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-07","realMoneyFlow":-204000000}
 {"regNo":"fundbase:آفرین","date":"2025-12-07","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-12-07","realMoneyFlow":-93000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-07","realMoneyFlow":-850000000}
@@ -9450,6 +9786,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-07","realMoneyFlow":-86000000}
 {"regNo":"fundbase:استیل","date":"2025-12-07","realMoneyFlow":-28000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-07","realMoneyFlow":-82000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-07","realMoneyFlow":626000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-07","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-12-07","realMoneyFlow":129000000}
 {"regNo":"fundbase:افران","date":"2025-12-07","realMoneyFlow":2127000000}
@@ -9477,6 +9814,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-07","realMoneyFlow":-133000000}
 {"regNo":"fundbase:پادا","date":"2025-12-07","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-12-07","realMoneyFlow":71000000}
+{"regNo":"fundbase:پایا","date":"2025-12-07","realMoneyFlow":-149000000}
 {"regNo":"fundbase:پایش","date":"2025-12-07","realMoneyFlow":-26000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-07","realMoneyFlow":-3000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-07","realMoneyFlow":7000000}
@@ -9495,7 +9833,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-07","realMoneyFlow":20000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-07","realMoneyFlow":1000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-07","realMoneyFlow":-11000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-07","realMoneyFlow":613000000}
 {"regNo":"fundbase:ترمه","date":"2025-12-07","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-07","realMoneyFlow":-51000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-07","realMoneyFlow":0}
 {"regNo":"fundbase:تمشک","date":"2025-12-07","realMoneyFlow":110000000}
 {"regNo":"fundbase:توان","date":"2025-12-07","realMoneyFlow":-317000000}
@@ -9635,12 +9975,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-12-07","realMoneyFlow":0}
 {"regNo":"fundbase:ویستا","date":"2025-12-07","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-12-07","realMoneyFlow":16000000}
+{"regNo":"fundbase:آتیمس","date":"2025-12-08","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-12-08","realMoneyFlow":7000000}
 {"regNo":"fundbase:آرام","date":"2025-12-08","realMoneyFlow":10000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-08","realMoneyFlow":2000000}
 {"regNo":"fundbase:آس","date":"2025-12-08","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آسا","date":"2025-12-08","realMoneyFlow":1000000}
 {"regNo":"fundbase:آساس","date":"2025-12-08","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آسام","date":"2025-12-08","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آسان","date":"2025-12-08","realMoneyFlow":81000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-08","realMoneyFlow":10000000}
 {"regNo":"fundbase:آفرین","date":"2025-12-08","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آگاس","date":"2025-12-08","realMoneyFlow":111000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-08","realMoneyFlow":-488000000}
@@ -9656,6 +10000,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-08","realMoneyFlow":-23000000}
 {"regNo":"fundbase:استیل","date":"2025-12-08","realMoneyFlow":16000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-08","realMoneyFlow":80000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-08","realMoneyFlow":-627000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-08","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-12-08","realMoneyFlow":609000000}
 {"regNo":"fundbase:افران","date":"2025-12-08","realMoneyFlow":1304000000}
@@ -9683,6 +10028,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-08","realMoneyFlow":67000000}
 {"regNo":"fundbase:پادا","date":"2025-12-08","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-12-08","realMoneyFlow":359000000}
+{"regNo":"fundbase:پایا","date":"2025-12-08","realMoneyFlow":28000000}
 {"regNo":"fundbase:پایش","date":"2025-12-08","realMoneyFlow":12000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-08","realMoneyFlow":-3000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-08","realMoneyFlow":49000000}
@@ -9698,7 +10044,9 @@
 {"regNo":"fundbase:پیشران","date":"2025-12-08","realMoneyFlow":0}
 {"regNo":"fundbase:تابش","date":"2025-12-08","realMoneyFlow":96000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-08","realMoneyFlow":-27000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-08","realMoneyFlow":-9000000}
 {"regNo":"fundbase:ترمه","date":"2025-12-08","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-08","realMoneyFlow":9000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-08","realMoneyFlow":-3000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-08","realMoneyFlow":79000000}
 {"regNo":"fundbase:توان","date":"2025-12-08","realMoneyFlow":112000000}
@@ -9837,12 +10185,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-12-08","realMoneyFlow":-4000000}
 {"regNo":"fundbase:ویستا","date":"2025-12-08","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-12-08","realMoneyFlow":1000000}
+{"regNo":"fundbase:آتیمس","date":"2025-12-09","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-12-09","realMoneyFlow":3000000}
 {"regNo":"fundbase:آرام","date":"2025-12-09","realMoneyFlow":8000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-09","realMoneyFlow":31000000}
 {"regNo":"fundbase:آس","date":"2025-12-09","realMoneyFlow":3000000}
+{"regNo":"fundbase:آسا","date":"2025-12-09","realMoneyFlow":6000000}
 {"regNo":"fundbase:آساس","date":"2025-12-09","realMoneyFlow":-6000000}
 {"regNo":"fundbase:آسام","date":"2025-12-09","realMoneyFlow":-3000000}
 {"regNo":"fundbase:آسان","date":"2025-12-09","realMoneyFlow":-2000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-09","realMoneyFlow":70000000}
 {"regNo":"fundbase:آفرین","date":"2025-12-09","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آگاس","date":"2025-12-09","realMoneyFlow":10000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-09","realMoneyFlow":-938000000}
@@ -9858,6 +10210,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-09","realMoneyFlow":-254000000}
 {"regNo":"fundbase:استیل","date":"2025-12-09","realMoneyFlow":7000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-09","realMoneyFlow":-86000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-09","realMoneyFlow":829000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-09","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-12-09","realMoneyFlow":365000000}
 {"regNo":"fundbase:افران","date":"2025-12-09","realMoneyFlow":2293000000}
@@ -9885,6 +10238,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-09","realMoneyFlow":93000000}
 {"regNo":"fundbase:پادا","date":"2025-12-09","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-12-09","realMoneyFlow":212000000}
+{"regNo":"fundbase:پایا","date":"2025-12-09","realMoneyFlow":38000000}
 {"regNo":"fundbase:پایش","date":"2025-12-09","realMoneyFlow":-20000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-09","realMoneyFlow":0}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-09","realMoneyFlow":-3000000}
@@ -9902,7 +10256,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-09","realMoneyFlow":-182000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-09","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-09","realMoneyFlow":8000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-09","realMoneyFlow":131000000}
 {"regNo":"fundbase:ترمه","date":"2025-12-09","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-09","realMoneyFlow":-27000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-09","realMoneyFlow":3000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-09","realMoneyFlow":-54000000}
 {"regNo":"fundbase:توان","date":"2025-12-09","realMoneyFlow":-29000000}
@@ -10040,12 +10396,15 @@
 {"regNo":"fundbase:وبازار","date":"2025-12-09","realMoneyFlow":0}
 {"regNo":"fundbase:ویستا","date":"2025-12-09","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-12-09","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-12-10","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-12-10","realMoneyFlow":2000000}
 {"regNo":"fundbase:آرام","date":"2025-12-10","realMoneyFlow":191000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-10","realMoneyFlow":0}
 {"regNo":"fundbase:آس","date":"2025-12-10","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آساس","date":"2025-12-10","realMoneyFlow":1000000}
 {"regNo":"fundbase:آسام","date":"2025-12-10","realMoneyFlow":0}
 {"regNo":"fundbase:آسان","date":"2025-12-10","realMoneyFlow":10000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-10","realMoneyFlow":0}
 {"regNo":"fundbase:آفرین","date":"2025-12-10","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آگاس","date":"2025-12-10","realMoneyFlow":51000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-10","realMoneyFlow":-369000000}
@@ -10061,6 +10420,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-10","realMoneyFlow":1000000}
 {"regNo":"fundbase:استیل","date":"2025-12-10","realMoneyFlow":57000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-10","realMoneyFlow":95000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-10","realMoneyFlow":-5000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-10","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-12-10","realMoneyFlow":0}
 {"regNo":"fundbase:افران","date":"2025-12-10","realMoneyFlow":11000000}
@@ -10087,6 +10447,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-10","realMoneyFlow":-212000000}
 {"regNo":"fundbase:پادا","date":"2025-12-10","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-12-10","realMoneyFlow":-32000000}
+{"regNo":"fundbase:پایا","date":"2025-12-10","realMoneyFlow":0}
 {"regNo":"fundbase:پایش","date":"2025-12-10","realMoneyFlow":-42000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-10","realMoneyFlow":2000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-10","realMoneyFlow":-14000000}
@@ -10104,7 +10465,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-10","realMoneyFlow":34000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-10","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-10","realMoneyFlow":-7000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-10","realMoneyFlow":3000000}
 {"regNo":"fundbase:ترمه","date":"2025-12-10","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-10","realMoneyFlow":35000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-10","realMoneyFlow":3000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-10","realMoneyFlow":-127000000}
 {"regNo":"fundbase:توان","date":"2025-12-10","realMoneyFlow":97000000}
@@ -10241,12 +10604,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-12-10","realMoneyFlow":2000000}
 {"regNo":"fundbase:ویستا","date":"2025-12-10","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-12-10","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-12-13","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-12-13","realMoneyFlow":-6000000}
 {"regNo":"fundbase:آرام","date":"2025-12-13","realMoneyFlow":195000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-13","realMoneyFlow":-100000000}
 {"regNo":"fundbase:آس","date":"2025-12-13","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آسا","date":"2025-12-13","realMoneyFlow":-13000000}
 {"regNo":"fundbase:آساس","date":"2025-12-13","realMoneyFlow":-14000000}
 {"regNo":"fundbase:آسام","date":"2025-12-13","realMoneyFlow":-7000000}
 {"regNo":"fundbase:آسان","date":"2025-12-13","realMoneyFlow":14000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-13","realMoneyFlow":-35000000}
 {"regNo":"fundbase:آفرین","date":"2025-12-13","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-12-13","realMoneyFlow":255000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-13","realMoneyFlow":-1415000000}
@@ -10262,6 +10629,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-13","realMoneyFlow":-144000000}
 {"regNo":"fundbase:استیل","date":"2025-12-13","realMoneyFlow":36000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-13","realMoneyFlow":195000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-13","realMoneyFlow":874000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-13","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-12-13","realMoneyFlow":-575000000}
 {"regNo":"fundbase:افران","date":"2025-12-13","realMoneyFlow":-1958000000}
@@ -10289,6 +10657,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-13","realMoneyFlow":-35000000}
 {"regNo":"fundbase:پادا","date":"2025-12-13","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-12-13","realMoneyFlow":105000000}
+{"regNo":"fundbase:پایا","date":"2025-12-13","realMoneyFlow":-137000000}
 {"regNo":"fundbase:پایش","date":"2025-12-13","realMoneyFlow":-199000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-13","realMoneyFlow":0}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-13","realMoneyFlow":-3000000}
@@ -10306,7 +10675,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-13","realMoneyFlow":264000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-13","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-13","realMoneyFlow":-7000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-13","realMoneyFlow":-313000000}
 {"regNo":"fundbase:ترمه","date":"2025-12-13","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-13","realMoneyFlow":-31000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-13","realMoneyFlow":21000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-13","realMoneyFlow":750000000}
 {"regNo":"fundbase:توان","date":"2025-12-13","realMoneyFlow":498000000}
@@ -10446,12 +10817,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-12-13","realMoneyFlow":6000000}
 {"regNo":"fundbase:ویستا","date":"2025-12-13","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-12-13","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-12-14","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-12-14","realMoneyFlow":4000000}
 {"regNo":"fundbase:آرام","date":"2025-12-14","realMoneyFlow":0}
 {"regNo":"fundbase:آرامش","date":"2025-12-14","realMoneyFlow":0}
 {"regNo":"fundbase:آس","date":"2025-12-14","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-12-14","realMoneyFlow":-2000000}
 {"regNo":"fundbase:آساس","date":"2025-12-14","realMoneyFlow":7000000}
 {"regNo":"fundbase:آسام","date":"2025-12-14","realMoneyFlow":3000000}
 {"regNo":"fundbase:آسان","date":"2025-12-14","realMoneyFlow":-26000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-14","realMoneyFlow":2000000}
 {"regNo":"fundbase:آفرین","date":"2025-12-14","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آگاس","date":"2025-12-14","realMoneyFlow":141000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-14","realMoneyFlow":-178000000}
@@ -10467,6 +10842,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-14","realMoneyFlow":1000000}
 {"regNo":"fundbase:استیل","date":"2025-12-14","realMoneyFlow":19000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-14","realMoneyFlow":107000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-14","realMoneyFlow":-1000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-14","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-12-14","realMoneyFlow":-4000000}
 {"regNo":"fundbase:افران","date":"2025-12-14","realMoneyFlow":1000000}
@@ -10494,6 +10870,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-14","realMoneyFlow":-133000000}
 {"regNo":"fundbase:پادا","date":"2025-12-14","realMoneyFlow":6000000}
 {"regNo":"fundbase:پالایش","date":"2025-12-14","realMoneyFlow":-151000000}
+{"regNo":"fundbase:پایا","date":"2025-12-14","realMoneyFlow":-4000000}
 {"regNo":"fundbase:پایش","date":"2025-12-14","realMoneyFlow":-28000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-14","realMoneyFlow":-22000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-14","realMoneyFlow":0}
@@ -10511,7 +10888,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-14","realMoneyFlow":447000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-14","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-14","realMoneyFlow":-9000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-14","realMoneyFlow":34000000}
 {"regNo":"fundbase:ترمه","date":"2025-12-14","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-14","realMoneyFlow":0}
 {"regNo":"fundbase:تکپاد","date":"2025-12-14","realMoneyFlow":1000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-14","realMoneyFlow":6000000}
 {"regNo":"fundbase:توان","date":"2025-12-14","realMoneyFlow":-210000000}
@@ -10650,12 +11029,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-12-14","realMoneyFlow":2000000}
 {"regNo":"fundbase:ویستا","date":"2025-12-14","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-12-14","realMoneyFlow":3000000}
+{"regNo":"fundbase:آتیمس","date":"2025-12-15","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-12-15","realMoneyFlow":3000000}
 {"regNo":"fundbase:آرام","date":"2025-12-15","realMoneyFlow":127000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-15","realMoneyFlow":-16000000}
 {"regNo":"fundbase:آس","date":"2025-12-15","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-12-15","realMoneyFlow":-22000000}
 {"regNo":"fundbase:آساس","date":"2025-12-15","realMoneyFlow":6000000}
 {"regNo":"fundbase:آسام","date":"2025-12-15","realMoneyFlow":3000000}
 {"regNo":"fundbase:آسان","date":"2025-12-15","realMoneyFlow":36000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-15","realMoneyFlow":12000000}
 {"regNo":"fundbase:آفرین","date":"2025-12-15","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-12-15","realMoneyFlow":352000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-15","realMoneyFlow":-766000000}
@@ -10671,6 +11054,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-15","realMoneyFlow":-51000000}
 {"regNo":"fundbase:استیل","date":"2025-12-15","realMoneyFlow":50000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-15","realMoneyFlow":407000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-15","realMoneyFlow":637000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-15","realMoneyFlow":3000000}
 {"regNo":"fundbase:اعتماد","date":"2025-12-15","realMoneyFlow":-496000000}
 {"regNo":"fundbase:افران","date":"2025-12-15","realMoneyFlow":1026000000}
@@ -10698,6 +11082,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-15","realMoneyFlow":-44000000}
 {"regNo":"fundbase:پادا","date":"2025-12-15","realMoneyFlow":1000000}
 {"regNo":"fundbase:پالایش","date":"2025-12-15","realMoneyFlow":499000000}
+{"regNo":"fundbase:پایا","date":"2025-12-15","realMoneyFlow":71000000}
 {"regNo":"fundbase:پایش","date":"2025-12-15","realMoneyFlow":-30000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-15","realMoneyFlow":-10000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-15","realMoneyFlow":-14000000}
@@ -10715,7 +11100,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-15","realMoneyFlow":-225000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-15","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-15","realMoneyFlow":-1000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-15","realMoneyFlow":97000000}
 {"regNo":"fundbase:ترمه","date":"2025-12-15","realMoneyFlow":4000000}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-15","realMoneyFlow":-13000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-15","realMoneyFlow":-12000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-15","realMoneyFlow":870000000}
 {"regNo":"fundbase:توان","date":"2025-12-15","realMoneyFlow":-196000000}
@@ -10854,12 +11241,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-12-15","realMoneyFlow":3000000}
 {"regNo":"fundbase:ویستا","date":"2025-12-15","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-12-15","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-12-16","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-12-16","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آرام","date":"2025-12-16","realMoneyFlow":-38000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-16","realMoneyFlow":18000000}
 {"regNo":"fundbase:آس","date":"2025-12-16","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-12-16","realMoneyFlow":3000000}
 {"regNo":"fundbase:آساس","date":"2025-12-16","realMoneyFlow":2000000}
 {"regNo":"fundbase:آسام","date":"2025-12-16","realMoneyFlow":51000000}
 {"regNo":"fundbase:آسان","date":"2025-12-16","realMoneyFlow":43000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-16","realMoneyFlow":113000000}
 {"regNo":"fundbase:آفرین","date":"2025-12-16","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آگاس","date":"2025-12-16","realMoneyFlow":14000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-16","realMoneyFlow":-218000000}
@@ -10875,6 +11266,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-16","realMoneyFlow":-69000000}
 {"regNo":"fundbase:استیل","date":"2025-12-16","realMoneyFlow":32000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-16","realMoneyFlow":-205000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-16","realMoneyFlow":-710000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-16","realMoneyFlow":-8000000}
 {"regNo":"fundbase:اعتماد","date":"2025-12-16","realMoneyFlow":22000000}
 {"regNo":"fundbase:افران","date":"2025-12-16","realMoneyFlow":1855000000}
@@ -10901,6 +11293,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-16","realMoneyFlow":-272000000}
 {"regNo":"fundbase:پادا","date":"2025-12-16","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-12-16","realMoneyFlow":-142000000}
+{"regNo":"fundbase:پایا","date":"2025-12-16","realMoneyFlow":141000000}
 {"regNo":"fundbase:پایش","date":"2025-12-16","realMoneyFlow":2000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-16","realMoneyFlow":-3000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-16","realMoneyFlow":-31000000}
@@ -10918,7 +11311,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-16","realMoneyFlow":-67000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-16","realMoneyFlow":-1000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-16","realMoneyFlow":-25000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-16","realMoneyFlow":0}
 {"regNo":"fundbase:ترمه","date":"2025-12-16","realMoneyFlow":1000000}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-16","realMoneyFlow":-30000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-16","realMoneyFlow":-1000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-16","realMoneyFlow":-359000000}
 {"regNo":"fundbase:توان","date":"2025-12-16","realMoneyFlow":-99000000}
@@ -11058,12 +11453,16 @@
 {"regNo":"fundbase:هیوا","date":"2025-12-16","realMoneyFlow":1000000}
 {"regNo":"fundbase:وبازار","date":"2025-12-16","realMoneyFlow":2000000}
 {"regNo":"fundbase:یلدا","date":"2025-12-16","realMoneyFlow":1000000}
+{"regNo":"fundbase:آتیمس","date":"2025-12-17","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-12-17","realMoneyFlow":-6000000}
 {"regNo":"fundbase:آرام","date":"2025-12-17","realMoneyFlow":5000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-17","realMoneyFlow":-80000000}
 {"regNo":"fundbase:آس","date":"2025-12-17","realMoneyFlow":-16000000}
+{"regNo":"fundbase:آسا","date":"2025-12-17","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آساس","date":"2025-12-17","realMoneyFlow":-5000000}
 {"regNo":"fundbase:آسام","date":"2025-12-17","realMoneyFlow":-33000000}
 {"regNo":"fundbase:آسان","date":"2025-12-17","realMoneyFlow":-3000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-17","realMoneyFlow":135000000}
 {"regNo":"fundbase:آفرین","date":"2025-12-17","realMoneyFlow":-2000000}
 {"regNo":"fundbase:آگاس","date":"2025-12-17","realMoneyFlow":-50000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-17","realMoneyFlow":-701000000}
@@ -11079,6 +11478,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-17","realMoneyFlow":16000000}
 {"regNo":"fundbase:استیل","date":"2025-12-17","realMoneyFlow":5000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-17","realMoneyFlow":117000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-17","realMoneyFlow":912000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-17","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-12-17","realMoneyFlow":388000000}
 {"regNo":"fundbase:افران","date":"2025-12-17","realMoneyFlow":1817000000}
@@ -11106,6 +11506,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-17","realMoneyFlow":234000000}
 {"regNo":"fundbase:پادا","date":"2025-12-17","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-12-17","realMoneyFlow":-170000000}
+{"regNo":"fundbase:پایا","date":"2025-12-17","realMoneyFlow":92000000}
 {"regNo":"fundbase:پایش","date":"2025-12-17","realMoneyFlow":352000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-17","realMoneyFlow":-2000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-17","realMoneyFlow":10000000}
@@ -11123,7 +11524,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-17","realMoneyFlow":-525000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-17","realMoneyFlow":-1000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-17","realMoneyFlow":3000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-17","realMoneyFlow":1178000000}
 {"regNo":"fundbase:ترمه","date":"2025-12-17","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-17","realMoneyFlow":17000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-17","realMoneyFlow":8000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-17","realMoneyFlow":149000000}
 {"regNo":"fundbase:توان","date":"2025-12-17","realMoneyFlow":111000000}
@@ -11264,12 +11667,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-12-17","realMoneyFlow":-4000000}
 {"regNo":"fundbase:ویستا","date":"2025-12-17","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-12-17","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-12-20","realMoneyFlow":9000000}
+{"regNo":"fundbase:آذرین","date":"2025-12-20","realMoneyFlow":77000000}
 {"regNo":"fundbase:آرام","date":"2025-12-20","realMoneyFlow":257000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-20","realMoneyFlow":-135000000}
 {"regNo":"fundbase:آس","date":"2025-12-20","realMoneyFlow":5000000}
+{"regNo":"fundbase:آسا","date":"2025-12-20","realMoneyFlow":-2000000}
 {"regNo":"fundbase:آساس","date":"2025-12-20","realMoneyFlow":77000000}
 {"regNo":"fundbase:آسام","date":"2025-12-20","realMoneyFlow":36000000}
 {"regNo":"fundbase:آسان","date":"2025-12-20","realMoneyFlow":-13000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-20","realMoneyFlow":-71000000}
 {"regNo":"fundbase:آفرین","date":"2025-12-20","realMoneyFlow":-15000000}
 {"regNo":"fundbase:آگاس","date":"2025-12-20","realMoneyFlow":576000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-20","realMoneyFlow":-274000000}
@@ -11285,6 +11692,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-20","realMoneyFlow":-39000000}
 {"regNo":"fundbase:استیل","date":"2025-12-20","realMoneyFlow":46000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-20","realMoneyFlow":224000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-20","realMoneyFlow":-596000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-20","realMoneyFlow":39000000}
 {"regNo":"fundbase:اعتماد","date":"2025-12-20","realMoneyFlow":-120000000}
 {"regNo":"fundbase:افران","date":"2025-12-20","realMoneyFlow":-1218000000}
@@ -11312,6 +11720,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-20","realMoneyFlow":16000000}
 {"regNo":"fundbase:پادا","date":"2025-12-20","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-12-20","realMoneyFlow":130000000}
+{"regNo":"fundbase:پایا","date":"2025-12-20","realMoneyFlow":428000000}
 {"regNo":"fundbase:پایش","date":"2025-12-20","realMoneyFlow":-209000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-20","realMoneyFlow":44000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-20","realMoneyFlow":42000000}
@@ -11331,7 +11740,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-20","realMoneyFlow":146000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-20","realMoneyFlow":1000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-20","realMoneyFlow":-16000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-20","realMoneyFlow":-793000000}
 {"regNo":"fundbase:ترمه","date":"2025-12-20","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-20","realMoneyFlow":-33000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-20","realMoneyFlow":156000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-20","realMoneyFlow":63000000}
 {"regNo":"fundbase:توان","date":"2025-12-20","realMoneyFlow":264000000}
@@ -11473,12 +11884,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-12-20","realMoneyFlow":10000000}
 {"regNo":"fundbase:ویستا","date":"2025-12-20","realMoneyFlow":1000000}
 {"regNo":"fundbase:یلدا","date":"2025-12-20","realMoneyFlow":19000000}
+{"regNo":"fundbase:آتیمس","date":"2025-12-21","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-12-21","realMoneyFlow":-71000000}
 {"regNo":"fundbase:آرام","date":"2025-12-21","realMoneyFlow":-79000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-21","realMoneyFlow":58000000}
 {"regNo":"fundbase:آس","date":"2025-12-21","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-12-21","realMoneyFlow":35000000}
 {"regNo":"fundbase:آساس","date":"2025-12-21","realMoneyFlow":-44000000}
 {"regNo":"fundbase:آسام","date":"2025-12-21","realMoneyFlow":114000000}
 {"regNo":"fundbase:آسان","date":"2025-12-21","realMoneyFlow":1000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-21","realMoneyFlow":156000000}
 {"regNo":"fundbase:آفرین","date":"2025-12-21","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-12-21","realMoneyFlow":588000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-21","realMoneyFlow":683000000}
@@ -11494,6 +11909,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-21","realMoneyFlow":-10000000}
 {"regNo":"fundbase:استیل","date":"2025-12-21","realMoneyFlow":17000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-21","realMoneyFlow":731000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-21","realMoneyFlow":385000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-21","realMoneyFlow":2000000}
 {"regNo":"fundbase:اعتماد","date":"2025-12-21","realMoneyFlow":269000000}
 {"regNo":"fundbase:افران","date":"2025-12-21","realMoneyFlow":1798000000}
@@ -11521,6 +11937,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-21","realMoneyFlow":-336000000}
 {"regNo":"fundbase:پادا","date":"2025-12-21","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-12-21","realMoneyFlow":385000000}
+{"regNo":"fundbase:پایا","date":"2025-12-21","realMoneyFlow":236000000}
 {"regNo":"fundbase:پایش","date":"2025-12-21","realMoneyFlow":-17000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-21","realMoneyFlow":-26000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-21","realMoneyFlow":-11000000}
@@ -11538,7 +11955,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-21","realMoneyFlow":335000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-21","realMoneyFlow":-1000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-21","realMoneyFlow":-9000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-21","realMoneyFlow":510000000}
 {"regNo":"fundbase:ترمه","date":"2025-12-21","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-21","realMoneyFlow":-25000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-21","realMoneyFlow":-110000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-21","realMoneyFlow":-169000000}
 {"regNo":"fundbase:توان","date":"2025-12-21","realMoneyFlow":-233000000}
@@ -11680,12 +12099,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-12-21","realMoneyFlow":7000000}
 {"regNo":"fundbase:ویستا","date":"2025-12-21","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-12-21","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-12-22","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-12-22","realMoneyFlow":3000000}
 {"regNo":"fundbase:آرام","date":"2025-12-22","realMoneyFlow":-69000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-22","realMoneyFlow":-71000000}
 {"regNo":"fundbase:آس","date":"2025-12-22","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-12-22","realMoneyFlow":109000000}
 {"regNo":"fundbase:آساس","date":"2025-12-22","realMoneyFlow":-148000000}
 {"regNo":"fundbase:آسام","date":"2025-12-22","realMoneyFlow":-62000000}
 {"regNo":"fundbase:آسان","date":"2025-12-22","realMoneyFlow":20000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-22","realMoneyFlow":184000000}
 {"regNo":"fundbase:آفرین","date":"2025-12-22","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-12-22","realMoneyFlow":-38000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-22","realMoneyFlow":-363000000}
@@ -11701,6 +12124,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-22","realMoneyFlow":-39000000}
 {"regNo":"fundbase:استیل","date":"2025-12-22","realMoneyFlow":5000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-22","realMoneyFlow":311000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-22","realMoneyFlow":-783000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-22","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-12-22","realMoneyFlow":143000000}
 {"regNo":"fundbase:افران","date":"2025-12-22","realMoneyFlow":374000000}
@@ -11728,6 +12152,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-22","realMoneyFlow":-633000000}
 {"regNo":"fundbase:پادا","date":"2025-12-22","realMoneyFlow":1000000}
 {"regNo":"fundbase:پالایش","date":"2025-12-22","realMoneyFlow":-783000000}
+{"regNo":"fundbase:پایا","date":"2025-12-22","realMoneyFlow":-45000000}
 {"regNo":"fundbase:پایش","date":"2025-12-22","realMoneyFlow":7000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-22","realMoneyFlow":-22000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-22","realMoneyFlow":1000000}
@@ -11746,7 +12171,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-22","realMoneyFlow":-62000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-22","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-22","realMoneyFlow":-22000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-22","realMoneyFlow":1079000000}
 {"regNo":"fundbase:ترمه","date":"2025-12-22","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-22","realMoneyFlow":-67000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-22","realMoneyFlow":-18000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-22","realMoneyFlow":47000000}
 {"regNo":"fundbase:توان","date":"2025-12-22","realMoneyFlow":-67000000}
@@ -11891,12 +12318,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-12-22","realMoneyFlow":1000000}
 {"regNo":"fundbase:ویستا","date":"2025-12-22","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-12-22","realMoneyFlow":-18000000}
+{"regNo":"fundbase:آتیمس","date":"2025-12-23","realMoneyFlow":-1000000}
+{"regNo":"fundbase:آذرین","date":"2025-12-23","realMoneyFlow":-5000000}
 {"regNo":"fundbase:آرام","date":"2025-12-23","realMoneyFlow":96000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-23","realMoneyFlow":41000000}
 {"regNo":"fundbase:آس","date":"2025-12-23","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-12-23","realMoneyFlow":-45000000}
 {"regNo":"fundbase:آساس","date":"2025-12-23","realMoneyFlow":-58000000}
 {"regNo":"fundbase:آسام","date":"2025-12-23","realMoneyFlow":96000000}
 {"regNo":"fundbase:آسان","date":"2025-12-23","realMoneyFlow":-26000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-23","realMoneyFlow":46000000}
 {"regNo":"fundbase:آفرین","date":"2025-12-23","realMoneyFlow":3000000}
 {"regNo":"fundbase:آگاس","date":"2025-12-23","realMoneyFlow":6000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-23","realMoneyFlow":-155000000}
@@ -11912,6 +12343,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-23","realMoneyFlow":-49000000}
 {"regNo":"fundbase:استیل","date":"2025-12-23","realMoneyFlow":46000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-23","realMoneyFlow":463000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-23","realMoneyFlow":623000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-23","realMoneyFlow":-2000000}
 {"regNo":"fundbase:اعتماد","date":"2025-12-23","realMoneyFlow":578000000}
 {"regNo":"fundbase:افران","date":"2025-12-23","realMoneyFlow":1659000000}
@@ -11939,6 +12371,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-23","realMoneyFlow":-112000000}
 {"regNo":"fundbase:پادا","date":"2025-12-23","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-12-23","realMoneyFlow":-199000000}
+{"regNo":"fundbase:پایا","date":"2025-12-23","realMoneyFlow":30000000}
 {"regNo":"fundbase:پایش","date":"2025-12-23","realMoneyFlow":166000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-23","realMoneyFlow":-7000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-23","realMoneyFlow":-78000000}
@@ -11956,7 +12389,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-23","realMoneyFlow":-28000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-23","realMoneyFlow":1000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-23","realMoneyFlow":-33000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-23","realMoneyFlow":234000000}
 {"regNo":"fundbase:ترمه","date":"2025-12-23","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-23","realMoneyFlow":-28000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-23","realMoneyFlow":38000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-23","realMoneyFlow":60000000}
 {"regNo":"fundbase:توان","date":"2025-12-23","realMoneyFlow":-37000000}
@@ -12104,12 +12539,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-12-23","realMoneyFlow":0}
 {"regNo":"fundbase:ویستا","date":"2025-12-23","realMoneyFlow":-1000000}
 {"regNo":"fundbase:یلدا","date":"2025-12-23","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-12-24","realMoneyFlow":16000000}
+{"regNo":"fundbase:آذرین","date":"2025-12-24","realMoneyFlow":47000000}
 {"regNo":"fundbase:آرام","date":"2025-12-24","realMoneyFlow":255000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-24","realMoneyFlow":-44000000}
 {"regNo":"fundbase:آس","date":"2025-12-24","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-12-24","realMoneyFlow":42000000}
 {"regNo":"fundbase:آساس","date":"2025-12-24","realMoneyFlow":309000000}
 {"regNo":"fundbase:آسام","date":"2025-12-24","realMoneyFlow":58000000}
 {"regNo":"fundbase:آسان","date":"2025-12-24","realMoneyFlow":17000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-24","realMoneyFlow":-68000000}
 {"regNo":"fundbase:آفرین","date":"2025-12-24","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آگاس","date":"2025-12-24","realMoneyFlow":158000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-24","realMoneyFlow":-1219000000}
@@ -12125,6 +12564,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-24","realMoneyFlow":4000000}
 {"regNo":"fundbase:استیل","date":"2025-12-24","realMoneyFlow":64000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-24","realMoneyFlow":1249000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-24","realMoneyFlow":-481000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-24","realMoneyFlow":29000000}
 {"regNo":"fundbase:اعتماد","date":"2025-12-24","realMoneyFlow":621000000}
 {"regNo":"fundbase:افران","date":"2025-12-24","realMoneyFlow":-762000000}
@@ -12152,6 +12592,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-24","realMoneyFlow":-68000000}
 {"regNo":"fundbase:پادا","date":"2025-12-24","realMoneyFlow":2000000}
 {"regNo":"fundbase:پالایش","date":"2025-12-24","realMoneyFlow":140000000}
+{"regNo":"fundbase:پایا","date":"2025-12-24","realMoneyFlow":-31000000}
 {"regNo":"fundbase:پایش","date":"2025-12-24","realMoneyFlow":-457000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-24","realMoneyFlow":-1000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-24","realMoneyFlow":-25000000}
@@ -12170,7 +12611,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-24","realMoneyFlow":44000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-24","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-24","realMoneyFlow":12000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-24","realMoneyFlow":-599000000}
 {"regNo":"fundbase:ترمه","date":"2025-12-24","realMoneyFlow":7000000}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-24","realMoneyFlow":10000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-24","realMoneyFlow":144000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-24","realMoneyFlow":219000000}
 {"regNo":"fundbase:توان","date":"2025-12-24","realMoneyFlow":218000000}
@@ -12320,12 +12763,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-12-24","realMoneyFlow":8000000}
 {"regNo":"fundbase:ویستا","date":"2025-12-24","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-12-24","realMoneyFlow":58000000}
+{"regNo":"fundbase:آتیمس","date":"2025-12-27","realMoneyFlow":1000000}
+{"regNo":"fundbase:آذرین","date":"2025-12-27","realMoneyFlow":-8000000}
 {"regNo":"fundbase:آرام","date":"2025-12-27","realMoneyFlow":161000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-27","realMoneyFlow":48000000}
 {"regNo":"fundbase:آس","date":"2025-12-27","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-12-27","realMoneyFlow":-21000000}
 {"regNo":"fundbase:آساس","date":"2025-12-27","realMoneyFlow":275000000}
 {"regNo":"fundbase:آسام","date":"2025-12-27","realMoneyFlow":56000000}
 {"regNo":"fundbase:آسان","date":"2025-12-27","realMoneyFlow":10000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-27","realMoneyFlow":-87000000}
 {"regNo":"fundbase:آفرین","date":"2025-12-27","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-12-27","realMoneyFlow":540000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-27","realMoneyFlow":-1085000000}
@@ -12341,6 +12788,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-27","realMoneyFlow":-26000000}
 {"regNo":"fundbase:استیل","date":"2025-12-27","realMoneyFlow":106000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-27","realMoneyFlow":1420000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-27","realMoneyFlow":277000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-27","realMoneyFlow":8000000}
 {"regNo":"fundbase:اعتماد","date":"2025-12-27","realMoneyFlow":1590000000}
 {"regNo":"fundbase:افران","date":"2025-12-27","realMoneyFlow":399000000}
@@ -12368,6 +12816,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-27","realMoneyFlow":99000000}
 {"regNo":"fundbase:پادا","date":"2025-12-27","realMoneyFlow":1000000}
 {"regNo":"fundbase:پالایش","date":"2025-12-27","realMoneyFlow":96000000}
+{"regNo":"fundbase:پایا","date":"2025-12-27","realMoneyFlow":-320000000}
 {"regNo":"fundbase:پایش","date":"2025-12-27","realMoneyFlow":-7000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-27","realMoneyFlow":-2000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-27","realMoneyFlow":13000000}
@@ -12386,7 +12835,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-27","realMoneyFlow":454000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-27","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-27","realMoneyFlow":1000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-27","realMoneyFlow":-636000000}
 {"regNo":"fundbase:ترمه","date":"2025-12-27","realMoneyFlow":5000000}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-27","realMoneyFlow":-6000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-27","realMoneyFlow":-87000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-27","realMoneyFlow":537000000}
 {"regNo":"fundbase:توان","date":"2025-12-27","realMoneyFlow":-97000000}
@@ -12533,12 +12984,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-12-27","realMoneyFlow":7000000}
 {"regNo":"fundbase:ویستا","date":"2025-12-27","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-12-27","realMoneyFlow":2000000}
+{"regNo":"fundbase:آتیمس","date":"2025-12-28","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-12-28","realMoneyFlow":-2000000}
 {"regNo":"fundbase:آرام","date":"2025-12-28","realMoneyFlow":284000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-28","realMoneyFlow":0}
 {"regNo":"fundbase:آس","date":"2025-12-28","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-12-28","realMoneyFlow":13000000}
 {"regNo":"fundbase:آساس","date":"2025-12-28","realMoneyFlow":-19000000}
 {"regNo":"fundbase:آسام","date":"2025-12-28","realMoneyFlow":49000000}
 {"regNo":"fundbase:آسان","date":"2025-12-28","realMoneyFlow":173000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-28","realMoneyFlow":-279000000}
 {"regNo":"fundbase:آفرین","date":"2025-12-28","realMoneyFlow":2000000}
 {"regNo":"fundbase:آگاس","date":"2025-12-28","realMoneyFlow":875000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-28","realMoneyFlow":-1951000000}
@@ -12554,6 +13009,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-28","realMoneyFlow":-2000000}
 {"regNo":"fundbase:استیل","date":"2025-12-28","realMoneyFlow":123000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-28","realMoneyFlow":991000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-28","realMoneyFlow":1335000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-28","realMoneyFlow":-5000000}
 {"regNo":"fundbase:اعتماد","date":"2025-12-28","realMoneyFlow":1063000000}
 {"regNo":"fundbase:افران","date":"2025-12-28","realMoneyFlow":1221000000}
@@ -12582,6 +13038,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-28","realMoneyFlow":-132000000}
 {"regNo":"fundbase:پادا","date":"2025-12-28","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-12-28","realMoneyFlow":159000000}
+{"regNo":"fundbase:پایا","date":"2025-12-28","realMoneyFlow":240000000}
 {"regNo":"fundbase:پایش","date":"2025-12-28","realMoneyFlow":1000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-28","realMoneyFlow":-28000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-28","realMoneyFlow":28000000}
@@ -12599,7 +13056,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-28","realMoneyFlow":302000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-28","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-28","realMoneyFlow":13000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-28","realMoneyFlow":-459000000}
 {"regNo":"fundbase:ترمه","date":"2025-12-28","realMoneyFlow":3000000}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-28","realMoneyFlow":6000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-28","realMoneyFlow":68000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-28","realMoneyFlow":886000000}
 {"regNo":"fundbase:توان","date":"2025-12-28","realMoneyFlow":227000000}
@@ -12746,12 +13205,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-12-28","realMoneyFlow":6000000}
 {"regNo":"fundbase:ویستا","date":"2025-12-28","realMoneyFlow":1000000}
 {"regNo":"fundbase:یلدا","date":"2025-12-28","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-12-29","realMoneyFlow":0}
+{"regNo":"fundbase:آذرین","date":"2025-12-29","realMoneyFlow":-21000000}
 {"regNo":"fundbase:آرام","date":"2025-12-29","realMoneyFlow":-91000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-29","realMoneyFlow":3000000}
 {"regNo":"fundbase:آس","date":"2025-12-29","realMoneyFlow":-5000000}
+{"regNo":"fundbase:آسا","date":"2025-12-29","realMoneyFlow":98000000}
 {"regNo":"fundbase:آساس","date":"2025-12-29","realMoneyFlow":-252000000}
 {"regNo":"fundbase:آسام","date":"2025-12-29","realMoneyFlow":108000000}
 {"regNo":"fundbase:آسان","date":"2025-12-29","realMoneyFlow":-29000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-29","realMoneyFlow":-76000000}
 {"regNo":"fundbase:آفرین","date":"2025-12-29","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آگاس","date":"2025-12-29","realMoneyFlow":-625000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-29","realMoneyFlow":-1134000000}
@@ -12767,6 +13230,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-29","realMoneyFlow":10000000}
 {"regNo":"fundbase:استیل","date":"2025-12-29","realMoneyFlow":11000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-29","realMoneyFlow":-868000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-29","realMoneyFlow":-308000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-29","realMoneyFlow":-3000000}
 {"regNo":"fundbase:اعتماد","date":"2025-12-29","realMoneyFlow":-968000000}
 {"regNo":"fundbase:افران","date":"2025-12-29","realMoneyFlow":1259000000}
@@ -12795,6 +13259,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-29","realMoneyFlow":546000000}
 {"regNo":"fundbase:پادا","date":"2025-12-29","realMoneyFlow":0}
 {"regNo":"fundbase:پالایش","date":"2025-12-29","realMoneyFlow":-1050000000}
+{"regNo":"fundbase:پایا","date":"2025-12-29","realMoneyFlow":567000000}
 {"regNo":"fundbase:پایش","date":"2025-12-29","realMoneyFlow":-89000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-29","realMoneyFlow":-43000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-29","realMoneyFlow":-19000000}
@@ -12812,7 +13277,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-29","realMoneyFlow":-668000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-29","realMoneyFlow":-1000000}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-29","realMoneyFlow":-14000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-29","realMoneyFlow":1241000000}
 {"regNo":"fundbase:ترمه","date":"2025-12-29","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-29","realMoneyFlow":13000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-29","realMoneyFlow":-116000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-29","realMoneyFlow":-1983000000}
 {"regNo":"fundbase:توان","date":"2025-12-29","realMoneyFlow":190000000}
@@ -12959,12 +13426,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-12-29","realMoneyFlow":-7000000}
 {"regNo":"fundbase:ویستا","date":"2025-12-29","realMoneyFlow":-1000000}
 {"regNo":"fundbase:یلدا","date":"2025-12-29","realMoneyFlow":0}
+{"regNo":"fundbase:آتیمس","date":"2025-12-30","realMoneyFlow":-14000000}
+{"regNo":"fundbase:آذرین","date":"2025-12-30","realMoneyFlow":-14000000}
 {"regNo":"fundbase:آرام","date":"2025-12-30","realMoneyFlow":-102000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-30","realMoneyFlow":123000000}
 {"regNo":"fundbase:آس","date":"2025-12-30","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-12-30","realMoneyFlow":-233000000}
 {"regNo":"fundbase:آساس","date":"2025-12-30","realMoneyFlow":-122000000}
 {"regNo":"fundbase:آسام","date":"2025-12-30","realMoneyFlow":31000000}
 {"regNo":"fundbase:آسان","date":"2025-12-30","realMoneyFlow":90000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-30","realMoneyFlow":210000000}
 {"regNo":"fundbase:آفرین","date":"2025-12-30","realMoneyFlow":-3000000}
 {"regNo":"fundbase:آگاس","date":"2025-12-30","realMoneyFlow":-467000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-30","realMoneyFlow":75000000}
@@ -12980,6 +13451,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-30","realMoneyFlow":-4000000}
 {"regNo":"fundbase:استیل","date":"2025-12-30","realMoneyFlow":-113000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-30","realMoneyFlow":-640000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-30","realMoneyFlow":1152000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-30","realMoneyFlow":-10000000}
 {"regNo":"fundbase:اعتماد","date":"2025-12-30","realMoneyFlow":3076000000}
 {"regNo":"fundbase:افران","date":"2025-12-30","realMoneyFlow":3875000000}
@@ -13008,6 +13480,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-30","realMoneyFlow":-294000000}
 {"regNo":"fundbase:پادا","date":"2025-12-30","realMoneyFlow":-2000000}
 {"regNo":"fundbase:پالایش","date":"2025-12-30","realMoneyFlow":-621000000}
+{"regNo":"fundbase:پایا","date":"2025-12-30","realMoneyFlow":86000000}
 {"regNo":"fundbase:پایش","date":"2025-12-30","realMoneyFlow":-5000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-30","realMoneyFlow":-28000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-30","realMoneyFlow":-13000000}
@@ -13024,7 +13497,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-30","realMoneyFlow":-92000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-30","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-30","realMoneyFlow":-5000000}
+{"regNo":"fundbase:تداوم","date":"2025-12-30","realMoneyFlow":481000000}
 {"regNo":"fundbase:ترمه","date":"2025-12-30","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-30","realMoneyFlow":-8000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-30","realMoneyFlow":-69000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-30","realMoneyFlow":-703000000}
 {"regNo":"fundbase:توان","date":"2025-12-30","realMoneyFlow":-193000000}
@@ -13169,12 +13644,16 @@
 {"regNo":"fundbase:وبازار","date":"2025-12-30","realMoneyFlow":-17000000}
 {"regNo":"fundbase:ویستا","date":"2025-12-30","realMoneyFlow":0}
 {"regNo":"fundbase:یلدا","date":"2025-12-30","realMoneyFlow":-18000000}
+{"regNo":"fundbase:آتیمس","date":"2025-12-31","realMoneyFlow":8000000}
+{"regNo":"fundbase:آذرین","date":"2025-12-31","realMoneyFlow":0}
 {"regNo":"fundbase:آرام","date":"2025-12-31","realMoneyFlow":25000000}
 {"regNo":"fundbase:آرامش","date":"2025-12-31","realMoneyFlow":-21000000}
 {"regNo":"fundbase:آس","date":"2025-12-31","realMoneyFlow":0}
+{"regNo":"fundbase:آسا","date":"2025-12-31","realMoneyFlow":102000000}
 {"regNo":"fundbase:آساس","date":"2025-12-31","realMoneyFlow":9000000}
 {"regNo":"fundbase:آسام","date":"2025-12-31","realMoneyFlow":4000000}
 {"regNo":"fundbase:آسان","date":"2025-12-31","realMoneyFlow":-48000000}
+{"regNo":"fundbase:آفاق","date":"2025-12-31","realMoneyFlow":10000000}
 {"regNo":"fundbase:آفرین","date":"2025-12-31","realMoneyFlow":0}
 {"regNo":"fundbase:آگاس","date":"2025-12-31","realMoneyFlow":155000000}
 {"regNo":"fundbase:آلتون","date":"2025-12-31","realMoneyFlow":-431000000}
@@ -13190,6 +13669,7 @@
 {"regNo":"fundbase:ارمغان","date":"2025-12-31","realMoneyFlow":6000000}
 {"regNo":"fundbase:استیل","date":"2025-12-31","realMoneyFlow":67000000}
 {"regNo":"fundbase:اطلس","date":"2025-12-31","realMoneyFlow":-236000000}
+{"regNo":"fundbase:اعتبار","date":"2025-12-31","realMoneyFlow":-283000000}
 {"regNo":"fundbase:اعتبارسهام","date":"2025-12-31","realMoneyFlow":0}
 {"regNo":"fundbase:اعتماد","date":"2025-12-31","realMoneyFlow":-1927000000}
 {"regNo":"fundbase:افران","date":"2025-12-31","realMoneyFlow":3708000000}
@@ -13218,6 +13698,7 @@
 {"regNo":"fundbase:بیدار","date":"2025-12-31","realMoneyFlow":-48000000}
 {"regNo":"fundbase:پادا","date":"2025-12-31","realMoneyFlow":2000000}
 {"regNo":"fundbase:پالایش","date":"2025-12-31","realMoneyFlow":141000000}
+{"regNo":"fundbase:پایا","date":"2025-12-31","realMoneyFlow":127000000}
 {"regNo":"fundbase:پایش","date":"2025-12-31","realMoneyFlow":3000000}
 {"regNo":"fundbase:پتروآبان","date":"2025-12-31","realMoneyFlow":21000000}
 {"regNo":"fundbase:پتروآگاه","date":"2025-12-31","realMoneyFlow":117000000}
@@ -13235,7 +13716,9 @@
 {"regNo":"fundbase:تابش","date":"2025-12-31","realMoneyFlow":-85000000}
 {"regNo":"fundbase:تاراز","date":"2025-12-31","realMoneyFlow":0}
 {"regNo":"fundbase:تخت گاز","date":"2025-12-31","realMoneyFlow":0}
+{"regNo":"fundbase:تداوم","date":"2025-12-31","realMoneyFlow":-73000000}
 {"regNo":"fundbase:ترمه","date":"2025-12-31","realMoneyFlow":0}
+{"regNo":"fundbase:ترنج ثابت","date":"2025-12-31","realMoneyFlow":24000000}
 {"regNo":"fundbase:تکپاد","date":"2025-12-31","realMoneyFlow":24000000}
 {"regNo":"fundbase:تمشک","date":"2025-12-31","realMoneyFlow":-61000000}
 {"regNo":"fundbase:توان","date":"2025-12-31","realMoneyFlow":-49000000}
