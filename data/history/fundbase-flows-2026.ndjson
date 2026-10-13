@@ -229,6 +229,7 @@
 {"regNo":"fundbase:نمک","date":"2026-01-04","realMoneyFlow":8000000}
 {"regNo":"fundbase:نهال","date":"2026-01-04","realMoneyFlow":-15000000}
 {"regNo":"fundbase:نیروانا","date":"2026-01-04","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-01-04","realMoneyFlow":-5000000}
 {"regNo":"fundbase:هامون","date":"2026-01-04","realMoneyFlow":-3000000}
 {"regNo":"fundbase:هم ارز","date":"2026-01-04","realMoneyFlow":-5000000}
 {"regNo":"fundbase:هم تراز","date":"2026-01-04","realMoneyFlow":-21000000}
@@ -474,6 +475,7 @@
 {"regNo":"fundbase:نمک","date":"2026-01-05","realMoneyFlow":24000000}
 {"regNo":"fundbase:نهال","date":"2026-01-05","realMoneyFlow":589000000}
 {"regNo":"fundbase:نیروانا","date":"2026-01-05","realMoneyFlow":1000000}
+{"regNo":"fundbase:نیلی","date":"2026-01-05","realMoneyFlow":42000000}
 {"regNo":"fundbase:هامون","date":"2026-01-05","realMoneyFlow":56000000}
 {"regNo":"fundbase:هم ارز","date":"2026-01-05","realMoneyFlow":13000000}
 {"regNo":"fundbase:هم تراز","date":"2026-01-05","realMoneyFlow":136000000}
@@ -722,6 +724,7 @@
 {"regNo":"fundbase:نمک","date":"2026-01-06","realMoneyFlow":54000000}
 {"regNo":"fundbase:نهال","date":"2026-01-06","realMoneyFlow":664000000}
 {"regNo":"fundbase:نیروانا","date":"2026-01-06","realMoneyFlow":13000000}
+{"regNo":"fundbase:نیلی","date":"2026-01-06","realMoneyFlow":-47000000}
 {"regNo":"fundbase:هامون","date":"2026-01-06","realMoneyFlow":276000000}
 {"regNo":"fundbase:هم ارز","date":"2026-01-06","realMoneyFlow":64000000}
 {"regNo":"fundbase:هم تراز","date":"2026-01-06","realMoneyFlow":83000000}
@@ -968,6 +971,7 @@
 {"regNo":"fundbase:نمک","date":"2026-01-07","realMoneyFlow":59000000}
 {"regNo":"fundbase:نهال","date":"2026-01-07","realMoneyFlow":-136000000}
 {"regNo":"fundbase:نیروانا","date":"2026-01-07","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-01-07","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-01-07","realMoneyFlow":-94000000}
 {"regNo":"fundbase:هم ارز","date":"2026-01-07","realMoneyFlow":-17000000}
 {"regNo":"fundbase:هم تراز","date":"2026-01-07","realMoneyFlow":-34000000}
@@ -1191,6 +1195,7 @@
 {"regNo":"fundbase:نشان","date":"2026-01-27","realMoneyFlow":-129000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-01-27","realMoneyFlow":94000000}
 {"regNo":"fundbase:نهال","date":"2026-01-27","realMoneyFlow":-444000000}
+{"regNo":"fundbase:نیلی","date":"2026-01-27","realMoneyFlow":-8000000}
 {"regNo":"fundbase:هامون","date":"2026-01-27","realMoneyFlow":-7000000}
 {"regNo":"fundbase:هم ارز","date":"2026-01-27","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هم تراز","date":"2026-01-27","realMoneyFlow":-173000000}
@@ -1433,6 +1438,7 @@
 {"regNo":"fundbase:نمک","date":"2026-01-28","realMoneyFlow":1000000}
 {"regNo":"fundbase:نهال","date":"2026-01-28","realMoneyFlow":-210000000}
 {"regNo":"fundbase:نیروانا","date":"2026-01-28","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-01-28","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-01-28","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هم ارز","date":"2026-01-28","realMoneyFlow":0}
 {"regNo":"fundbase:هم تراز","date":"2026-01-28","realMoneyFlow":-2000000}
@@ -1673,6 +1679,7 @@
 {"regNo":"fundbase:نمک","date":"2026-01-31","realMoneyFlow":-10000000}
 {"regNo":"fundbase:نهال","date":"2026-01-31","realMoneyFlow":-278000000}
 {"regNo":"fundbase:نیروانا","date":"2026-01-31","realMoneyFlow":1000000}
+{"regNo":"fundbase:نیلی","date":"2026-01-31","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-01-31","realMoneyFlow":0}
 {"regNo":"fundbase:هم ارز","date":"2026-01-31","realMoneyFlow":28000000}
 {"regNo":"fundbase:هم تراز","date":"2026-01-31","realMoneyFlow":-7000000}
@@ -1916,6 +1923,7 @@
 {"regNo":"fundbase:نمک","date":"2026-02-01","realMoneyFlow":-3000000}
 {"regNo":"fundbase:نهال","date":"2026-02-01","realMoneyFlow":-173000000}
 {"regNo":"fundbase:نیروانا","date":"2026-02-01","realMoneyFlow":-1000000}
+{"regNo":"fundbase:نیلی","date":"2026-02-01","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-02-01","realMoneyFlow":1000000}
 {"regNo":"fundbase:هم ارز","date":"2026-02-01","realMoneyFlow":8000000}
 {"regNo":"fundbase:هم تراز","date":"2026-02-01","realMoneyFlow":13000000}
@@ -2408,6 +2416,7 @@
 {"regNo":"fundbase:نمک","date":"2026-02-03","realMoneyFlow":2000000}
 {"regNo":"fundbase:نهال","date":"2026-02-03","realMoneyFlow":-113000000}
 {"regNo":"fundbase:نیروانا","date":"2026-02-03","realMoneyFlow":-4000000}
+{"regNo":"fundbase:نیلی","date":"2026-02-03","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-02-03","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هم ارز","date":"2026-02-03","realMoneyFlow":0}
 {"regNo":"fundbase:هم تراز","date":"2026-02-03","realMoneyFlow":-21000000}
@@ -2660,6 +2669,7 @@
 {"regNo":"fundbase:نمک","date":"2026-02-07","realMoneyFlow":72000000}
 {"regNo":"fundbase:نهال","date":"2026-02-07","realMoneyFlow":-40000000}
 {"regNo":"fundbase:نیروانا","date":"2026-02-07","realMoneyFlow":5000000}
+{"regNo":"fundbase:نیلی","date":"2026-02-07","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-02-07","realMoneyFlow":34000000}
 {"regNo":"fundbase:هم ارز","date":"2026-02-07","realMoneyFlow":2000000}
 {"regNo":"fundbase:هم تراز","date":"2026-02-07","realMoneyFlow":64000000}
@@ -2910,6 +2920,7 @@
 {"regNo":"fundbase:نهال","date":"2026-02-08","realMoneyFlow":-130000000}
 {"regNo":"fundbase:نوآور","date":"2026-02-08","realMoneyFlow":5000000}
 {"regNo":"fundbase:نیروانا","date":"2026-02-08","realMoneyFlow":-4000000}
+{"regNo":"fundbase:نیلی","date":"2026-02-08","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-02-08","realMoneyFlow":-6000000}
 {"regNo":"fundbase:هم ارز","date":"2026-02-08","realMoneyFlow":-4000000}
 {"regNo":"fundbase:هم تراز","date":"2026-02-08","realMoneyFlow":-32000000}
@@ -3156,6 +3167,7 @@
 {"regNo":"fundbase:نمک","date":"2026-02-09","realMoneyFlow":-30000000}
 {"regNo":"fundbase:نهال","date":"2026-02-09","realMoneyFlow":-139000000}
 {"regNo":"fundbase:نیروانا","date":"2026-02-09","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-02-09","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-02-09","realMoneyFlow":0}
 {"regNo":"fundbase:هم ارز","date":"2026-02-09","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هم تراز","date":"2026-02-09","realMoneyFlow":1000000}
@@ -3404,6 +3416,7 @@
 {"regNo":"fundbase:نمک","date":"2026-02-10","realMoneyFlow":-6000000}
 {"regNo":"fundbase:نهال","date":"2026-02-10","realMoneyFlow":-100000000}
 {"regNo":"fundbase:نیروانا","date":"2026-02-10","realMoneyFlow":-2000000}
+{"regNo":"fundbase:نیلی","date":"2026-02-10","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-02-10","realMoneyFlow":1000000}
 {"regNo":"fundbase:هم ارز","date":"2026-02-10","realMoneyFlow":15000000}
 {"regNo":"fundbase:هم تراز","date":"2026-02-10","realMoneyFlow":-2000000}
@@ -3651,6 +3664,7 @@
 {"regNo":"fundbase:نمک","date":"2026-02-14","realMoneyFlow":-2000000}
 {"regNo":"fundbase:نهال","date":"2026-02-14","realMoneyFlow":-196000000}
 {"regNo":"fundbase:نیروانا","date":"2026-02-14","realMoneyFlow":-2000000}
+{"regNo":"fundbase:نیلی","date":"2026-02-14","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-02-14","realMoneyFlow":0}
 {"regNo":"fundbase:هم ارز","date":"2026-02-14","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هم تراز","date":"2026-02-14","realMoneyFlow":-1000000}
@@ -3895,6 +3909,7 @@
 {"regNo":"fundbase:نمک","date":"2026-02-15","realMoneyFlow":-13000000}
 {"regNo":"fundbase:نهال","date":"2026-02-15","realMoneyFlow":-58000000}
 {"regNo":"fundbase:نیروانا","date":"2026-02-15","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-02-15","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-02-15","realMoneyFlow":-2000000}
 {"regNo":"fundbase:هم ارز","date":"2026-02-15","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هم تراز","date":"2026-02-15","realMoneyFlow":-1000000}
@@ -4139,6 +4154,7 @@
 {"regNo":"fundbase:نمک","date":"2026-02-16","realMoneyFlow":-4000000}
 {"regNo":"fundbase:نهال","date":"2026-02-16","realMoneyFlow":-57000000}
 {"regNo":"fundbase:نیروانا","date":"2026-02-16","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-02-16","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-02-16","realMoneyFlow":0}
 {"regNo":"fundbase:هم ارز","date":"2026-02-16","realMoneyFlow":0}
 {"regNo":"fundbase:هم تراز","date":"2026-02-16","realMoneyFlow":3000000}
@@ -4378,6 +4394,7 @@
 {"regNo":"fundbase:نمک","date":"2026-02-17","realMoneyFlow":62000000}
 {"regNo":"fundbase:نهال","date":"2026-02-17","realMoneyFlow":-27000000}
 {"regNo":"fundbase:نیروانا","date":"2026-02-17","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-02-17","realMoneyFlow":1000000}
 {"regNo":"fundbase:هامون","date":"2026-02-17","realMoneyFlow":1000000}
 {"regNo":"fundbase:هم ارز","date":"2026-02-17","realMoneyFlow":0}
 {"regNo":"fundbase:هم تراز","date":"2026-02-17","realMoneyFlow":0}
@@ -4871,6 +4888,7 @@
 {"regNo":"fundbase:نمک","date":"2026-02-21","realMoneyFlow":-33000000}
 {"regNo":"fundbase:نهال","date":"2026-02-21","realMoneyFlow":42000000}
 {"regNo":"fundbase:نیروانا","date":"2026-02-21","realMoneyFlow":-1000000}
+{"regNo":"fundbase:نیلی","date":"2026-02-21","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هامون","date":"2026-02-21","realMoneyFlow":0}
 {"regNo":"fundbase:هم ارز","date":"2026-02-21","realMoneyFlow":-2000000}
 {"regNo":"fundbase:هم تراز","date":"2026-02-21","realMoneyFlow":-10000000}
@@ -5118,6 +5136,7 @@
 {"regNo":"fundbase:نمک","date":"2026-02-22","realMoneyFlow":-3000000}
 {"regNo":"fundbase:نهال","date":"2026-02-22","realMoneyFlow":-43000000}
 {"regNo":"fundbase:نیروانا","date":"2026-02-22","realMoneyFlow":-1000000}
+{"regNo":"fundbase:نیلی","date":"2026-02-22","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-02-22","realMoneyFlow":0}
 {"regNo":"fundbase:هم ارز","date":"2026-02-22","realMoneyFlow":21000000}
 {"regNo":"fundbase:هم تراز","date":"2026-02-22","realMoneyFlow":-10000000}
@@ -5363,6 +5382,7 @@
 {"regNo":"fundbase:نمک","date":"2026-02-23","realMoneyFlow":0}
 {"regNo":"fundbase:نهال","date":"2026-02-23","realMoneyFlow":4000000}
 {"regNo":"fundbase:نیروانا","date":"2026-02-23","realMoneyFlow":-2000000}
+{"regNo":"fundbase:نیلی","date":"2026-02-23","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-02-23","realMoneyFlow":1000000}
 {"regNo":"fundbase:هم ارز","date":"2026-02-23","realMoneyFlow":-17000000}
 {"regNo":"fundbase:هم تراز","date":"2026-02-23","realMoneyFlow":-2000000}
@@ -5608,6 +5628,7 @@
 {"regNo":"fundbase:نمک","date":"2026-02-24","realMoneyFlow":0}
 {"regNo":"fundbase:نهال","date":"2026-02-24","realMoneyFlow":9000000}
 {"regNo":"fundbase:نیروانا","date":"2026-02-24","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-02-24","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-02-24","realMoneyFlow":-6000000}
 {"regNo":"fundbase:هم ارز","date":"2026-02-24","realMoneyFlow":-7000000}
 {"regNo":"fundbase:هم تراز","date":"2026-02-24","realMoneyFlow":19000000}
@@ -5932,6 +5953,7 @@
 {"regNo":"fundbase:لبخند","date":"2026-03-08","realMoneyFlow":-6336000000}
 {"regNo":"fundbase:نخل","date":"2026-03-08","realMoneyFlow":0}
 {"regNo":"fundbase:نشان","date":"2026-03-08","realMoneyFlow":-165000000}
+{"regNo":"fundbase:نیلی","date":"2026-03-08","realMoneyFlow":-2000000}
 {"regNo":"fundbase:همای","date":"2026-03-08","realMoneyFlow":-1288000000}
 {"regNo":"fundbase:آرامش","date":"2026-03-09","realMoneyFlow":-17000000}
 {"regNo":"fundbase:آسا","date":"2026-03-09","realMoneyFlow":-57000000}
@@ -5998,6 +6020,7 @@
 {"regNo":"fundbase:لبخند","date":"2026-03-09","realMoneyFlow":-399000000}
 {"regNo":"fundbase:نخل","date":"2026-03-09","realMoneyFlow":0}
 {"regNo":"fundbase:نشان","date":"2026-03-09","realMoneyFlow":1000000}
+{"regNo":"fundbase:نیلی","date":"2026-03-09","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-03-09","realMoneyFlow":-826000000}
 {"regNo":"fundbase:آرامش","date":"2026-03-10","realMoneyFlow":15000000}
 {"regNo":"fundbase:آسا","date":"2026-03-10","realMoneyFlow":12000000}
@@ -6064,6 +6087,7 @@
 {"regNo":"fundbase:لبخند","date":"2026-03-10","realMoneyFlow":133000000}
 {"regNo":"fundbase:نخل","date":"2026-03-10","realMoneyFlow":10000000}
 {"regNo":"fundbase:نشان","date":"2026-03-10","realMoneyFlow":-42000000}
+{"regNo":"fundbase:نیلی","date":"2026-03-10","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-03-10","realMoneyFlow":29000000}
 {"regNo":"fundbase:آرامش","date":"2026-03-14","realMoneyFlow":12000000}
 {"regNo":"fundbase:آسا","date":"2026-03-14","realMoneyFlow":-16000000}
@@ -6130,6 +6154,7 @@
 {"regNo":"fundbase:لبخند","date":"2026-03-14","realMoneyFlow":1199000000}
 {"regNo":"fundbase:نخل","date":"2026-03-14","realMoneyFlow":-1000000}
 {"regNo":"fundbase:نشان","date":"2026-03-14","realMoneyFlow":43000000}
+{"regNo":"fundbase:نیلی","date":"2026-03-14","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-03-14","realMoneyFlow":188000000}
 {"regNo":"fundbase:آرامش","date":"2026-03-15","realMoneyFlow":93000000}
 {"regNo":"fundbase:آسا","date":"2026-03-15","realMoneyFlow":27000000}
@@ -6226,6 +6251,7 @@
 {"regNo":"fundbase:نقران","date":"2026-03-15","realMoneyFlow":-2946000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-03-15","realMoneyFlow":-143000000}
 {"regNo":"fundbase:نهال","date":"2026-03-15","realMoneyFlow":-43000000}
+{"regNo":"fundbase:نیلی","date":"2026-03-15","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-03-15","realMoneyFlow":89000000}
 {"regNo":"fundbase:همیان","date":"2026-03-15","realMoneyFlow":-16000000}
 {"regNo":"fundbase:آرامش","date":"2026-03-16","realMoneyFlow":94000000}
@@ -6323,6 +6349,7 @@
 {"regNo":"fundbase:نقران","date":"2026-03-16","realMoneyFlow":4000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-03-16","realMoneyFlow":-33000000}
 {"regNo":"fundbase:نهال","date":"2026-03-16","realMoneyFlow":-20000000}
+{"regNo":"fundbase:نیلی","date":"2026-03-16","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-03-16","realMoneyFlow":183000000}
 {"regNo":"fundbase:همیان","date":"2026-03-16","realMoneyFlow":0}
 {"regNo":"fundbase:آرامش","date":"2026-03-17","realMoneyFlow":-103000000}
@@ -6420,6 +6447,7 @@
 {"regNo":"fundbase:نقران","date":"2026-03-17","realMoneyFlow":209000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-03-17","realMoneyFlow":0}
 {"regNo":"fundbase:نهال","date":"2026-03-17","realMoneyFlow":-34000000}
+{"regNo":"fundbase:نیلی","date":"2026-03-17","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-03-17","realMoneyFlow":-25000000}
 {"regNo":"fundbase:همیان","date":"2026-03-17","realMoneyFlow":8000000}
 {"regNo":"fundbase:آرامش","date":"2026-03-18","realMoneyFlow":-239000000}
@@ -6517,6 +6545,7 @@
 {"regNo":"fundbase:نقران","date":"2026-03-18","realMoneyFlow":355000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-03-18","realMoneyFlow":5000000}
 {"regNo":"fundbase:نهال","date":"2026-03-18","realMoneyFlow":-24000000}
+{"regNo":"fundbase:نیلی","date":"2026-03-18","realMoneyFlow":1000000}
 {"regNo":"fundbase:همای","date":"2026-03-18","realMoneyFlow":566000000}
 {"regNo":"fundbase:همیان","date":"2026-03-18","realMoneyFlow":3000000}
 {"regNo":"fundbase:آرامش","date":"2026-03-25","realMoneyFlow":68000000}
@@ -6614,6 +6643,7 @@
 {"regNo":"fundbase:نقران","date":"2026-03-25","realMoneyFlow":-64000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-03-25","realMoneyFlow":-10000000}
 {"regNo":"fundbase:نهال","date":"2026-03-25","realMoneyFlow":-2000000}
+{"regNo":"fundbase:نیلی","date":"2026-03-25","realMoneyFlow":10000000}
 {"regNo":"fundbase:همای","date":"2026-03-25","realMoneyFlow":448000000}
 {"regNo":"fundbase:همیان","date":"2026-03-25","realMoneyFlow":-5000000}
 {"regNo":"fundbase:آرامش","date":"2026-03-28","realMoneyFlow":-10000000}
@@ -6711,6 +6741,7 @@
 {"regNo":"fundbase:نقران","date":"2026-03-28","realMoneyFlow":-2000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-03-28","realMoneyFlow":7000000}
 {"regNo":"fundbase:نهال","date":"2026-03-28","realMoneyFlow":30000000}
+{"regNo":"fundbase:نیلی","date":"2026-03-28","realMoneyFlow":-8000000}
 {"regNo":"fundbase:همای","date":"2026-03-28","realMoneyFlow":497000000}
 {"regNo":"fundbase:همیان","date":"2026-03-28","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آرامش","date":"2026-03-29","realMoneyFlow":15000000}
@@ -6808,6 +6839,7 @@
 {"regNo":"fundbase:نقران","date":"2026-03-29","realMoneyFlow":50000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-03-29","realMoneyFlow":-14000000}
 {"regNo":"fundbase:نهال","date":"2026-03-29","realMoneyFlow":86000000}
+{"regNo":"fundbase:نیلی","date":"2026-03-29","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-03-29","realMoneyFlow":594000000}
 {"regNo":"fundbase:همیان","date":"2026-03-29","realMoneyFlow":-2000000}
 {"regNo":"fundbase:آرامش","date":"2026-03-30","realMoneyFlow":19000000}
@@ -6905,6 +6937,7 @@
 {"regNo":"fundbase:نقران","date":"2026-03-30","realMoneyFlow":327000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-03-30","realMoneyFlow":-2000000}
 {"regNo":"fundbase:نهال","date":"2026-03-30","realMoneyFlow":-24000000}
+{"regNo":"fundbase:نیلی","date":"2026-03-30","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-03-30","realMoneyFlow":137000000}
 {"regNo":"fundbase:همیان","date":"2026-03-30","realMoneyFlow":0}
 {"regNo":"fundbase:آرامش","date":"2026-03-31","realMoneyFlow":80000000}
@@ -7002,6 +7035,7 @@
 {"regNo":"fundbase:نقران","date":"2026-03-31","realMoneyFlow":367000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-03-31","realMoneyFlow":0}
 {"regNo":"fundbase:نهال","date":"2026-03-31","realMoneyFlow":-45000000}
+{"regNo":"fundbase:نیلی","date":"2026-03-31","realMoneyFlow":-1000000}
 {"regNo":"fundbase:همای","date":"2026-03-31","realMoneyFlow":241000000}
 {"regNo":"fundbase:همیان","date":"2026-03-31","realMoneyFlow":0}
 {"regNo":"fundbase:آرامش","date":"2026-04-04","realMoneyFlow":33000000}
@@ -7099,6 +7133,7 @@
 {"regNo":"fundbase:نقران","date":"2026-04-04","realMoneyFlow":37000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-04-04","realMoneyFlow":-9000000}
 {"regNo":"fundbase:نهال","date":"2026-04-04","realMoneyFlow":-50000000}
+{"regNo":"fundbase:نیلی","date":"2026-04-04","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-04-04","realMoneyFlow":-92000000}
 {"regNo":"fundbase:همیان","date":"2026-04-04","realMoneyFlow":17000000}
 {"regNo":"fundbase:آرامش","date":"2026-04-05","realMoneyFlow":47000000}
@@ -7196,6 +7231,7 @@
 {"regNo":"fundbase:نقران","date":"2026-04-05","realMoneyFlow":331000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-04-05","realMoneyFlow":3000000}
 {"regNo":"fundbase:نهال","date":"2026-04-05","realMoneyFlow":20000000}
+{"regNo":"fundbase:نیلی","date":"2026-04-05","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-04-05","realMoneyFlow":46000000}
 {"regNo":"fundbase:همیان","date":"2026-04-05","realMoneyFlow":-3000000}
 {"regNo":"fundbase:آرامش","date":"2026-04-06","realMoneyFlow":73000000}
@@ -7293,6 +7329,7 @@
 {"regNo":"fundbase:نقران","date":"2026-04-06","realMoneyFlow":433000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-04-06","realMoneyFlow":-9000000}
 {"regNo":"fundbase:نهال","date":"2026-04-06","realMoneyFlow":23000000}
+{"regNo":"fundbase:نیلی","date":"2026-04-06","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-04-06","realMoneyFlow":47000000}
 {"regNo":"fundbase:همیان","date":"2026-04-06","realMoneyFlow":-14000000}
 {"regNo":"fundbase:آرامش","date":"2026-04-07","realMoneyFlow":-31000000}
@@ -7390,6 +7427,7 @@
 {"regNo":"fundbase:نقران","date":"2026-04-07","realMoneyFlow":71000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-04-07","realMoneyFlow":0}
 {"regNo":"fundbase:نهال","date":"2026-04-07","realMoneyFlow":-100000000}
+{"regNo":"fundbase:نیلی","date":"2026-04-07","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-04-07","realMoneyFlow":-68000000}
 {"regNo":"fundbase:همیان","date":"2026-04-07","realMoneyFlow":-8000000}
 {"regNo":"fundbase:آرامش","date":"2026-04-08","realMoneyFlow":12000000}
@@ -7486,6 +7524,7 @@
 {"regNo":"fundbase:نقران","date":"2026-04-08","realMoneyFlow":305000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-04-08","realMoneyFlow":-8000000}
 {"regNo":"fundbase:نهال","date":"2026-04-08","realMoneyFlow":-78000000}
+{"regNo":"fundbase:نیلی","date":"2026-04-08","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-04-08","realMoneyFlow":1038000000}
 {"regNo":"fundbase:همیان","date":"2026-04-08","realMoneyFlow":2000000}
 {"regNo":"fundbase:آرامش","date":"2026-04-11","realMoneyFlow":84000000}
@@ -7583,6 +7622,7 @@
 {"regNo":"fundbase:نقران","date":"2026-04-11","realMoneyFlow":441000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-04-11","realMoneyFlow":-6000000}
 {"regNo":"fundbase:نهال","date":"2026-04-11","realMoneyFlow":-250000000}
+{"regNo":"fundbase:نیلی","date":"2026-04-11","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-04-11","realMoneyFlow":465000000}
 {"regNo":"fundbase:همیان","date":"2026-04-11","realMoneyFlow":-11000000}
 {"regNo":"fundbase:آرامش","date":"2026-04-12","realMoneyFlow":-57000000}
@@ -7681,6 +7721,7 @@
 {"regNo":"fundbase:نقران","date":"2026-04-12","realMoneyFlow":144000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-04-12","realMoneyFlow":0}
 {"regNo":"fundbase:نهال","date":"2026-04-12","realMoneyFlow":-79000000}
+{"regNo":"fundbase:نیلی","date":"2026-04-12","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-04-12","realMoneyFlow":118000000}
 {"regNo":"fundbase:همیان","date":"2026-04-12","realMoneyFlow":11000000}
 {"regNo":"fundbase:آرامش","date":"2026-04-13","realMoneyFlow":-19000000}
@@ -7779,6 +7820,7 @@
 {"regNo":"fundbase:نقران","date":"2026-04-13","realMoneyFlow":430000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-04-13","realMoneyFlow":232000000}
 {"regNo":"fundbase:نهال","date":"2026-04-13","realMoneyFlow":41000000}
+{"regNo":"fundbase:نیلی","date":"2026-04-13","realMoneyFlow":-1000000}
 {"regNo":"fundbase:همای","date":"2026-04-13","realMoneyFlow":-115000000}
 {"regNo":"fundbase:همیان","date":"2026-04-13","realMoneyFlow":9000000}
 {"regNo":"fundbase:آرامش","date":"2026-04-15","realMoneyFlow":-12000000}
@@ -7877,6 +7919,7 @@
 {"regNo":"fundbase:نقران","date":"2026-04-15","realMoneyFlow":370000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-04-15","realMoneyFlow":-38000000}
 {"regNo":"fundbase:نهال","date":"2026-04-15","realMoneyFlow":-40000000}
+{"regNo":"fundbase:نیلی","date":"2026-04-15","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-04-15","realMoneyFlow":179000000}
 {"regNo":"fundbase:همیان","date":"2026-04-15","realMoneyFlow":2000000}
 {"regNo":"fundbase:آرامش","date":"2026-04-18","realMoneyFlow":18000000}
@@ -7975,6 +8018,7 @@
 {"regNo":"fundbase:نقران","date":"2026-04-18","realMoneyFlow":178000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-04-18","realMoneyFlow":-43000000}
 {"regNo":"fundbase:نهال","date":"2026-04-18","realMoneyFlow":-93000000}
+{"regNo":"fundbase:نیلی","date":"2026-04-18","realMoneyFlow":1000000}
 {"regNo":"fundbase:همای","date":"2026-04-18","realMoneyFlow":-108000000}
 {"regNo":"fundbase:همیان","date":"2026-04-18","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آرامش","date":"2026-04-19","realMoneyFlow":-17000000}
@@ -8073,6 +8117,7 @@
 {"regNo":"fundbase:نقران","date":"2026-04-19","realMoneyFlow":625000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-04-19","realMoneyFlow":-7000000}
 {"regNo":"fundbase:نهال","date":"2026-04-19","realMoneyFlow":-49000000}
+{"regNo":"fundbase:نیلی","date":"2026-04-19","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-04-19","realMoneyFlow":431000000}
 {"regNo":"fundbase:همیان","date":"2026-04-19","realMoneyFlow":-5000000}
 {"regNo":"fundbase:آرامش","date":"2026-04-20","realMoneyFlow":21000000}
@@ -8171,6 +8216,7 @@
 {"regNo":"fundbase:نقران","date":"2026-04-20","realMoneyFlow":990000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-04-20","realMoneyFlow":-7000000}
 {"regNo":"fundbase:نهال","date":"2026-04-20","realMoneyFlow":17000000}
+{"regNo":"fundbase:نیلی","date":"2026-04-20","realMoneyFlow":34000000}
 {"regNo":"fundbase:همای","date":"2026-04-20","realMoneyFlow":-611000000}
 {"regNo":"fundbase:همیان","date":"2026-04-20","realMoneyFlow":1000000}
 {"regNo":"fundbase:آرامش","date":"2026-04-21","realMoneyFlow":-140000000}
@@ -8269,6 +8315,7 @@
 {"regNo":"fundbase:نقران","date":"2026-04-21","realMoneyFlow":714000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-04-21","realMoneyFlow":-7000000}
 {"regNo":"fundbase:نهال","date":"2026-04-21","realMoneyFlow":-51000000}
+{"regNo":"fundbase:نیلی","date":"2026-04-21","realMoneyFlow":-1000000}
 {"regNo":"fundbase:همای","date":"2026-04-21","realMoneyFlow":2349000000}
 {"regNo":"fundbase:همیان","date":"2026-04-21","realMoneyFlow":-2000000}
 {"regNo":"fundbase:آرامش","date":"2026-04-22","realMoneyFlow":4000000}
@@ -8367,6 +8414,7 @@
 {"regNo":"fundbase:نقران","date":"2026-04-22","realMoneyFlow":549000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-04-22","realMoneyFlow":-28000000}
 {"regNo":"fundbase:نهال","date":"2026-04-22","realMoneyFlow":-118000000}
+{"regNo":"fundbase:نیلی","date":"2026-04-22","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-04-22","realMoneyFlow":1593000000}
 {"regNo":"fundbase:همیان","date":"2026-04-22","realMoneyFlow":-1000000}
 {"regNo":"fundbase:آرامش","date":"2026-04-25","realMoneyFlow":-62000000}
@@ -8465,6 +8513,7 @@
 {"regNo":"fundbase:نقران","date":"2026-04-25","realMoneyFlow":968000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-04-25","realMoneyFlow":2000000}
 {"regNo":"fundbase:نهال","date":"2026-04-25","realMoneyFlow":26000000}
+{"regNo":"fundbase:نیلی","date":"2026-04-25","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-04-25","realMoneyFlow":950000000}
 {"regNo":"fundbase:همیان","date":"2026-04-25","realMoneyFlow":8000000}
 {"regNo":"fundbase:آرامش","date":"2026-04-26","realMoneyFlow":-31000000}
@@ -8563,6 +8612,7 @@
 {"regNo":"fundbase:نقران","date":"2026-04-26","realMoneyFlow":4126000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-04-26","realMoneyFlow":-43000000}
 {"regNo":"fundbase:نهال","date":"2026-04-26","realMoneyFlow":77000000}
+{"regNo":"fundbase:نیلی","date":"2026-04-26","realMoneyFlow":-1000000}
 {"regNo":"fundbase:همای","date":"2026-04-26","realMoneyFlow":43000000}
 {"regNo":"fundbase:همیان","date":"2026-04-26","realMoneyFlow":23000000}
 {"regNo":"fundbase:آرامش","date":"2026-04-27","realMoneyFlow":-175000000}
@@ -8661,6 +8711,7 @@
 {"regNo":"fundbase:نقران","date":"2026-04-27","realMoneyFlow":920000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-04-27","realMoneyFlow":17000000}
 {"regNo":"fundbase:نهال","date":"2026-04-27","realMoneyFlow":205000000}
+{"regNo":"fundbase:نیلی","date":"2026-04-27","realMoneyFlow":-21000000}
 {"regNo":"fundbase:همای","date":"2026-04-27","realMoneyFlow":-231000000}
 {"regNo":"fundbase:همیان","date":"2026-04-27","realMoneyFlow":108000000}
 {"regNo":"fundbase:آرامش","date":"2026-04-28","realMoneyFlow":-22000000}
@@ -8759,6 +8810,7 @@
 {"regNo":"fundbase:نقران","date":"2026-04-28","realMoneyFlow":703000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-04-28","realMoneyFlow":58000000}
 {"regNo":"fundbase:نهال","date":"2026-04-28","realMoneyFlow":-290000000}
+{"regNo":"fundbase:نیلی","date":"2026-04-28","realMoneyFlow":1000000}
 {"regNo":"fundbase:همای","date":"2026-04-28","realMoneyFlow":-893000000}
 {"regNo":"fundbase:همیان","date":"2026-04-28","realMoneyFlow":46000000}
 {"regNo":"fundbase:آرامش","date":"2026-04-29","realMoneyFlow":-305000000}
@@ -8857,6 +8909,7 @@
 {"regNo":"fundbase:نقران","date":"2026-04-29","realMoneyFlow":401000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-04-29","realMoneyFlow":18000000}
 {"regNo":"fundbase:نهال","date":"2026-04-29","realMoneyFlow":1000000}
+{"regNo":"fundbase:نیلی","date":"2026-04-29","realMoneyFlow":-1000000}
 {"regNo":"fundbase:همای","date":"2026-04-29","realMoneyFlow":-639000000}
 {"regNo":"fundbase:همیان","date":"2026-04-29","realMoneyFlow":-102000000}
 {"regNo":"fundbase:آرامش","date":"2026-05-02","realMoneyFlow":-148000000}
@@ -8961,6 +9014,7 @@
 {"regNo":"fundbase:نقران","date":"2026-05-02","realMoneyFlow":368000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-05-02","realMoneyFlow":27000000}
 {"regNo":"fundbase:نهال","date":"2026-05-02","realMoneyFlow":158000000}
+{"regNo":"fundbase:نیلی","date":"2026-05-02","realMoneyFlow":10000000}
 {"regNo":"fundbase:همای","date":"2026-05-02","realMoneyFlow":-437000000}
 {"regNo":"fundbase:همیان","date":"2026-05-02","realMoneyFlow":64000000}
 {"regNo":"fundbase:آرامش","date":"2026-05-03","realMoneyFlow":-100000000}
@@ -9065,6 +9119,7 @@
 {"regNo":"fundbase:نقران","date":"2026-05-03","realMoneyFlow":1965000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-05-03","realMoneyFlow":-11000000}
 {"regNo":"fundbase:نهال","date":"2026-05-03","realMoneyFlow":1568000000}
+{"regNo":"fundbase:نیلی","date":"2026-05-03","realMoneyFlow":2000000}
 {"regNo":"fundbase:همای","date":"2026-05-03","realMoneyFlow":-9000000}
 {"regNo":"fundbase:همیان","date":"2026-05-03","realMoneyFlow":-18000000}
 {"regNo":"fundbase:آرامش","date":"2026-05-04","realMoneyFlow":-114000000}
@@ -9169,6 +9224,7 @@
 {"regNo":"fundbase:نقران","date":"2026-05-04","realMoneyFlow":2024000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-05-04","realMoneyFlow":-7000000}
 {"regNo":"fundbase:نهال","date":"2026-05-04","realMoneyFlow":568000000}
+{"regNo":"fundbase:نیلی","date":"2026-05-04","realMoneyFlow":3000000}
 {"regNo":"fundbase:همای","date":"2026-05-04","realMoneyFlow":-451000000}
 {"regNo":"fundbase:همیان","date":"2026-05-04","realMoneyFlow":-18000000}
 {"regNo":"fundbase:آرامش","date":"2026-05-05","realMoneyFlow":-119000000}
@@ -9274,6 +9330,7 @@
 {"regNo":"fundbase:نقران","date":"2026-05-05","realMoneyFlow":4000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-05-05","realMoneyFlow":50000000}
 {"regNo":"fundbase:نهال","date":"2026-05-05","realMoneyFlow":-71000000}
+{"regNo":"fundbase:نیلی","date":"2026-05-05","realMoneyFlow":-11000000}
 {"regNo":"fundbase:همای","date":"2026-05-05","realMoneyFlow":-984000000}
 {"regNo":"fundbase:همیان","date":"2026-05-05","realMoneyFlow":-4000000}
 {"regNo":"fundbase:آرامش","date":"2026-05-06","realMoneyFlow":-10000000}
@@ -9379,6 +9436,7 @@
 {"regNo":"fundbase:نقران","date":"2026-05-06","realMoneyFlow":-120000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-05-06","realMoneyFlow":-3000000}
 {"regNo":"fundbase:نهال","date":"2026-05-06","realMoneyFlow":-202000000}
+{"regNo":"fundbase:نیلی","date":"2026-05-06","realMoneyFlow":4000000}
 {"regNo":"fundbase:همای","date":"2026-05-06","realMoneyFlow":96000000}
 {"regNo":"fundbase:همیان","date":"2026-05-06","realMoneyFlow":-23000000}
 {"regNo":"fundbase:آرامش","date":"2026-05-09","realMoneyFlow":11000000}
@@ -9484,6 +9542,7 @@
 {"regNo":"fundbase:نقران","date":"2026-05-09","realMoneyFlow":1600000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-05-09","realMoneyFlow":104000000}
 {"regNo":"fundbase:نهال","date":"2026-05-09","realMoneyFlow":11000000}
+{"regNo":"fundbase:نیلی","date":"2026-05-09","realMoneyFlow":1000000}
 {"regNo":"fundbase:همای","date":"2026-05-09","realMoneyFlow":849000000}
 {"regNo":"fundbase:همیان","date":"2026-05-09","realMoneyFlow":2000000}
 {"regNo":"fundbase:آرامش","date":"2026-05-10","realMoneyFlow":-20000000}
@@ -9589,6 +9648,7 @@
 {"regNo":"fundbase:نقران","date":"2026-05-10","realMoneyFlow":363000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-05-10","realMoneyFlow":32000000}
 {"regNo":"fundbase:نهال","date":"2026-05-10","realMoneyFlow":364000000}
+{"regNo":"fundbase:نیلی","date":"2026-05-10","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-05-10","realMoneyFlow":374000000}
 {"regNo":"fundbase:همیان","date":"2026-05-10","realMoneyFlow":0}
 {"regNo":"fundbase:آرامش","date":"2026-05-11","realMoneyFlow":-73000000}
@@ -9695,6 +9755,7 @@
 {"regNo":"fundbase:نقرین","date":"2026-05-11","realMoneyFlow":203000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-05-11","realMoneyFlow":-17000000}
 {"regNo":"fundbase:نهال","date":"2026-05-11","realMoneyFlow":2566000000}
+{"regNo":"fundbase:نیلی","date":"2026-05-11","realMoneyFlow":1000000}
 {"regNo":"fundbase:همای","date":"2026-05-11","realMoneyFlow":-158000000}
 {"regNo":"fundbase:همیان","date":"2026-05-11","realMoneyFlow":60000000}
 {"regNo":"fundbase:آرامش","date":"2026-05-12","realMoneyFlow":3000000}
@@ -9801,6 +9862,7 @@
 {"regNo":"fundbase:نقرین","date":"2026-05-12","realMoneyFlow":111000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-05-12","realMoneyFlow":-31000000}
 {"regNo":"fundbase:نهال","date":"2026-05-12","realMoneyFlow":-310000000}
+{"regNo":"fundbase:نیلی","date":"2026-05-12","realMoneyFlow":-4000000}
 {"regNo":"fundbase:همای","date":"2026-05-12","realMoneyFlow":266000000}
 {"regNo":"fundbase:همیان","date":"2026-05-12","realMoneyFlow":-9000000}
 {"regNo":"fundbase:آرامش","date":"2026-05-13","realMoneyFlow":-198000000}
@@ -9907,6 +9969,7 @@
 {"regNo":"fundbase:نقرین","date":"2026-05-13","realMoneyFlow":57000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-05-13","realMoneyFlow":-16000000}
 {"regNo":"fundbase:نهال","date":"2026-05-13","realMoneyFlow":-701000000}
+{"regNo":"fundbase:نیلی","date":"2026-05-13","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-05-13","realMoneyFlow":14000000}
 {"regNo":"fundbase:همیان","date":"2026-05-13","realMoneyFlow":-9000000}
 {"regNo":"fundbase:آرامش","date":"2026-05-16","realMoneyFlow":10000000}
@@ -10013,6 +10076,7 @@
 {"regNo":"fundbase:نقرین","date":"2026-05-16","realMoneyFlow":3557000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-05-16","realMoneyFlow":-3000000}
 {"regNo":"fundbase:نهال","date":"2026-05-16","realMoneyFlow":483000000}
+{"regNo":"fundbase:نیلی","date":"2026-05-16","realMoneyFlow":3000000}
 {"regNo":"fundbase:همای","date":"2026-05-16","realMoneyFlow":-57000000}
 {"regNo":"fundbase:همیان","date":"2026-05-16","realMoneyFlow":10000000}
 {"regNo":"fundbase:آرامش","date":"2026-05-17","realMoneyFlow":-112000000}
@@ -10119,6 +10183,7 @@
 {"regNo":"fundbase:نقرین","date":"2026-05-17","realMoneyFlow":147000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-05-17","realMoneyFlow":44000000}
 {"regNo":"fundbase:نهال","date":"2026-05-17","realMoneyFlow":259000000}
+{"regNo":"fundbase:نیلی","date":"2026-05-17","realMoneyFlow":0}
 {"regNo":"fundbase:همای","date":"2026-05-17","realMoneyFlow":-450000000}
 {"regNo":"fundbase:همیان","date":"2026-05-17","realMoneyFlow":2000000}
 {"regNo":"fundbase:آرامش","date":"2026-05-18","realMoneyFlow":-27000000}
@@ -10225,6 +10290,7 @@
 {"regNo":"fundbase:نقرین","date":"2026-05-18","realMoneyFlow":-1000000}
 {"regNo":"fundbase:نگین فارس","date":"2026-05-18","realMoneyFlow":-13000000}
 {"regNo":"fundbase:نهال","date":"2026-05-18","realMoneyFlow":-329000000}
+{"regNo":"fundbase:نیلی","date":"2026-05-18","realMoneyFlow":1000000}
 {"regNo":"fundbase:همای","date":"2026-05-18","realMoneyFlow":-335000000}
 {"regNo":"fundbase:همیان","date":"2026-05-18","realMoneyFlow":-8000000}
 {"regNo":"fundbase:آتیمس","date":"2026-05-19","realMoneyFlow":45000000}
@@ -10454,6 +10520,7 @@
 {"regNo":"fundbase:نمک","date":"2026-05-19","realMoneyFlow":190000000}
 {"regNo":"fundbase:نهال","date":"2026-05-19","realMoneyFlow":-246000000}
 {"regNo":"fundbase:نیروانا","date":"2026-05-19","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-05-19","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-05-19","realMoneyFlow":-2000000}
 {"regNo":"fundbase:هم ارز","date":"2026-05-19","realMoneyFlow":0}
 {"regNo":"fundbase:هم تراز","date":"2026-05-19","realMoneyFlow":28000000}
@@ -10700,6 +10767,7 @@
 {"regNo":"fundbase:نمک","date":"2026-05-20","realMoneyFlow":1059000000}
 {"regNo":"fundbase:نهال","date":"2026-05-20","realMoneyFlow":-226000000}
 {"regNo":"fundbase:نیروانا","date":"2026-05-20","realMoneyFlow":3000000}
+{"regNo":"fundbase:نیلی","date":"2026-05-20","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-05-20","realMoneyFlow":0}
 {"regNo":"fundbase:هم ارز","date":"2026-05-20","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هم تراز","date":"2026-05-20","realMoneyFlow":491000000}
@@ -10946,6 +11014,7 @@
 {"regNo":"fundbase:نمک","date":"2026-05-23","realMoneyFlow":1188000000}
 {"regNo":"fundbase:نهال","date":"2026-05-23","realMoneyFlow":-303000000}
 {"regNo":"fundbase:نیروانا","date":"2026-05-23","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-05-23","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-05-23","realMoneyFlow":4000000}
 {"regNo":"fundbase:هم ارز","date":"2026-05-23","realMoneyFlow":7000000}
 {"regNo":"fundbase:هم تراز","date":"2026-05-23","realMoneyFlow":129000000}
@@ -11195,6 +11264,7 @@
 {"regNo":"fundbase:نمک","date":"2026-05-24","realMoneyFlow":2000000}
 {"regNo":"fundbase:نهال","date":"2026-05-24","realMoneyFlow":-43000000}
 {"regNo":"fundbase:نیروانا","date":"2026-05-24","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-05-24","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-05-24","realMoneyFlow":478000000}
 {"regNo":"fundbase:هم ارز","date":"2026-05-24","realMoneyFlow":2000000}
 {"regNo":"fundbase:هم تراز","date":"2026-05-24","realMoneyFlow":35000000}
@@ -11447,6 +11517,7 @@
 {"regNo":"fundbase:نمک","date":"2026-05-25","realMoneyFlow":768000000}
 {"regNo":"fundbase:نهال","date":"2026-05-25","realMoneyFlow":4000000}
 {"regNo":"fundbase:نیروانا","date":"2026-05-25","realMoneyFlow":3000000}
+{"regNo":"fundbase:نیلی","date":"2026-05-25","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-05-25","realMoneyFlow":-74000000}
 {"regNo":"fundbase:هم ارز","date":"2026-05-25","realMoneyFlow":1000000}
 {"regNo":"fundbase:هم تراز","date":"2026-05-25","realMoneyFlow":69000000}
@@ -11697,6 +11768,7 @@
 {"regNo":"fundbase:نمک","date":"2026-05-26","realMoneyFlow":39000000}
 {"regNo":"fundbase:نهال","date":"2026-05-26","realMoneyFlow":-119000000}
 {"regNo":"fundbase:نیروانا","date":"2026-05-26","realMoneyFlow":1000000}
+{"regNo":"fundbase:نیلی","date":"2026-05-26","realMoneyFlow":-2000000}
 {"regNo":"fundbase:هامون","date":"2026-05-26","realMoneyFlow":47000000}
 {"regNo":"fundbase:هم ارز","date":"2026-05-26","realMoneyFlow":-3000000}
 {"regNo":"fundbase:هم تراز","date":"2026-05-26","realMoneyFlow":-75000000}
@@ -11948,6 +12020,7 @@
 {"regNo":"fundbase:نمک","date":"2026-05-30","realMoneyFlow":39000000}
 {"regNo":"fundbase:نهال","date":"2026-05-30","realMoneyFlow":28000000}
 {"regNo":"fundbase:نیروانا","date":"2026-05-30","realMoneyFlow":13000000}
+{"regNo":"fundbase:نیلی","date":"2026-05-30","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-05-30","realMoneyFlow":53000000}
 {"regNo":"fundbase:هم ارز","date":"2026-05-30","realMoneyFlow":2000000}
 {"regNo":"fundbase:هم تراز","date":"2026-05-30","realMoneyFlow":104000000}
@@ -12200,6 +12273,7 @@
 {"regNo":"fundbase:نمک","date":"2026-05-31","realMoneyFlow":52000000}
 {"regNo":"fundbase:نهال","date":"2026-05-31","realMoneyFlow":204000000}
 {"regNo":"fundbase:نیروانا","date":"2026-05-31","realMoneyFlow":14000000}
+{"regNo":"fundbase:نیلی","date":"2026-05-31","realMoneyFlow":-2000000}
 {"regNo":"fundbase:هامون","date":"2026-05-31","realMoneyFlow":123000000}
 {"regNo":"fundbase:هم ارز","date":"2026-05-31","realMoneyFlow":46000000}
 {"regNo":"fundbase:هم تراز","date":"2026-05-31","realMoneyFlow":328000000}
@@ -12454,6 +12528,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-01","realMoneyFlow":65000000}
 {"regNo":"fundbase:نهال","date":"2026-06-01","realMoneyFlow":-48000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-01","realMoneyFlow":-16000000}
+{"regNo":"fundbase:نیلی","date":"2026-06-01","realMoneyFlow":-5000000}
 {"regNo":"fundbase:هامون","date":"2026-06-01","realMoneyFlow":-263000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-01","realMoneyFlow":-18000000}
 {"regNo":"fundbase:هم تراز","date":"2026-06-01","realMoneyFlow":171000000}
@@ -12709,6 +12784,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-02","realMoneyFlow":60000000}
 {"regNo":"fundbase:نهال","date":"2026-06-02","realMoneyFlow":-54000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-02","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-06-02","realMoneyFlow":-3000000}
 {"regNo":"fundbase:هامون","date":"2026-06-02","realMoneyFlow":-139000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-02","realMoneyFlow":27000000}
 {"regNo":"fundbase:هم تراز","date":"2026-06-02","realMoneyFlow":-177000000}
@@ -12968,6 +13044,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-03","realMoneyFlow":-602000000}
 {"regNo":"fundbase:نهال","date":"2026-06-03","realMoneyFlow":-18000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-03","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-06-03","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هامون","date":"2026-06-03","realMoneyFlow":-218000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-03","realMoneyFlow":-6000000}
 {"regNo":"fundbase:هم تراز","date":"2026-06-03","realMoneyFlow":-138000000}
@@ -13227,6 +13304,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-06","realMoneyFlow":61000000}
 {"regNo":"fundbase:نهال","date":"2026-06-06","realMoneyFlow":-128000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-06","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-06-06","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-06-06","realMoneyFlow":26000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-06","realMoneyFlow":30000000}
 {"regNo":"fundbase:هم تراز","date":"2026-06-06","realMoneyFlow":19000000}
@@ -13488,6 +13566,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-07","realMoneyFlow":317000000}
 {"regNo":"fundbase:نهال","date":"2026-06-07","realMoneyFlow":-28000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-07","realMoneyFlow":-1000000}
+{"regNo":"fundbase:نیلی","date":"2026-06-07","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هامون","date":"2026-06-07","realMoneyFlow":22000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-07","realMoneyFlow":-4000000}
 {"regNo":"fundbase:هم تراز","date":"2026-06-07","realMoneyFlow":138000000}
@@ -13747,6 +13826,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-08","realMoneyFlow":-181000000}
 {"regNo":"fundbase:نهال","date":"2026-06-08","realMoneyFlow":-110000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-08","realMoneyFlow":-1000000}
+{"regNo":"fundbase:نیلی","date":"2026-06-08","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هامون","date":"2026-06-08","realMoneyFlow":-109000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-08","realMoneyFlow":0}
 {"regNo":"fundbase:هم تراز","date":"2026-06-08","realMoneyFlow":-63000000}
@@ -14010,6 +14090,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-09","realMoneyFlow":60000000}
 {"regNo":"fundbase:نهال","date":"2026-06-09","realMoneyFlow":8000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-09","realMoneyFlow":6000000}
+{"regNo":"fundbase:نیلی","date":"2026-06-09","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-06-09","realMoneyFlow":221000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-09","realMoneyFlow":57000000}
 {"regNo":"fundbase:هم تراز","date":"2026-06-09","realMoneyFlow":115000000}
@@ -14274,6 +14355,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-10","realMoneyFlow":61000000}
 {"regNo":"fundbase:نهال","date":"2026-06-10","realMoneyFlow":-242000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-10","realMoneyFlow":1000000}
+{"regNo":"fundbase:نیلی","date":"2026-06-10","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-06-10","realMoneyFlow":4000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-10","realMoneyFlow":4000000}
 {"regNo":"fundbase:هم تراز","date":"2026-06-10","realMoneyFlow":138000000}
@@ -14537,6 +14619,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-13","realMoneyFlow":41000000}
 {"regNo":"fundbase:نهال","date":"2026-06-13","realMoneyFlow":-340000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-13","realMoneyFlow":38000000}
+{"regNo":"fundbase:نیلی","date":"2026-06-13","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-06-13","realMoneyFlow":210000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-13","realMoneyFlow":11000000}
 {"regNo":"fundbase:هم تراز","date":"2026-06-13","realMoneyFlow":138000000}
@@ -14803,6 +14886,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-14","realMoneyFlow":35000000}
 {"regNo":"fundbase:نهال","date":"2026-06-14","realMoneyFlow":-99000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-14","realMoneyFlow":-3000000}
+{"regNo":"fundbase:نیلی","date":"2026-06-14","realMoneyFlow":-2000000}
 {"regNo":"fundbase:هامون","date":"2026-06-14","realMoneyFlow":50000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-14","realMoneyFlow":18000000}
 {"regNo":"fundbase:هم تراز","date":"2026-06-14","realMoneyFlow":142000000}
@@ -15070,6 +15154,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-15","realMoneyFlow":386000000}
 {"regNo":"fundbase:نهال","date":"2026-06-15","realMoneyFlow":-125000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-15","realMoneyFlow":37000000}
+{"regNo":"fundbase:نیلی","date":"2026-06-15","realMoneyFlow":1000000}
 {"regNo":"fundbase:هامون","date":"2026-06-15","realMoneyFlow":141000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-15","realMoneyFlow":0}
 {"regNo":"fundbase:هم تراز","date":"2026-06-15","realMoneyFlow":37000000}
@@ -15338,6 +15423,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-16","realMoneyFlow":-117000000}
 {"regNo":"fundbase:نهال","date":"2026-06-16","realMoneyFlow":-262000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-16","realMoneyFlow":58000000}
+{"regNo":"fundbase:نیلی","date":"2026-06-16","realMoneyFlow":3000000}
 {"regNo":"fundbase:هامون","date":"2026-06-16","realMoneyFlow":-151000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-16","realMoneyFlow":85000000}
 {"regNo":"fundbase:هم تراز","date":"2026-06-16","realMoneyFlow":101000000}
@@ -15605,6 +15691,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-17","realMoneyFlow":392000000}
 {"regNo":"fundbase:نهال","date":"2026-06-17","realMoneyFlow":-67000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-17","realMoneyFlow":-1000000}
+{"regNo":"fundbase:نیلی","date":"2026-06-17","realMoneyFlow":2000000}
 {"regNo":"fundbase:هامون","date":"2026-06-17","realMoneyFlow":-179000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-17","realMoneyFlow":33000000}
 {"regNo":"fundbase:هم تراز","date":"2026-06-17","realMoneyFlow":-40000000}
@@ -15872,6 +15959,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-20","realMoneyFlow":-149000000}
 {"regNo":"fundbase:نهال","date":"2026-06-20","realMoneyFlow":10000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-20","realMoneyFlow":4000000}
+{"regNo":"fundbase:نیلی","date":"2026-06-20","realMoneyFlow":9000000}
 {"regNo":"fundbase:هامون","date":"2026-06-20","realMoneyFlow":-183000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-20","realMoneyFlow":-32000000}
 {"regNo":"fundbase:هم تراز","date":"2026-06-20","realMoneyFlow":-94000000}
@@ -16140,6 +16228,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-21","realMoneyFlow":-36000000}
 {"regNo":"fundbase:نهال","date":"2026-06-21","realMoneyFlow":-45000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-21","realMoneyFlow":-68000000}
+{"regNo":"fundbase:نیلی","date":"2026-06-21","realMoneyFlow":-10000000}
 {"regNo":"fundbase:هامون","date":"2026-06-21","realMoneyFlow":-48000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-21","realMoneyFlow":-11000000}
 {"regNo":"fundbase:هم تراز","date":"2026-06-21","realMoneyFlow":-70000000}
@@ -16408,6 +16497,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-22","realMoneyFlow":-286000000}
 {"regNo":"fundbase:نهال","date":"2026-06-22","realMoneyFlow":-101000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-22","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-06-22","realMoneyFlow":3000000}
 {"regNo":"fundbase:هامون","date":"2026-06-22","realMoneyFlow":-24000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-22","realMoneyFlow":57000000}
 {"regNo":"fundbase:هم تراز","date":"2026-06-22","realMoneyFlow":-159000000}
@@ -16676,6 +16766,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-23","realMoneyFlow":-458000000}
 {"regNo":"fundbase:نهال","date":"2026-06-23","realMoneyFlow":23000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-23","realMoneyFlow":1000000}
+{"regNo":"fundbase:نیلی","date":"2026-06-23","realMoneyFlow":18000000}
 {"regNo":"fundbase:هامون","date":"2026-06-23","realMoneyFlow":62000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-23","realMoneyFlow":1000000}
 {"regNo":"fundbase:هم تراز","date":"2026-06-23","realMoneyFlow":-161000000}
@@ -16945,6 +17036,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-27","realMoneyFlow":-524000000}
 {"regNo":"fundbase:نهال","date":"2026-06-27","realMoneyFlow":-10000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-27","realMoneyFlow":-3000000}
+{"regNo":"fundbase:نیلی","date":"2026-06-27","realMoneyFlow":-21000000}
 {"regNo":"fundbase:هامون","date":"2026-06-27","realMoneyFlow":-43000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-27","realMoneyFlow":-10000000}
 {"regNo":"fundbase:هم تراز","date":"2026-06-27","realMoneyFlow":-94000000}
@@ -17213,6 +17305,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-28","realMoneyFlow":-49000000}
 {"regNo":"fundbase:نهال","date":"2026-06-28","realMoneyFlow":728000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-28","realMoneyFlow":19000000}
+{"regNo":"fundbase:نیلی","date":"2026-06-28","realMoneyFlow":3000000}
 {"regNo":"fundbase:هامون","date":"2026-06-28","realMoneyFlow":-45000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-28","realMoneyFlow":-12000000}
 {"regNo":"fundbase:هم تراز","date":"2026-06-28","realMoneyFlow":-47000000}
@@ -17481,6 +17574,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-29","realMoneyFlow":248000000}
 {"regNo":"fundbase:نهال","date":"2026-06-29","realMoneyFlow":-170000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-29","realMoneyFlow":32000000}
+{"regNo":"fundbase:نیلی","date":"2026-06-29","realMoneyFlow":-5000000}
 {"regNo":"fundbase:هامون","date":"2026-06-29","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-29","realMoneyFlow":-8000000}
 {"regNo":"fundbase:هم تراز","date":"2026-06-29","realMoneyFlow":-58000000}
@@ -17748,6 +17842,7 @@
 {"regNo":"fundbase:نمک","date":"2026-06-30","realMoneyFlow":-95000000}
 {"regNo":"fundbase:نهال","date":"2026-06-30","realMoneyFlow":-136000000}
 {"regNo":"fundbase:نیروانا","date":"2026-06-30","realMoneyFlow":20000000}
+{"regNo":"fundbase:نیلی","date":"2026-06-30","realMoneyFlow":1000000}
 {"regNo":"fundbase:هامون","date":"2026-06-30","realMoneyFlow":7000000}
 {"regNo":"fundbase:هم ارز","date":"2026-06-30","realMoneyFlow":-14000000}
 {"regNo":"fundbase:هم تراز","date":"2026-06-30","realMoneyFlow":-29000000}
@@ -18016,6 +18111,7 @@
 {"regNo":"fundbase:نمک","date":"2026-07-01","realMoneyFlow":-6000000}
 {"regNo":"fundbase:نهال","date":"2026-07-01","realMoneyFlow":-41000000}
 {"regNo":"fundbase:نیروانا","date":"2026-07-01","realMoneyFlow":304000000}
+{"regNo":"fundbase:نیلی","date":"2026-07-01","realMoneyFlow":24000000}
 {"regNo":"fundbase:هامون","date":"2026-07-01","realMoneyFlow":2000000}
 {"regNo":"fundbase:هم ارز","date":"2026-07-01","realMoneyFlow":-9000000}
 {"regNo":"fundbase:هم تراز","date":"2026-07-01","realMoneyFlow":49000000}
@@ -18285,6 +18381,7 @@
 {"regNo":"fundbase:نمک","date":"2026-07-07","realMoneyFlow":61000000}
 {"regNo":"fundbase:نهال","date":"2026-07-07","realMoneyFlow":26000000}
 {"regNo":"fundbase:نیروانا","date":"2026-07-07","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-07-07","realMoneyFlow":-23000000}
 {"regNo":"fundbase:هامون","date":"2026-07-07","realMoneyFlow":319000000}
 {"regNo":"fundbase:هم ارز","date":"2026-07-07","realMoneyFlow":-9000000}
 {"regNo":"fundbase:هم تراز","date":"2026-07-07","realMoneyFlow":-17000000}
@@ -18554,6 +18651,7 @@
 {"regNo":"fundbase:نمک","date":"2026-07-08","realMoneyFlow":-88000000}
 {"regNo":"fundbase:نهال","date":"2026-07-08","realMoneyFlow":-208000000}
 {"regNo":"fundbase:نیروانا","date":"2026-07-08","realMoneyFlow":61000000}
+{"regNo":"fundbase:نیلی","date":"2026-07-08","realMoneyFlow":-4000000}
 {"regNo":"fundbase:هامون","date":"2026-07-08","realMoneyFlow":-285000000}
 {"regNo":"fundbase:هم ارز","date":"2026-07-08","realMoneyFlow":-28000000}
 {"regNo":"fundbase:هم تراز","date":"2026-07-08","realMoneyFlow":-44000000}
@@ -18820,6 +18918,7 @@
 {"regNo":"fundbase:نمک","date":"2026-07-11","realMoneyFlow":-192000000}
 {"regNo":"fundbase:نهال","date":"2026-07-11","realMoneyFlow":-93000000}
 {"regNo":"fundbase:نیروانا","date":"2026-07-11","realMoneyFlow":-125000000}
+{"regNo":"fundbase:نیلی","date":"2026-07-11","realMoneyFlow":11000000}
 {"regNo":"fundbase:هامون","date":"2026-07-11","realMoneyFlow":-13000000}
 {"regNo":"fundbase:هم ارز","date":"2026-07-11","realMoneyFlow":-17000000}
 {"regNo":"fundbase:هم تراز","date":"2026-07-11","realMoneyFlow":-24000000}
@@ -19083,6 +19182,7 @@
 {"regNo":"fundbase:نمک","date":"2026-07-12","realMoneyFlow":-20000000}
 {"regNo":"fundbase:نهال","date":"2026-07-12","realMoneyFlow":-105000000}
 {"regNo":"fundbase:نیروانا","date":"2026-07-12","realMoneyFlow":-3000000}
+{"regNo":"fundbase:نیلی","date":"2026-07-12","realMoneyFlow":-11000000}
 {"regNo":"fundbase:هامون","date":"2026-07-12","realMoneyFlow":-24000000}
 {"regNo":"fundbase:هم ارز","date":"2026-07-12","realMoneyFlow":-11000000}
 {"regNo":"fundbase:هم تراز","date":"2026-07-12","realMoneyFlow":-10000000}
@@ -19352,6 +19452,7 @@
 {"regNo":"fundbase:نمک","date":"2026-07-13","realMoneyFlow":-139000000}
 {"regNo":"fundbase:نهال","date":"2026-07-13","realMoneyFlow":-9000000}
 {"regNo":"fundbase:نیروانا","date":"2026-07-13","realMoneyFlow":-51000000}
+{"regNo":"fundbase:نیلی","date":"2026-07-13","realMoneyFlow":12000000}
 {"regNo":"fundbase:هامون","date":"2026-07-13","realMoneyFlow":-2000000}
 {"regNo":"fundbase:هم ارز","date":"2026-07-13","realMoneyFlow":-5000000}
 {"regNo":"fundbase:هم تراز","date":"2026-07-13","realMoneyFlow":-35000000}
@@ -19621,6 +19722,7 @@
 {"regNo":"fundbase:نمک","date":"2026-07-14","realMoneyFlow":88000000}
 {"regNo":"fundbase:نهال","date":"2026-07-14","realMoneyFlow":26000000}
 {"regNo":"fundbase:نیروانا","date":"2026-07-14","realMoneyFlow":-18000000}
+{"regNo":"fundbase:نیلی","date":"2026-07-14","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-07-14","realMoneyFlow":-61000000}
 {"regNo":"fundbase:هم ارز","date":"2026-07-14","realMoneyFlow":-7000000}
 {"regNo":"fundbase:هم تراز","date":"2026-07-14","realMoneyFlow":-78000000}
@@ -19889,6 +19991,7 @@
 {"regNo":"fundbase:نمک","date":"2026-07-15","realMoneyFlow":-83000000}
 {"regNo":"fundbase:نهال","date":"2026-07-15","realMoneyFlow":248000000}
 {"regNo":"fundbase:نیروانا","date":"2026-07-15","realMoneyFlow":-34000000}
+{"regNo":"fundbase:نیلی","date":"2026-07-15","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-07-15","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هم ارز","date":"2026-07-15","realMoneyFlow":0}
 {"regNo":"fundbase:هم تراز","date":"2026-07-15","realMoneyFlow":14000000}
@@ -20157,6 +20260,7 @@
 {"regNo":"fundbase:نمک","date":"2026-07-18","realMoneyFlow":-126000000}
 {"regNo":"fundbase:نهال","date":"2026-07-18","realMoneyFlow":237000000}
 {"regNo":"fundbase:نیروانا","date":"2026-07-18","realMoneyFlow":-15000000}
+{"regNo":"fundbase:نیلی","date":"2026-07-18","realMoneyFlow":-3000000}
 {"regNo":"fundbase:هامون","date":"2026-07-18","realMoneyFlow":-3000000}
 {"regNo":"fundbase:هم ارز","date":"2026-07-18","realMoneyFlow":-2000000}
 {"regNo":"fundbase:هم تراز","date":"2026-07-18","realMoneyFlow":-10000000}
@@ -20425,6 +20529,7 @@
 {"regNo":"fundbase:نمک","date":"2026-07-19","realMoneyFlow":108000000}
 {"regNo":"fundbase:نهال","date":"2026-07-19","realMoneyFlow":-119000000}
 {"regNo":"fundbase:نیروانا","date":"2026-07-19","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-07-19","realMoneyFlow":1000000}
 {"regNo":"fundbase:هامون","date":"2026-07-19","realMoneyFlow":-4000000}
 {"regNo":"fundbase:هم ارز","date":"2026-07-19","realMoneyFlow":-7000000}
 {"regNo":"fundbase:هم تراز","date":"2026-07-19","realMoneyFlow":40000000}
@@ -20693,6 +20798,7 @@
 {"regNo":"fundbase:نمک","date":"2026-07-20","realMoneyFlow":43000000}
 {"regNo":"fundbase:نهال","date":"2026-07-20","realMoneyFlow":-211000000}
 {"regNo":"fundbase:نیروانا","date":"2026-07-20","realMoneyFlow":-5000000}
+{"regNo":"fundbase:نیلی","date":"2026-07-20","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-07-20","realMoneyFlow":3000000}
 {"regNo":"fundbase:هم ارز","date":"2026-07-20","realMoneyFlow":13000000}
 {"regNo":"fundbase:هم تراز","date":"2026-07-20","realMoneyFlow":48000000}
@@ -20964,6 +21070,7 @@
 {"regNo":"fundbase:نمک","date":"2026-07-21","realMoneyFlow":14000000}
 {"regNo":"fundbase:نهال","date":"2026-07-21","realMoneyFlow":-117000000}
 {"regNo":"fundbase:نیروانا","date":"2026-07-21","realMoneyFlow":-12000000}
+{"regNo":"fundbase:نیلی","date":"2026-07-21","realMoneyFlow":2000000}
 {"regNo":"fundbase:هامون","date":"2026-07-21","realMoneyFlow":24000000}
 {"regNo":"fundbase:هم ارز","date":"2026-07-21","realMoneyFlow":-20000000}
 {"regNo":"fundbase:هم تراز","date":"2026-07-21","realMoneyFlow":52000000}
@@ -21235,6 +21342,7 @@
 {"regNo":"fundbase:نمک","date":"2026-07-22","realMoneyFlow":54000000}
 {"regNo":"fundbase:نهال","date":"2026-07-22","realMoneyFlow":-89000000}
 {"regNo":"fundbase:نیروانا","date":"2026-07-22","realMoneyFlow":-10000000}
+{"regNo":"fundbase:نیلی","date":"2026-07-22","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-07-22","realMoneyFlow":8000000}
 {"regNo":"fundbase:هم ارز","date":"2026-07-22","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هم تراز","date":"2026-07-22","realMoneyFlow":99000000}
@@ -21508,6 +21616,7 @@
 {"regNo":"fundbase:نمک","date":"2026-07-25","realMoneyFlow":360000000}
 {"regNo":"fundbase:نهال","date":"2026-07-25","realMoneyFlow":-132000000}
 {"regNo":"fundbase:نیروانا","date":"2026-07-25","realMoneyFlow":-28000000}
+{"regNo":"fundbase:نیلی","date":"2026-07-25","realMoneyFlow":1000000}
 {"regNo":"fundbase:هامون","date":"2026-07-25","realMoneyFlow":0}
 {"regNo":"fundbase:هم ارز","date":"2026-07-25","realMoneyFlow":-18000000}
 {"regNo":"fundbase:هم تراز","date":"2026-07-25","realMoneyFlow":-25000000}
@@ -21784,6 +21893,7 @@
 {"regNo":"fundbase:نمک","date":"2026-07-26","realMoneyFlow":53000000}
 {"regNo":"fundbase:نهال","date":"2026-07-26","realMoneyFlow":-64000000}
 {"regNo":"fundbase:نیروانا","date":"2026-07-26","realMoneyFlow":4000000}
+{"regNo":"fundbase:نیلی","date":"2026-07-26","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-07-26","realMoneyFlow":47000000}
 {"regNo":"fundbase:هم ارز","date":"2026-07-26","realMoneyFlow":3000000}
 {"regNo":"fundbase:هم تراز","date":"2026-07-26","realMoneyFlow":49000000}
@@ -22058,6 +22168,7 @@
 {"regNo":"fundbase:نمک","date":"2026-07-27","realMoneyFlow":-187000000}
 {"regNo":"fundbase:نهال","date":"2026-07-27","realMoneyFlow":48000000}
 {"regNo":"fundbase:نیروانا","date":"2026-07-27","realMoneyFlow":-2000000}
+{"regNo":"fundbase:نیلی","date":"2026-07-27","realMoneyFlow":2000000}
 {"regNo":"fundbase:هامون","date":"2026-07-27","realMoneyFlow":-17000000}
 {"regNo":"fundbase:هم ارز","date":"2026-07-27","realMoneyFlow":-20000000}
 {"regNo":"fundbase:هم تراز","date":"2026-07-27","realMoneyFlow":3000000}
@@ -22335,6 +22446,7 @@
 {"regNo":"fundbase:نمک","date":"2026-07-28","realMoneyFlow":-105000000}
 {"regNo":"fundbase:نهال","date":"2026-07-28","realMoneyFlow":2000000}
 {"regNo":"fundbase:نیروانا","date":"2026-07-28","realMoneyFlow":-10000000}
+{"regNo":"fundbase:نیلی","date":"2026-07-28","realMoneyFlow":-3000000}
 {"regNo":"fundbase:هامون","date":"2026-07-28","realMoneyFlow":-9000000}
 {"regNo":"fundbase:هم ارز","date":"2026-07-28","realMoneyFlow":-5000000}
 {"regNo":"fundbase:هم تراز","date":"2026-07-28","realMoneyFlow":18000000}
@@ -22610,6 +22722,7 @@
 {"regNo":"fundbase:نمک","date":"2026-07-29","realMoneyFlow":-52000000}
 {"regNo":"fundbase:نهال","date":"2026-07-29","realMoneyFlow":-77000000}
 {"regNo":"fundbase:نیروانا","date":"2026-07-29","realMoneyFlow":-1000000}
+{"regNo":"fundbase:نیلی","date":"2026-07-29","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هامون","date":"2026-07-29","realMoneyFlow":-6000000}
 {"regNo":"fundbase:هم ارز","date":"2026-07-29","realMoneyFlow":-5000000}
 {"regNo":"fundbase:هم تراز","date":"2026-07-29","realMoneyFlow":-82000000}
@@ -22885,6 +22998,7 @@
 {"regNo":"fundbase:نمک","date":"2026-08-01","realMoneyFlow":-127000000}
 {"regNo":"fundbase:نهال","date":"2026-08-01","realMoneyFlow":230000000}
 {"regNo":"fundbase:نیروانا","date":"2026-08-01","realMoneyFlow":-1000000}
+{"regNo":"fundbase:نیلی","date":"2026-08-01","realMoneyFlow":-3000000}
 {"regNo":"fundbase:هامون","date":"2026-08-01","realMoneyFlow":-6000000}
 {"regNo":"fundbase:هم ارز","date":"2026-08-01","realMoneyFlow":-3000000}
 {"regNo":"fundbase:هم تراز","date":"2026-08-01","realMoneyFlow":-15000000}
@@ -23162,6 +23276,7 @@
 {"regNo":"fundbase:نمک","date":"2026-08-02","realMoneyFlow":-135000000}
 {"regNo":"fundbase:نهال","date":"2026-08-02","realMoneyFlow":-71000000}
 {"regNo":"fundbase:نیروانا","date":"2026-08-02","realMoneyFlow":-22000000}
+{"regNo":"fundbase:نیلی","date":"2026-08-02","realMoneyFlow":5000000}
 {"regNo":"fundbase:هامون","date":"2026-08-02","realMoneyFlow":46000000}
 {"regNo":"fundbase:هم ارز","date":"2026-08-02","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هم تراز","date":"2026-08-02","realMoneyFlow":102000000}
@@ -23439,6 +23554,7 @@
 {"regNo":"fundbase:نمک","date":"2026-08-03","realMoneyFlow":30000000}
 {"regNo":"fundbase:نهال","date":"2026-08-03","realMoneyFlow":36000000}
 {"regNo":"fundbase:نیروانا","date":"2026-08-03","realMoneyFlow":18000000}
+{"regNo":"fundbase:نیلی","date":"2026-08-03","realMoneyFlow":1000000}
 {"regNo":"fundbase:هامون","date":"2026-08-03","realMoneyFlow":16000000}
 {"regNo":"fundbase:هم ارز","date":"2026-08-03","realMoneyFlow":11000000}
 {"regNo":"fundbase:هم تراز","date":"2026-08-03","realMoneyFlow":223000000}
@@ -23715,6 +23831,7 @@
 {"regNo":"fundbase:نمک","date":"2026-08-05","realMoneyFlow":-84000000}
 {"regNo":"fundbase:نهال","date":"2026-08-05","realMoneyFlow":-134000000}
 {"regNo":"fundbase:نیروانا","date":"2026-08-05","realMoneyFlow":13000000}
+{"regNo":"fundbase:نیلی","date":"2026-08-05","realMoneyFlow":-7000000}
 {"regNo":"fundbase:هامون","date":"2026-08-05","realMoneyFlow":134000000}
 {"regNo":"fundbase:هم ارز","date":"2026-08-05","realMoneyFlow":67000000}
 {"regNo":"fundbase:هم تراز","date":"2026-08-05","realMoneyFlow":53000000}
@@ -23994,6 +24111,7 @@
 {"regNo":"fundbase:نمک","date":"2026-08-08","realMoneyFlow":49000000}
 {"regNo":"fundbase:نهال","date":"2026-08-08","realMoneyFlow":-11000000}
 {"regNo":"fundbase:نیروانا","date":"2026-08-08","realMoneyFlow":5000000}
+{"regNo":"fundbase:نیلی","date":"2026-08-08","realMoneyFlow":8000000}
 {"regNo":"fundbase:هامون","date":"2026-08-08","realMoneyFlow":92000000}
 {"regNo":"fundbase:هم ارز","date":"2026-08-08","realMoneyFlow":50000000}
 {"regNo":"fundbase:هم تراز","date":"2026-08-08","realMoneyFlow":139000000}
@@ -24276,6 +24394,7 @@
 {"regNo":"fundbase:نمک","date":"2026-08-09","realMoneyFlow":-36000000}
 {"regNo":"fundbase:نهال","date":"2026-08-09","realMoneyFlow":-45000000}
 {"regNo":"fundbase:نیروانا","date":"2026-08-09","realMoneyFlow":-12000000}
+{"regNo":"fundbase:نیلی","date":"2026-08-09","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-08-09","realMoneyFlow":-134000000}
 {"regNo":"fundbase:هم ارز","date":"2026-08-09","realMoneyFlow":-2000000}
 {"regNo":"fundbase:هم تراز","date":"2026-08-09","realMoneyFlow":-188000000}
@@ -24556,6 +24675,7 @@
 {"regNo":"fundbase:نمک","date":"2026-08-10","realMoneyFlow":60000000}
 {"regNo":"fundbase:نهال","date":"2026-08-10","realMoneyFlow":31000000}
 {"regNo":"fundbase:نیروانا","date":"2026-08-10","realMoneyFlow":42000000}
+{"regNo":"fundbase:نیلی","date":"2026-08-10","realMoneyFlow":6000000}
 {"regNo":"fundbase:هامون","date":"2026-08-10","realMoneyFlow":-8000000}
 {"regNo":"fundbase:هم ارز","date":"2026-08-10","realMoneyFlow":5000000}
 {"regNo":"fundbase:هم تراز","date":"2026-08-10","realMoneyFlow":-238000000}
@@ -24836,6 +24956,7 @@
 {"regNo":"fundbase:نمک","date":"2026-08-11","realMoneyFlow":38000000}
 {"regNo":"fundbase:نهال","date":"2026-08-11","realMoneyFlow":-86000000}
 {"regNo":"fundbase:نیروانا","date":"2026-08-11","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-08-11","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هامون","date":"2026-08-11","realMoneyFlow":-78000000}
 {"regNo":"fundbase:هم ارز","date":"2026-08-11","realMoneyFlow":-3000000}
 {"regNo":"fundbase:هم تراز","date":"2026-08-11","realMoneyFlow":-106000000}
@@ -25115,6 +25236,7 @@
 {"regNo":"fundbase:نمک","date":"2026-08-15","realMoneyFlow":10000000}
 {"regNo":"fundbase:نهال","date":"2026-08-15","realMoneyFlow":27000000}
 {"regNo":"fundbase:نیروانا","date":"2026-08-15","realMoneyFlow":-13000000}
+{"regNo":"fundbase:نیلی","date":"2026-08-15","realMoneyFlow":-2000000}
 {"regNo":"fundbase:هامون","date":"2026-08-15","realMoneyFlow":-8000000}
 {"regNo":"fundbase:هم ارز","date":"2026-08-15","realMoneyFlow":-34000000}
 {"regNo":"fundbase:هم تراز","date":"2026-08-15","realMoneyFlow":-212000000}
@@ -25396,6 +25518,7 @@
 {"regNo":"fundbase:نمک","date":"2026-08-16","realMoneyFlow":119000000}
 {"regNo":"fundbase:نهال","date":"2026-08-16","realMoneyFlow":405000000}
 {"regNo":"fundbase:نیروانا","date":"2026-08-16","realMoneyFlow":13000000}
+{"regNo":"fundbase:نیلی","date":"2026-08-16","realMoneyFlow":2000000}
 {"regNo":"fundbase:هامون","date":"2026-08-16","realMoneyFlow":-11000000}
 {"regNo":"fundbase:هم ارز","date":"2026-08-16","realMoneyFlow":-14000000}
 {"regNo":"fundbase:هم تراز","date":"2026-08-16","realMoneyFlow":-113000000}
@@ -25676,6 +25799,7 @@
 {"regNo":"fundbase:نمک","date":"2026-08-17","realMoneyFlow":16000000}
 {"regNo":"fundbase:نهال","date":"2026-08-17","realMoneyFlow":1246000000}
 {"regNo":"fundbase:نیروانا","date":"2026-08-17","realMoneyFlow":3000000}
+{"regNo":"fundbase:نیلی","date":"2026-08-17","realMoneyFlow":7000000}
 {"regNo":"fundbase:هامون","date":"2026-08-17","realMoneyFlow":-24000000}
 {"regNo":"fundbase:هم ارز","date":"2026-08-17","realMoneyFlow":-5000000}
 {"regNo":"fundbase:هم تراز","date":"2026-08-17","realMoneyFlow":199000000}
@@ -25956,6 +26080,7 @@
 {"regNo":"fundbase:نمک","date":"2026-08-18","realMoneyFlow":-324000000}
 {"regNo":"fundbase:نهال","date":"2026-08-18","realMoneyFlow":82000000}
 {"regNo":"fundbase:نیروانا","date":"2026-08-18","realMoneyFlow":56000000}
+{"regNo":"fundbase:نیلی","date":"2026-08-18","realMoneyFlow":3000000}
 {"regNo":"fundbase:هامون","date":"2026-08-18","realMoneyFlow":-8000000}
 {"regNo":"fundbase:هم ارز","date":"2026-08-18","realMoneyFlow":-10000000}
 {"regNo":"fundbase:هم تراز","date":"2026-08-18","realMoneyFlow":-118000000}
@@ -26237,6 +26362,7 @@
 {"regNo":"fundbase:نمک","date":"2026-08-19","realMoneyFlow":-108000000}
 {"regNo":"fundbase:نهال","date":"2026-08-19","realMoneyFlow":1913000000}
 {"regNo":"fundbase:نیروانا","date":"2026-08-19","realMoneyFlow":-7000000}
+{"regNo":"fundbase:نیلی","date":"2026-08-19","realMoneyFlow":4000000}
 {"regNo":"fundbase:هامون","date":"2026-08-19","realMoneyFlow":-5000000}
 {"regNo":"fundbase:هم ارز","date":"2026-08-19","realMoneyFlow":-4000000}
 {"regNo":"fundbase:هم تراز","date":"2026-08-19","realMoneyFlow":-250000000}
@@ -26517,6 +26643,7 @@
 {"regNo":"fundbase:نمک","date":"2026-08-22","realMoneyFlow":18000000}
 {"regNo":"fundbase:نهال","date":"2026-08-22","realMoneyFlow":892000000}
 {"regNo":"fundbase:نیروانا","date":"2026-08-22","realMoneyFlow":-17000000}
+{"regNo":"fundbase:نیلی","date":"2026-08-22","realMoneyFlow":6000000}
 {"regNo":"fundbase:هامون","date":"2026-08-22","realMoneyFlow":19000000}
 {"regNo":"fundbase:هم ارز","date":"2026-08-22","realMoneyFlow":0}
 {"regNo":"fundbase:هم تراز","date":"2026-08-22","realMoneyFlow":11000000}
@@ -26796,6 +26923,7 @@
 {"regNo":"fundbase:نمک","date":"2026-08-23","realMoneyFlow":-221000000}
 {"regNo":"fundbase:نهال","date":"2026-08-23","realMoneyFlow":118000000}
 {"regNo":"fundbase:نیروانا","date":"2026-08-23","realMoneyFlow":27000000}
+{"regNo":"fundbase:نیلی","date":"2026-08-23","realMoneyFlow":-17000000}
 {"regNo":"fundbase:هامون","date":"2026-08-23","realMoneyFlow":-38000000}
 {"regNo":"fundbase:هم ارز","date":"2026-08-23","realMoneyFlow":-8000000}
 {"regNo":"fundbase:هم تراز","date":"2026-08-23","realMoneyFlow":-113000000}
@@ -27078,6 +27206,7 @@
 {"regNo":"fundbase:نمک","date":"2026-08-24","realMoneyFlow":-112000000}
 {"regNo":"fundbase:نهال","date":"2026-08-24","realMoneyFlow":46000000}
 {"regNo":"fundbase:نیروانا","date":"2026-08-24","realMoneyFlow":-42000000}
+{"regNo":"fundbase:نیلی","date":"2026-08-24","realMoneyFlow":30000000}
 {"regNo":"fundbase:هامون","date":"2026-08-24","realMoneyFlow":-7000000}
 {"regNo":"fundbase:هم ارز","date":"2026-08-24","realMoneyFlow":-10000000}
 {"regNo":"fundbase:هم تراز","date":"2026-08-24","realMoneyFlow":-173000000}
@@ -27359,6 +27488,7 @@
 {"regNo":"fundbase:نمک","date":"2026-08-25","realMoneyFlow":44000000}
 {"regNo":"fundbase:نهال","date":"2026-08-25","realMoneyFlow":47000000}
 {"regNo":"fundbase:نیروانا","date":"2026-08-25","realMoneyFlow":19000000}
+{"regNo":"fundbase:نیلی","date":"2026-08-25","realMoneyFlow":14000000}
 {"regNo":"fundbase:هامون","date":"2026-08-25","realMoneyFlow":2000000}
 {"regNo":"fundbase:هم ارز","date":"2026-08-25","realMoneyFlow":-2000000}
 {"regNo":"fundbase:هم تراز","date":"2026-08-25","realMoneyFlow":-16000000}
@@ -27641,6 +27771,7 @@
 {"regNo":"fundbase:نمک","date":"2026-08-26","realMoneyFlow":248000000}
 {"regNo":"fundbase:نهال","date":"2026-08-26","realMoneyFlow":138000000}
 {"regNo":"fundbase:نیروانا","date":"2026-08-26","realMoneyFlow":-13000000}
+{"regNo":"fundbase:نیلی","date":"2026-08-26","realMoneyFlow":5000000}
 {"regNo":"fundbase:هامون","date":"2026-08-26","realMoneyFlow":27000000}
 {"regNo":"fundbase:هم ارز","date":"2026-08-26","realMoneyFlow":6000000}
 {"regNo":"fundbase:هم تراز","date":"2026-08-26","realMoneyFlow":-57000000}
@@ -27926,6 +28057,7 @@
 {"regNo":"fundbase:نمک","date":"2026-08-29","realMoneyFlow":73000000}
 {"regNo":"fundbase:نهال","date":"2026-08-29","realMoneyFlow":107000000}
 {"regNo":"fundbase:نیروانا","date":"2026-08-29","realMoneyFlow":-51000000}
+{"regNo":"fundbase:نیلی","date":"2026-08-29","realMoneyFlow":36000000}
 {"regNo":"fundbase:هامون","date":"2026-08-29","realMoneyFlow":5000000}
 {"regNo":"fundbase:هم ارز","date":"2026-08-29","realMoneyFlow":4000000}
 {"regNo":"fundbase:هم تراز","date":"2026-08-29","realMoneyFlow":-72000000}
@@ -28211,6 +28343,7 @@
 {"regNo":"fundbase:نمک","date":"2026-08-31","realMoneyFlow":76000000}
 {"regNo":"fundbase:نهال","date":"2026-08-31","realMoneyFlow":12000000}
 {"regNo":"fundbase:نیروانا","date":"2026-08-31","realMoneyFlow":-51000000}
+{"regNo":"fundbase:نیلی","date":"2026-08-31","realMoneyFlow":-29000000}
 {"regNo":"fundbase:هامون","date":"2026-08-31","realMoneyFlow":-2000000}
 {"regNo":"fundbase:هم ارز","date":"2026-08-31","realMoneyFlow":-5000000}
 {"regNo":"fundbase:هم تراز","date":"2026-08-31","realMoneyFlow":-192000000}
@@ -28497,6 +28630,7 @@
 {"regNo":"fundbase:نمک","date":"2026-09-01","realMoneyFlow":-43000000}
 {"regNo":"fundbase:نهال","date":"2026-09-01","realMoneyFlow":-22000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-01","realMoneyFlow":-33000000}
+{"regNo":"fundbase:نیلی","date":"2026-09-01","realMoneyFlow":1000000}
 {"regNo":"fundbase:هامون","date":"2026-09-01","realMoneyFlow":20000000}
 {"regNo":"fundbase:هم ارز","date":"2026-09-01","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-01","realMoneyFlow":-194000000}
@@ -28782,6 +28916,7 @@
 {"regNo":"fundbase:نمک","date":"2026-09-02","realMoneyFlow":-14000000}
 {"regNo":"fundbase:نهال","date":"2026-09-02","realMoneyFlow":38000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-02","realMoneyFlow":-27000000}
+{"regNo":"fundbase:نیلی","date":"2026-09-02","realMoneyFlow":4000000}
 {"regNo":"fundbase:هامون","date":"2026-09-02","realMoneyFlow":-15000000}
 {"regNo":"fundbase:هم ارز","date":"2026-09-02","realMoneyFlow":-16000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-02","realMoneyFlow":-53000000}
@@ -29067,6 +29202,7 @@
 {"regNo":"fundbase:نهال","date":"2026-09-05","realMoneyFlow":40000000}
 {"regNo":"fundbase:نوید","date":"2026-09-05","realMoneyFlow":187000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-05","realMoneyFlow":-23000000}
+{"regNo":"fundbase:نیلی","date":"2026-09-05","realMoneyFlow":11000000}
 {"regNo":"fundbase:هامون","date":"2026-09-05","realMoneyFlow":91000000}
 {"regNo":"fundbase:هم ارز","date":"2026-09-05","realMoneyFlow":5000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-05","realMoneyFlow":-105000000}
@@ -29356,6 +29492,7 @@
 {"regNo":"fundbase:نهال","date":"2026-09-06","realMoneyFlow":-16000000}
 {"regNo":"fundbase:نوید","date":"2026-09-06","realMoneyFlow":103000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-06","realMoneyFlow":-10000000}
+{"regNo":"fundbase:نیلی","date":"2026-09-06","realMoneyFlow":10000000}
 {"regNo":"fundbase:هامون","date":"2026-09-06","realMoneyFlow":-34000000}
 {"regNo":"fundbase:هم ارز","date":"2026-09-06","realMoneyFlow":0}
 {"regNo":"fundbase:هم تراز","date":"2026-09-06","realMoneyFlow":-136000000}
@@ -29643,6 +29780,7 @@
 {"regNo":"fundbase:نمک","date":"2026-09-07","realMoneyFlow":44000000}
 {"regNo":"fundbase:نهال","date":"2026-09-07","realMoneyFlow":384000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-07","realMoneyFlow":-1000000}
+{"regNo":"fundbase:نیلی","date":"2026-09-07","realMoneyFlow":14000000}
 {"regNo":"fundbase:هامون","date":"2026-09-07","realMoneyFlow":798000000}
 {"regNo":"fundbase:هم ارز","date":"2026-09-07","realMoneyFlow":15000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-07","realMoneyFlow":77000000}
@@ -29931,6 +30069,7 @@
 {"regNo":"fundbase:نمک","date":"2026-09-08","realMoneyFlow":407000000}
 {"regNo":"fundbase:نهال","date":"2026-09-08","realMoneyFlow":334000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-08","realMoneyFlow":-1000000}
+{"regNo":"fundbase:نیلی","date":"2026-09-08","realMoneyFlow":133000000}
 {"regNo":"fundbase:هامون","date":"2026-09-08","realMoneyFlow":-210000000}
 {"regNo":"fundbase:هم ارز","date":"2026-09-08","realMoneyFlow":2000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-08","realMoneyFlow":2000000}
@@ -30218,6 +30357,7 @@
 {"regNo":"fundbase:نمک","date":"2026-09-09","realMoneyFlow":-236000000}
 {"regNo":"fundbase:نهال","date":"2026-09-09","realMoneyFlow":243000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-09","realMoneyFlow":-5000000}
+{"regNo":"fundbase:نیلی","date":"2026-09-09","realMoneyFlow":16000000}
 {"regNo":"fundbase:هامون","date":"2026-09-09","realMoneyFlow":-348000000}
 {"regNo":"fundbase:هم ارز","date":"2026-09-09","realMoneyFlow":8000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-09","realMoneyFlow":-189000000}
@@ -30509,6 +30649,7 @@
 {"regNo":"fundbase:نمک","date":"2026-09-12","realMoneyFlow":440000000}
 {"regNo":"fundbase:نهال","date":"2026-09-12","realMoneyFlow":276000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-12","realMoneyFlow":3000000}
+{"regNo":"fundbase:نیلی","date":"2026-09-12","realMoneyFlow":3000000}
 {"regNo":"fundbase:هامون","date":"2026-09-12","realMoneyFlow":5000000}
 {"regNo":"fundbase:هم ارز","date":"2026-09-12","realMoneyFlow":30000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-12","realMoneyFlow":-114000000}
@@ -30806,6 +30947,7 @@
 {"regNo":"fundbase:نمک","date":"2026-09-13","realMoneyFlow":-48000000}
 {"regNo":"fundbase:نهال","date":"2026-09-13","realMoneyFlow":144000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-13","realMoneyFlow":7000000}
+{"regNo":"fundbase:نیلی","date":"2026-09-13","realMoneyFlow":7000000}
 {"regNo":"fundbase:هامون","date":"2026-09-13","realMoneyFlow":-136000000}
 {"regNo":"fundbase:هم ارز","date":"2026-09-13","realMoneyFlow":5000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-13","realMoneyFlow":6000000}
@@ -31098,6 +31240,7 @@
 {"regNo":"fundbase:نمک","date":"2026-09-14","realMoneyFlow":-236000000}
 {"regNo":"fundbase:نهال","date":"2026-09-14","realMoneyFlow":92000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-14","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-09-14","realMoneyFlow":0}
 {"regNo":"fundbase:هامون","date":"2026-09-14","realMoneyFlow":-65000000}
 {"regNo":"fundbase:هم ارز","date":"2026-09-14","realMoneyFlow":-4000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-14","realMoneyFlow":5000000}
@@ -31390,6 +31533,7 @@
 {"regNo":"fundbase:نمک","date":"2026-09-15","realMoneyFlow":-58000000}
 {"regNo":"fundbase:نهال","date":"2026-09-15","realMoneyFlow":87000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-15","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-09-15","realMoneyFlow":-2000000}
 {"regNo":"fundbase:هامون","date":"2026-09-15","realMoneyFlow":255000000}
 {"regNo":"fundbase:هم ارز","date":"2026-09-15","realMoneyFlow":-2000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-15","realMoneyFlow":-121000000}
@@ -31681,6 +31825,7 @@
 {"regNo":"fundbase:نمک","date":"2026-09-16","realMoneyFlow":18000000}
 {"regNo":"fundbase:نهال","date":"2026-09-16","realMoneyFlow":49000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-16","realMoneyFlow":-55000000}
+{"regNo":"fundbase:نیلی","date":"2026-09-16","realMoneyFlow":5000000}
 {"regNo":"fundbase:هامون","date":"2026-09-16","realMoneyFlow":-101000000}
 {"regNo":"fundbase:هم ارز","date":"2026-09-16","realMoneyFlow":-7000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-16","realMoneyFlow":-114000000}
@@ -31974,6 +32119,7 @@
 {"regNo":"fundbase:نمک","date":"2026-09-19","realMoneyFlow":-71000000}
 {"regNo":"fundbase:نهال","date":"2026-09-19","realMoneyFlow":103000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-19","realMoneyFlow":-7000000}
+{"regNo":"fundbase:نیلی","date":"2026-09-19","realMoneyFlow":19000000}
 {"regNo":"fundbase:هامون","date":"2026-09-19","realMoneyFlow":-118000000}
 {"regNo":"fundbase:هم ارز","date":"2026-09-19","realMoneyFlow":-21000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-19","realMoneyFlow":-43000000}
@@ -32266,6 +32412,7 @@
 {"regNo":"fundbase:نمک","date":"2026-09-20","realMoneyFlow":-71000000}
 {"regNo":"fundbase:نهال","date":"2026-09-20","realMoneyFlow":404000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-20","realMoneyFlow":-16000000}
+{"regNo":"fundbase:نیلی","date":"2026-09-20","realMoneyFlow":-3000000}
 {"regNo":"fundbase:هامون","date":"2026-09-20","realMoneyFlow":-52000000}
 {"regNo":"fundbase:هم ارز","date":"2026-09-20","realMoneyFlow":-15000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-20","realMoneyFlow":-44000000}
@@ -32559,6 +32706,7 @@
 {"regNo":"fundbase:نمک","date":"2026-09-21","realMoneyFlow":-210000000}
 {"regNo":"fundbase:نهال","date":"2026-09-21","realMoneyFlow":268000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-21","realMoneyFlow":-8000000}
+{"regNo":"fundbase:نیلی","date":"2026-09-21","realMoneyFlow":4000000}
 {"regNo":"fundbase:هامون","date":"2026-09-21","realMoneyFlow":-5000000}
 {"regNo":"fundbase:هم ارز","date":"2026-09-21","realMoneyFlow":-3000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-21","realMoneyFlow":-18000000}
@@ -32852,6 +33000,7 @@
 {"regNo":"fundbase:نهال","date":"2026-09-22","realMoneyFlow":38000000}
 {"regNo":"fundbase:نوید","date":"2026-09-22","realMoneyFlow":6000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-22","realMoneyFlow":-14000000}
+{"regNo":"fundbase:نیلی","date":"2026-09-22","realMoneyFlow":-2000000}
 {"regNo":"fundbase:هامون","date":"2026-09-22","realMoneyFlow":-9000000}
 {"regNo":"fundbase:هم ارز","date":"2026-09-22","realMoneyFlow":-5000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-22","realMoneyFlow":-43000000}
@@ -33145,6 +33294,7 @@
 {"regNo":"fundbase:نهال","date":"2026-09-23","realMoneyFlow":6000000}
 {"regNo":"fundbase:نوید","date":"2026-09-23","realMoneyFlow":136000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-23","realMoneyFlow":-5000000}
+{"regNo":"fundbase:نیلی","date":"2026-09-23","realMoneyFlow":10000000}
 {"regNo":"fundbase:هامون","date":"2026-09-23","realMoneyFlow":47000000}
 {"regNo":"fundbase:هم ارز","date":"2026-09-23","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-23","realMoneyFlow":-10000000}
@@ -33436,6 +33586,7 @@
 {"regNo":"fundbase:نمک","date":"2026-09-26","realMoneyFlow":-86000000}
 {"regNo":"fundbase:نهال","date":"2026-09-26","realMoneyFlow":236000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-26","realMoneyFlow":1000000}
+{"regNo":"fundbase:نیلی","date":"2026-09-26","realMoneyFlow":8000000}
 {"regNo":"fundbase:هامون","date":"2026-09-26","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هم ارز","date":"2026-09-26","realMoneyFlow":9000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-26","realMoneyFlow":-12000000}
@@ -33449,6 +33600,7 @@
 {"regNo":"fundbase:هیبرید","date":"2026-09-26","realMoneyFlow":53000000}
 {"regNo":"fundbase:هیوا","date":"2026-09-26","realMoneyFlow":0}
 {"regNo":"fundbase:وبازار","date":"2026-09-26","realMoneyFlow":-6000000}
+{"regNo":"fundbase:ولتاژ","date":"2026-09-26","realMoneyFlow":-18000000}
 {"regNo":"fundbase:ویستا","date":"2026-09-26","realMoneyFlow":-5000000}
 {"regNo":"fundbase:یاس","date":"2026-09-26","realMoneyFlow":-58000000}
 {"regNo":"fundbase:یلدا","date":"2026-09-26","realMoneyFlow":-1000000}
@@ -33720,6 +33872,7 @@
 {"regNo":"fundbase:نمک","date":"2026-09-27","realMoneyFlow":65000000}
 {"regNo":"fundbase:نهال","date":"2026-09-27","realMoneyFlow":115000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-27","realMoneyFlow":-3000000}
+{"regNo":"fundbase:نیلی","date":"2026-09-27","realMoneyFlow":2000000}
 {"regNo":"fundbase:هامون","date":"2026-09-27","realMoneyFlow":235000000}
 {"regNo":"fundbase:هم ارز","date":"2026-09-27","realMoneyFlow":12000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-27","realMoneyFlow":140000000}
@@ -33733,6 +33886,7 @@
 {"regNo":"fundbase:هیبرید","date":"2026-09-27","realMoneyFlow":13000000}
 {"regNo":"fundbase:هیوا","date":"2026-09-27","realMoneyFlow":0}
 {"regNo":"fundbase:وبازار","date":"2026-09-27","realMoneyFlow":-2000000}
+{"regNo":"fundbase:ولتاژ","date":"2026-09-27","realMoneyFlow":-16000000}
 {"regNo":"fundbase:ویستا","date":"2026-09-27","realMoneyFlow":5000000}
 {"regNo":"fundbase:یاس","date":"2026-09-27","realMoneyFlow":-62000000}
 {"regNo":"fundbase:یلدا","date":"2026-09-27","realMoneyFlow":0}
@@ -34005,13 +34159,17 @@
 {"regNo":"fundbase:نمک","date":"2026-09-28","realMoneyFlow":348000000}
 {"regNo":"fundbase:نهال","date":"2026-09-28","realMoneyFlow":-25000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-28","realMoneyFlow":-7000000}
+{"regNo":"fundbase:نیلی","date":"2026-09-28","realMoneyFlow":6000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-28","realMoneyFlow":431000000}
 {"regNo":"fundbase:هم وزن","date":"2026-09-28","realMoneyFlow":235000000}
 {"regNo":"fundbase:همسنگ","date":"2026-09-28","realMoneyFlow":340000000}
+{"regNo":"fundbase:همیان","date":"2026-09-28","realMoneyFlow":-51000000}
 {"regNo":"fundbase:هوشمند","date":"2026-09-28","realMoneyFlow":8000000}
 {"regNo":"fundbase:هوشیار","date":"2026-09-28","realMoneyFlow":3000000}
 {"regNo":"fundbase:هیبرید","date":"2026-09-28","realMoneyFlow":31000000}
+{"regNo":"fundbase:هیوا","date":"2026-09-28","realMoneyFlow":0}
 {"regNo":"fundbase:وبازار","date":"2026-09-28","realMoneyFlow":20000000}
+{"regNo":"fundbase:ولتاژ","date":"2026-09-28","realMoneyFlow":-6000000}
 {"regNo":"fundbase:یاس","date":"2026-09-28","realMoneyFlow":-148000000}
 {"regNo":"fundbase:آتیمس","date":"2026-09-29","realMoneyFlow":18000000}
 {"regNo":"fundbase:آذرین","date":"2026-09-29","realMoneyFlow":273000000}
@@ -34277,13 +34435,17 @@
 {"regNo":"fundbase:نمک","date":"2026-09-29","realMoneyFlow":13000000}
 {"regNo":"fundbase:نهال","date":"2026-09-29","realMoneyFlow":-238000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-29","realMoneyFlow":0}
+{"regNo":"fundbase:نیلی","date":"2026-09-29","realMoneyFlow":-3000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-29","realMoneyFlow":-85000000}
 {"regNo":"fundbase:هم وزن","date":"2026-09-29","realMoneyFlow":99000000}
 {"regNo":"fundbase:همسنگ","date":"2026-09-29","realMoneyFlow":233000000}
+{"regNo":"fundbase:همیان","date":"2026-09-29","realMoneyFlow":33000000}
 {"regNo":"fundbase:هوشمند","date":"2026-09-29","realMoneyFlow":-9000000}
 {"regNo":"fundbase:هوشیار","date":"2026-09-29","realMoneyFlow":5000000}
 {"regNo":"fundbase:هیبرید","date":"2026-09-29","realMoneyFlow":-23000000}
+{"regNo":"fundbase:هیوا","date":"2026-09-29","realMoneyFlow":2000000}
 {"regNo":"fundbase:وبازار","date":"2026-09-29","realMoneyFlow":-7000000}
+{"regNo":"fundbase:ولتاژ","date":"2026-09-29","realMoneyFlow":-19000000}
 {"regNo":"fundbase:یاس","date":"2026-09-29","realMoneyFlow":-86000000}
 {"regNo":"fundbase:آتیمس","date":"2026-09-30","realMoneyFlow":8000000}
 {"regNo":"fundbase:آذرین","date":"2026-09-30","realMoneyFlow":98000000}
@@ -34542,13 +34704,17 @@
 {"regNo":"fundbase:نمک","date":"2026-09-30","realMoneyFlow":-176000000}
 {"regNo":"fundbase:نهال","date":"2026-09-30","realMoneyFlow":-6000000}
 {"regNo":"fundbase:نیروانا","date":"2026-09-30","realMoneyFlow":13000000}
+{"regNo":"fundbase:نیلی","date":"2026-09-30","realMoneyFlow":-3000000}
 {"regNo":"fundbase:هم تراز","date":"2026-09-30","realMoneyFlow":-214000000}
 {"regNo":"fundbase:هم وزن","date":"2026-09-30","realMoneyFlow":-125000000}
 {"regNo":"fundbase:همسنگ","date":"2026-09-30","realMoneyFlow":286000000}
+{"regNo":"fundbase:همیان","date":"2026-09-30","realMoneyFlow":-72000000}
 {"regNo":"fundbase:هوشمند","date":"2026-09-30","realMoneyFlow":17000000}
 {"regNo":"fundbase:هوشیار","date":"2026-09-30","realMoneyFlow":3000000}
 {"regNo":"fundbase:هیبرید","date":"2026-09-30","realMoneyFlow":-12000000}
+{"regNo":"fundbase:هیوا","date":"2026-09-30","realMoneyFlow":0}
 {"regNo":"fundbase:وبازار","date":"2026-09-30","realMoneyFlow":7000000}
+{"regNo":"fundbase:ولتاژ","date":"2026-09-30","realMoneyFlow":105000000}
 {"regNo":"fundbase:یاس","date":"2026-09-30","realMoneyFlow":-198000000}
 {"regNo":"fundbase:آتیمس","date":"2026-10-03","realMoneyFlow":8000000}
 {"regNo":"fundbase:آذرین","date":"2026-10-03","realMoneyFlow":-238000000}
@@ -34804,13 +34970,17 @@
 {"regNo":"fundbase:نمک","date":"2026-10-03","realMoneyFlow":-91000000}
 {"regNo":"fundbase:نهال","date":"2026-10-03","realMoneyFlow":-118000000}
 {"regNo":"fundbase:نیروانا","date":"2026-10-03","realMoneyFlow":-17000000}
+{"regNo":"fundbase:نیلی","date":"2026-10-03","realMoneyFlow":6000000}
 {"regNo":"fundbase:هم تراز","date":"2026-10-03","realMoneyFlow":-56000000}
 {"regNo":"fundbase:هم وزن","date":"2026-10-03","realMoneyFlow":-72000000}
 {"regNo":"fundbase:همسنگ","date":"2026-10-03","realMoneyFlow":22000000}
+{"regNo":"fundbase:همیان","date":"2026-10-03","realMoneyFlow":283000000}
 {"regNo":"fundbase:هوشمند","date":"2026-10-03","realMoneyFlow":-2000000}
 {"regNo":"fundbase:هوشیار","date":"2026-10-03","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هیبرید","date":"2026-10-03","realMoneyFlow":13000000}
+{"regNo":"fundbase:هیوا","date":"2026-10-03","realMoneyFlow":0}
 {"regNo":"fundbase:وبازار","date":"2026-10-03","realMoneyFlow":-2000000}
+{"regNo":"fundbase:ولتاژ","date":"2026-10-03","realMoneyFlow":-28000000}
 {"regNo":"fundbase:یاس","date":"2026-10-03","realMoneyFlow":233000000}
 {"regNo":"fundbase:آتیمس","date":"2026-10-04","realMoneyFlow":-2000000}
 {"regNo":"fundbase:آذرین","date":"2026-10-04","realMoneyFlow":-89000000}
@@ -35064,13 +35234,17 @@
 {"regNo":"fundbase:نمک","date":"2026-10-04","realMoneyFlow":-90000000}
 {"regNo":"fundbase:نهال","date":"2026-10-04","realMoneyFlow":306000000}
 {"regNo":"fundbase:نیروانا","date":"2026-10-04","realMoneyFlow":1000000}
+{"regNo":"fundbase:نیلی","date":"2026-10-04","realMoneyFlow":8000000}
 {"regNo":"fundbase:هم تراز","date":"2026-10-04","realMoneyFlow":-59000000}
 {"regNo":"fundbase:هم وزن","date":"2026-10-04","realMoneyFlow":-101000000}
 {"regNo":"fundbase:همسنگ","date":"2026-10-04","realMoneyFlow":-212000000}
+{"regNo":"fundbase:همیان","date":"2026-10-04","realMoneyFlow":-228000000}
 {"regNo":"fundbase:هوشمند","date":"2026-10-04","realMoneyFlow":-4000000}
 {"regNo":"fundbase:هوشیار","date":"2026-10-04","realMoneyFlow":-4000000}
 {"regNo":"fundbase:هیبرید","date":"2026-10-04","realMoneyFlow":88000000}
+{"regNo":"fundbase:هیوا","date":"2026-10-04","realMoneyFlow":0}
 {"regNo":"fundbase:وبازار","date":"2026-10-04","realMoneyFlow":-3000000}
+{"regNo":"fundbase:ولتاژ","date":"2026-10-04","realMoneyFlow":-24000000}
 {"regNo":"fundbase:یاس","date":"2026-10-04","realMoneyFlow":-354000000}
 {"regNo":"fundbase:آتیمس","date":"2026-10-05","realMoneyFlow":-2000000}
 {"regNo":"fundbase:آذرین","date":"2026-10-05","realMoneyFlow":69000000}
@@ -35305,13 +35479,17 @@
 {"regNo":"fundbase:نمک","date":"2026-10-05","realMoneyFlow":-15000000}
 {"regNo":"fundbase:نهال","date":"2026-10-05","realMoneyFlow":2000000}
 {"regNo":"fundbase:نیروانا","date":"2026-10-05","realMoneyFlow":2000000}
+{"regNo":"fundbase:نیلی","date":"2026-10-05","realMoneyFlow":-14000000}
 {"regNo":"fundbase:هم تراز","date":"2026-10-05","realMoneyFlow":-57000000}
 {"regNo":"fundbase:هم وزن","date":"2026-10-05","realMoneyFlow":-37000000}
 {"regNo":"fundbase:همسنگ","date":"2026-10-05","realMoneyFlow":-144000000}
+{"regNo":"fundbase:همیان","date":"2026-10-05","realMoneyFlow":-30000000}
 {"regNo":"fundbase:هوشمند","date":"2026-10-05","realMoneyFlow":-5000000}
 {"regNo":"fundbase:هوشیار","date":"2026-10-05","realMoneyFlow":-1000000}
 {"regNo":"fundbase:هیبرید","date":"2026-10-05","realMoneyFlow":229000000}
+{"regNo":"fundbase:هیوا","date":"2026-10-05","realMoneyFlow":0}
 {"regNo":"fundbase:وبازار","date":"2026-10-05","realMoneyFlow":-2000000}
+{"regNo":"fundbase:ولتاژ","date":"2026-10-05","realMoneyFlow":-33000000}
 {"regNo":"fundbase:یاس","date":"2026-10-05","realMoneyFlow":32000000}
 {"regNo":"fundbase:آتیمس","date":"2026-10-06","realMoneyFlow":23000000}
 {"regNo":"fundbase:آذرین","date":"2026-10-06","realMoneyFlow":478000000}
@@ -35518,13 +35696,17 @@
 {"regNo":"fundbase:نمک","date":"2026-10-06","realMoneyFlow":95000000}
 {"regNo":"fundbase:نهال","date":"2026-10-06","realMoneyFlow":-355000000}
 {"regNo":"fundbase:نیروانا","date":"2026-10-06","realMoneyFlow":60000000}
+{"regNo":"fundbase:نیلی","date":"2026-10-06","realMoneyFlow":7000000}
 {"regNo":"fundbase:هم تراز","date":"2026-10-06","realMoneyFlow":194000000}
 {"regNo":"fundbase:هم وزن","date":"2026-10-06","realMoneyFlow":70000000}
 {"regNo":"fundbase:همسنگ","date":"2026-10-06","realMoneyFlow":104000000}
+{"regNo":"fundbase:همیان","date":"2026-10-06","realMoneyFlow":76000000}
 {"regNo":"fundbase:هوشمند","date":"2026-10-06","realMoneyFlow":11000000}
 {"regNo":"fundbase:هوشیار","date":"2026-10-06","realMoneyFlow":13000000}
 {"regNo":"fundbase:هیبرید","date":"2026-10-06","realMoneyFlow":58000000}
+{"regNo":"fundbase:هیوا","date":"2026-10-06","realMoneyFlow":6000000}
 {"regNo":"fundbase:وبازار","date":"2026-10-06","realMoneyFlow":11000000}
+{"regNo":"fundbase:ولتاژ","date":"2026-10-06","realMoneyFlow":-25000000}
 {"regNo":"fundbase:یاس","date":"2026-10-06","realMoneyFlow":75000000}
 {"regNo":"fundbase:آتیمس","date":"2026-10-07","realMoneyFlow":25000000}
 {"regNo":"fundbase:آذرین","date":"2026-10-07","realMoneyFlow":482000000}
@@ -35719,13 +35901,17 @@
 {"regNo":"fundbase:نمک","date":"2026-10-07","realMoneyFlow":50000000}
 {"regNo":"fundbase:نهال","date":"2026-10-07","realMoneyFlow":-36000000}
 {"regNo":"fundbase:نیروانا","date":"2026-10-07","realMoneyFlow":-14000000}
+{"regNo":"fundbase:نیلی","date":"2026-10-07","realMoneyFlow":106000000}
 {"regNo":"fundbase:هم تراز","date":"2026-10-07","realMoneyFlow":-102000000}
 {"regNo":"fundbase:هم وزن","date":"2026-10-07","realMoneyFlow":92000000}
-{"regNo":"fundbase:همسنگ","date":"2026-10-07","realMoneyFlow":931000000}
+{"regNo":"fundbase:همسنگ","date":"2026-10-07","realMoneyFlow":935000000}
+{"regNo":"fundbase:همیان","date":"2026-10-07","realMoneyFlow":-8000000}
 {"regNo":"fundbase:هوشمند","date":"2026-10-07","realMoneyFlow":5000000}
 {"regNo":"fundbase:هوشیار","date":"2026-10-07","realMoneyFlow":19000000}
 {"regNo":"fundbase:هیبرید","date":"2026-10-07","realMoneyFlow":233000000}
+{"regNo":"fundbase:هیوا","date":"2026-10-07","realMoneyFlow":0}
 {"regNo":"fundbase:وبازار","date":"2026-10-07","realMoneyFlow":16000000}
+{"regNo":"fundbase:ولتاژ","date":"2026-10-07","realMoneyFlow":-6000000}
 {"regNo":"fundbase:یاس","date":"2026-10-07","realMoneyFlow":73000000}
 {"regNo":"fundbase:آرام","date":"2026-10-10","realMoneyFlow":142000000}
 {"regNo":"fundbase:آرامش","date":"2026-10-10","realMoneyFlow":-51000000}
@@ -35887,13 +36073,17 @@
 {"regNo":"fundbase:نمک","date":"2026-10-10","realMoneyFlow":7000000}
 {"regNo":"fundbase:نهال","date":"2026-10-10","realMoneyFlow":-47000000}
 {"regNo":"fundbase:نیروانا","date":"2026-10-10","realMoneyFlow":-43000000}
-{"regNo":"fundbase:هم تراز","date":"2026-10-10","realMoneyFlow":85000000}
+{"regNo":"fundbase:نیلی","date":"2026-10-10","realMoneyFlow":-31000000}
+{"regNo":"fundbase:هم تراز","date":"2026-10-10","realMoneyFlow":84000000}
 {"regNo":"fundbase:هم وزن","date":"2026-10-10","realMoneyFlow":9000000}
 {"regNo":"fundbase:همسنگ","date":"2026-10-10","realMoneyFlow":306000000}
+{"regNo":"fundbase:همیان","date":"2026-10-10","realMoneyFlow":-21000000}
 {"regNo":"fundbase:هوشمند","date":"2026-10-10","realMoneyFlow":-4000000}
 {"regNo":"fundbase:هوشیار","date":"2026-10-10","realMoneyFlow":34000000}
 {"regNo":"fundbase:هیبرید","date":"2026-10-10","realMoneyFlow":137000000}
+{"regNo":"fundbase:هیوا","date":"2026-10-10","realMoneyFlow":-2000000}
 {"regNo":"fundbase:وبازار","date":"2026-10-10","realMoneyFlow":-2000000}
+{"regNo":"fundbase:ولتاژ","date":"2026-10-10","realMoneyFlow":-23000000}
 {"regNo":"fundbase:یاس","date":"2026-10-10","realMoneyFlow":77000000}
 {"regNo":"fundbase:آرام","date":"2026-10-11","realMoneyFlow":-210000000}
 {"regNo":"fundbase:آرامش","date":"2026-10-11","realMoneyFlow":97000000}
@@ -36036,6 +36226,17 @@
 {"regNo":"fundbase:نمک","date":"2026-10-11","realMoneyFlow":-89000000}
 {"regNo":"fundbase:نهال","date":"2026-10-11","realMoneyFlow":-7000000}
 {"regNo":"fundbase:نیروانا","date":"2026-10-11","realMoneyFlow":-6000000}
+{"regNo":"fundbase:نیلی","date":"2026-10-11","realMoneyFlow":57000000}
+{"regNo":"fundbase:هم تراز","date":"2026-10-11","realMoneyFlow":-100000000}
+{"regNo":"fundbase:هم وزن","date":"2026-10-11","realMoneyFlow":-112000000}
+{"regNo":"fundbase:همسنگ","date":"2026-10-11","realMoneyFlow":58000000}
+{"regNo":"fundbase:همیان","date":"2026-10-11","realMoneyFlow":-3000000}
+{"regNo":"fundbase:هوشمند","date":"2026-10-11","realMoneyFlow":1000000}
+{"regNo":"fundbase:هیبرید","date":"2026-10-11","realMoneyFlow":131000000}
+{"regNo":"fundbase:هیوا","date":"2026-10-11","realMoneyFlow":0}
+{"regNo":"fundbase:وبازار","date":"2026-10-11","realMoneyFlow":-9000000}
+{"regNo":"fundbase:ولتاژ","date":"2026-10-11","realMoneyFlow":-12000000}
+{"regNo":"fundbase:یاس","date":"2026-10-11","realMoneyFlow":16000000}
 {"regNo":"fundbase:آرام","date":"2026-10-12","realMoneyFlow":-34000000}
 {"regNo":"fundbase:آرامش","date":"2026-10-12","realMoneyFlow":83000000}
 {"regNo":"fundbase:آسام","date":"2026-10-12","realMoneyFlow":-5000000}
@@ -36104,3 +36305,29 @@
 {"regNo":"fundbase:سیمان","date":"2026-10-12","realMoneyFlow":1309000000}
 {"regNo":"fundbase:سیمانو","date":"2026-10-12","realMoneyFlow":849000000}
 {"regNo":"fundbase:شتاب","date":"2026-10-12","realMoneyFlow":26000000}
+{"regNo":"fundbase:نگین فارس","date":"2026-10-12","realMoneyFlow":-48000000}
+{"regNo":"fundbase:نهال","date":"2026-10-12","realMoneyFlow":-1000000}
+{"regNo":"fundbase:نیلی","date":"2026-10-12","realMoneyFlow":12000000}
+{"regNo":"fundbase:هم تراز","date":"2026-10-12","realMoneyFlow":-78000000}
+{"regNo":"fundbase:هم وزن","date":"2026-10-12","realMoneyFlow":-311000000}
+{"regNo":"fundbase:همسنگ","date":"2026-10-12","realMoneyFlow":-174000000}
+{"regNo":"fundbase:همیان","date":"2026-10-12","realMoneyFlow":12000000}
+{"regNo":"fundbase:هوشمند","date":"2026-10-12","realMoneyFlow":23000000}
+{"regNo":"fundbase:هیبرید","date":"2026-10-12","realMoneyFlow":447000000}
+{"regNo":"fundbase:هیوا","date":"2026-10-12","realMoneyFlow":0}
+{"regNo":"fundbase:وبازار","date":"2026-10-12","realMoneyFlow":-8000000}
+{"regNo":"fundbase:ولتاژ","date":"2026-10-12","realMoneyFlow":-11000000}
+{"regNo":"fundbase:یاس","date":"2026-10-12","realMoneyFlow":13000000}
+{"regNo":"fundbase:نگین فارس","date":"2026-10-13","realMoneyFlow":-76000000}
+{"regNo":"fundbase:نهال","date":"2026-10-13","realMoneyFlow":-69000000}
+{"regNo":"fundbase:نیلی","date":"2026-10-13","realMoneyFlow":77000000}
+{"regNo":"fundbase:هم تراز","date":"2026-10-13","realMoneyFlow":-21000000}
+{"regNo":"fundbase:هم وزن","date":"2026-10-13","realMoneyFlow":-31000000}
+{"regNo":"fundbase:همسنگ","date":"2026-10-13","realMoneyFlow":353000000}
+{"regNo":"fundbase:همیان","date":"2026-10-13","realMoneyFlow":12000000}
+{"regNo":"fundbase:هوشمند","date":"2026-10-13","realMoneyFlow":-7000000}
+{"regNo":"fundbase:هیبرید","date":"2026-10-13","realMoneyFlow":71000000}
+{"regNo":"fundbase:هیوا","date":"2026-10-13","realMoneyFlow":0}
+{"regNo":"fundbase:وبازار","date":"2026-10-13","realMoneyFlow":19000000}
+{"regNo":"fundbase:ولتاژ","date":"2026-10-13","realMoneyFlow":6000000}
+{"regNo":"fundbase:یاس","date":"2026-10-13","realMoneyFlow":78000000}
