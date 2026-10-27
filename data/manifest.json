@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-26T17:20:12.369Z",
+  "generatedAt": "2026-10-27T16:34:58.843Z",
   "rowCount": 338,
   "sourceStatus": {
     "fipiran": "degraded",
@@ -21,7 +21,7 @@
     }
   },
   "files": {
-    "funds-latest.json": "34edf2828ce00a50b34e2b60627a364bc0206deebce2200f0b7155a7e025eacd",
-    "funds-latest.csv": "11f11f67d8b9f46223f808aa5e8592bee47c0ce5f7c81fde9b3c7467d0cab864"
+    "funds-latest.json": "c40bd8cd31f06c1431da47eb5fa5cbb963d1b4b9292096496a507edb56fa8225",
+    "funds-latest.csv": "9d5037d13e93c3fff5ffc8f781fd3c897bbe6946d5b029ef567212e4e0e654d9"
   }
 }
